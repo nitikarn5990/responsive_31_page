@@ -98,31 +98,45 @@ and open the template in the editor.
                             </div>
                         </div>
                         <div class="col-xs-12">
-                            <div class="bg3-body-sentance-2" style="">
-                                <div style="" class="col-xs-1 bg3-body-sentance-2_1">  1  </div>
-                                <div style="" class="col-xs-11 bg3-body-sentance-2_2"> 
+                            <div class="bg3-body-sentance-2 hidden-xs hidden-sm">
+                                <div style="" class="bg3-body-sentance-2_1">  1  </div>
+                                <div style="" class="bg3-body-sentance-2_2"> 
                                     Support healthy Matrix <br class="hidden-xs">
                                     Metalloproteinases Activity
                                 </div>
                             </div>
+                            <div class="col-xs-2 col-sm-1 bg3-body-sentance-2_1 hidden-lg hidden-md" style="text-align: right;">1</div>
+                            <div class="col-xs-10 col-sm-11 bg3-body-sentance-2_2 hidden-lg hidden-md"> Support healthy Matrix <br class="hidden-xs">
+                                Metalloproteinases Activity
+                            </div>
                         </div>
                         <div class="col-xs-12">
-                            <div class="" style="float: right;margin: 7px 40px 0 0; ">
-
-                                <ul id="myList" style="list-style-type: disc; color: #FFF;font-family: Arial;font-size: 12px;">
+                            <div class="bg3-body-sentance-2_3 hidden-sm hidden-xs">
+                                <ul class="bg3-body-sentance-2_3-1">
                                     <li>Reduce wrinkles and sagging by enhancing the metabolic <br>activity of skin cells and proteins</li>
                                     <li>Maintain the integrity of the skin and other tissues</li>
                                 </ul>
                             </div>
+                            <div class="col-xs-11 col-xs-offset-1  hidden-lg hidden-md">
+                                <ul class="bg3-body-sentance-2_3-1" style="font-size: 12px;">
+                                    <li>Reduce wrinkles and sagging by enhancing the metabolic activity of skin cells and proteins</li>
+                                    <li>Maintain the integrity of the skin and other tissues</li>
+                                </ul>
+                            </div>
+
                         </div>
                         <div class="col-xs-12">
-                            <div class="bg3-body-sentance-2" style="float: right; margin: -10px 195px 0 0; font-family: Century Gothic;">
-
-                                <ul id="myList" style="list-style: none;  color: #FFF;">
+                            <div class="bg3-body-sentance-3 hidden-xs hidden-sm">
+                                <ul style="list-style: none;  color: #FFF;">
                                     <li><span style="font-size: 29px;"><strong>2</strong></span><span style="font-size: 18px;"><strong> &nbsp;&nbsp;Restore glowing skin </strong></span></li>
 
                                 </ul>
                             </div>
+                            <div class="col-xs-2 col-sm-1 bg3-body-sentance-3 hidden-lg hidden-md" style="font-size: 29px;text-align: right;"><strong>2</strong></div>
+                            <div class="col-xs-10 col-sm-11 bg3-body-sentance-3 hidden-lg hidden-md" style="font-size: 18px;"> 
+                                <strong> Restore glowing skin </strong>
+                            </div>
+
                         </div>
                         <div class="col-xs-12">
                             <div class="bg3-body-sentance-2" style="float: right; margin: -10px 112px  0 0; font-family: Century Gothic;">
@@ -277,10 +291,16 @@ and open the template in the editor.
                 color:#000;
                 margin: inherit
             }
-            
-            
-            
-            
+            .bg3-body-sentance-2_1{
+                font-family: Century Gothic;font-size: 29px;color: #000;font-weight: bold;
+            }
+            .bg3-body-sentance-2_2{
+                font-family: Century Gothic;font-size: 18px;color: #000;font-weight: bold;
+            }
+
+
+
+
             /*            sm size*/
             @media(min-width:768px){
 
@@ -370,7 +390,16 @@ and open the template in the editor.
                 .bg3-body-sentance-2_2{
                     font-family: Century Gothic;font-size: 18px;color: #FFF;font-weight: bold;float: right;
                 }
-           
+                .bg3-body-sentance-2_3{
+                    float: right;margin: 7px 40px 0 0;
+                }
+                .bg3-body-sentance-2_3-1{
+                    list-style-type: disc; color: #FFF;font-family: Arial;font-size: 12px;
+                }
+                .bg3-body-sentance-3{
+                    float: right; margin: -10px 195px 0 0; font-family: Century Gothic;
+                }
+
             }
         </style>
 
