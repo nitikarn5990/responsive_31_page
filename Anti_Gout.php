@@ -30,7 +30,7 @@ and open the template in the editor.
                                 </div>
                             </div>
 
-                            <div class="col-xs-11 col-xs-offset-1 col-md-12 col-md-offset-0" >
+                            <div class="col-xs-12" >
                                 <div class="bg1-body-sentance-1 line-height-xs-24" style="text-shadow: 2px 0px 1px rgba(150, 150, 150, 1);">
                                     <p style="font-family: times new roman;font-style: italic;" class="text-center-xs">
                                         <span style="font-size: 26px;"> <span class="font-xs-22 font-bold-xs"> Enhanced </span></span>
@@ -83,13 +83,13 @@ and open the template in the editor.
                                     </span>
                                 </div>
                                 <br>
-                                <div style="font-family: Century Gothic; font-size: 25px;color: #000; line-height: 25px;" class="bg2-head-sentance-2">
+                                <div style="font-family: Century Gothic; font-size: 25px;color: #000; line-height: 25px;" class="bg2-head-sentance-2 text-center-xs">
                                     <span class="font-xs-20">  Fantastic preventative treatment <br class="hidden-sm hidden-xs">
                                         for those who have early indications <br class="hidden-sm hidden-xs">
                                         of onset or hereditary tendencies.</span>
                                 </div>
                                 <br> 
-                                <div style="font-family: Arial; font-size: 12px;color: #000;line-height: 19px;text-align: left;" class="bg2-head-sentance-3"> 
+                                <div style="font-family: Arial; font-size: 12px;color: #000;line-height: 19px;text-align: left;" class="bg2-head-sentance-3 text-indent-xs"> 
                                     Filorga BRM's fully research and developed in France are organ- specific extracts with the most advance cellular extraction <br class="hidden-sm hidden-xs">
                                     technology that contain specific organs or tissues from animal fetal cells (in our case from Ovine) and is sterilized by micro <br class="hidden-sm hidden-xs">
                                     filtration.Micro-filtration is a filtration process which removes contaminants from a fluid (liquid & gas) by passage through a <br class="hidden-sm hidden-xs">
@@ -109,11 +109,11 @@ and open the template in the editor.
                 <div class="bg3">
                     <div class="row ">
                         <div class="col-xs-12">
-                            <div class="bg3-head-sentance-1 line-height-xs-28">
-                                <span style="font-family: times new roman;font-size: 34px;color: #000;font-style: italic;">
-                                    <span class="color-black-xs font-xs-28"> 
+                            <div class="bg3-head-sentance-1 line-height-xs-28 text-center-xs">
+                                <span style="font-family: Century Schoolbook;font-size: 36px;color: #000;">
+                                    <span class="color-black-xs font-xs-28 "> 
 
-                                        Filorga A Series for Anti-Diabetes
+                                        All in one set:
                                     </span>
                                 </span>
                             </div>
@@ -123,10 +123,17 @@ and open the template in the editor.
 
                                     <br class="hidden-xs hidden-sm">
                                     <span class="color-black-xs">
-                                        Filorga Anti Diabetes is grouped in Filorga A Series which is formulated stem cells extracted <br class="hidden-sm hidden-xs">
-                                        from several types of specific organ cells. It combines with existing Filorga BRM (Biological Raw Material) <br class="hidden-sm hidden-xs">
-                                        which is an organ specific cellular extracts from stem cells obtaining from embryos through a proprietary <br class="hidden-sm hidden-xs">
-                                        extraction process of low molecular mass.
+
+                                        Filorga A Series Anti-Gout comes in Set consisting of  <br class="">
+                                        <span style="font-family: Century Gothic;font-size: 18px;"> three different organ specific embryonic cell extracts; <br class="">
+                                            Liver<br class="">
+                                            Pancreas <br class="">
+                                            and Stomach <br class="">
+                                        </span>
+                                        which can make Gout symptoms occur if some of them are malfunction.<br class=""><br class="">
+
+                                        Filorga Anti-Gout is grouped in Filorga A Series which is formulated <br class="">
+                                        stem cells extracted from several types of specific organ cells.
                                     </span>
                                 </span>
 
@@ -138,159 +145,49 @@ and open the template in the editor.
                         <p class="hidden-lg hidden-md">&nbsp;</p>
                         <div class="col-xs-12">
                             <div class="bg3-body-sentance-2 line-height-xs-28">
-                                <div style="font-family: Century Schoolbook;font-size: 36px;text-align: center;"> 
-                                    <p class="font-xs-28" style=" margin: 0px 0 12px 0;">Types of Diabetes </p>
-                                    <p style="font-family: Arial;font-size: 12px;text-align: center;margin: 0px 0 15px 0;" >Diabetes is divided into two main types: Type 1 and Type 2</p>
+                                <div style="font-family: Century Gothic;font-size: 36px;text-align: center;color: #FFF;"> 
+                                    <p class="font-xs-28 color-black-xs" style=" margin: 0px 0 12px 0;">Filorga A Series <br class="hidden-sm hidden-xs">
+                                        & Anti-Gout </p>
                                 </div>
                             </div>
                         </div>
-                      
+
                         <div class="col-xs-12">
                             <div class="bg3-body-sentance-3">
-                                <div style="font-family: Century Gothic;font-size: 30px;"> 
-                                    Diabetes   <span style="font-family:times new roman;font-size: 34px;"><i> Type 1</i></span>
+                                <div style="font-family: Century Gothic;font-size: 30px;color: #FFF;" class="text-center-xs"> 
+                                    <span class="color-black-xs" style="font-family:times new roman;font-size: 34px;"><i>Effective treatment:</i></span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xs-12">
                             <div class="bg3-body-sentance-4">
-                                <div style="font-family: Arial;font-size: 12px;" class="text-indent-xs"> 
-                                    Diabetes type 1 is previously called insulin- independent  <br class="hidden-sm hidden-xs">
-                                    diabetes mellitus (IDDM) or juvenile-onset diabetes. It <br class="hidden-sm hidden-xs">
-                                    results from autoimmune destruction of the insulin- <br class="hidden-sm hidden-xs">
-                                    producing beta cells in pancreas. The pancreas stops <br class="hidden-sm hidden-xs">
-                                    making insulin. So the insufficient insulin brings about <br class="hidden-sm hidden-xs">
-                                    the high amounts of glucose in blood.
-                                </div>
-                            </div>
-                            <br class="hidden-lg hidden-md">
-                            <div class="bg3-body-sentance-5">
-                                <div style="font-family: Century Gothic;font-size: 12px;"> 
+                                <div style="font-family: Arial;font-size: 12px;color: #FFF;" class="text-indent-xs line-height-xs-20"> 
+                                    <span class="color-black-xs">
+                                        As we know that cells are the smallest unit  <br class="hidden-sm hidden-xs">
+                                        in the body. When they are affected by any  <br class="hidden-sm hidden-xs">
+                                        kind of diseases, it probably results in the  <br class="hidden-sm hidden-xs">
+                                        whole body’s function. So get the stem cell  <br class="hidden-sm hidden-xs">
+                                        treatment is the BEST to kill ailment and  <br class="hidden-sm hidden-xs">
+                                        strengthen the cells. <br class="hidden-sm hidden-xs"> <br class="hidden-sm hidden-xs">
 
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xs-12">
-                            <div class="bg3-body-sentance-6">
-                                <div style="font-family: Century Gothic;font-size: 30px;"> 
-                                    Diabetes   <span style="font-family:times new roman;font-size: 34px;"><i> Type 2</i></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12">
-                            <div class="bg3-body-sentance-7">
-                                <div style="font-family: Arial;font-size: 12px;"  class="text-indent-xs"> 
-                                    Diabetes type 2 is formerly known as noninsulin  <br class="hidden-sm hidden-xs">
-                                    dependent diabetes mellitus (NDDM) or adult-onset  <br class="hidden-sm hidden-xs">
-                                    diabetes. It results from beta cells in pancreas  <br class="hidden-sm hidden-xs">
-                                    cannot secrete enough insulin for being used to  <br class="hidden-sm hidden-xs">
-                                    absorb glucose into the body. This malfunction  <br class="hidden-sm hidden-xs">
-                                    is called insulin resistance. As a result, the level  <br class="hidden-sm hidden-xs">
-                                    of glucose in the blood is too high. In addition,  <br class="hidden-sm hidden-xs">
-                                    diabetes type 2 may occur because the body  <br class="hidden-sm hidden-xs">
-                                    improperly uses insulin as well.
-                                </div>
-                            </div>
-                            <br class="hidden-lg hidden-md">
-                            <div class="bg3-body-sentance-5">
-                                <div style="font-family: Century Gothic;font-size: 12px;"> 
-
-                                </div>
-                            </div>
-                        </div>
-                        <p class="hidden-lg hidden-md">&nbsp;</p>
-                        <div class="col-xs-12">
-                            <div class="bg3-body-sentance-8  text-center-xs border-xs">
-                                <div style="font-family: Century Gothic;font-size: 30px;" class="line-height-xs-28"> 
-                                    <span class="font-xs-24">  Would you like <br>
-                                    to succeed in  <br>
-                                  </span>
-                                    
-                                    <span style="font-family: Century Schoolbook;font-size: 45px;"> 
-                                             <span class="font-xs-28 font-bold-xs">  keeping away  <br>
-                                        from diabetes?
-                                             </span>
+                                        Since Filorga A Series Anti-Gout is stem cell  <br class="hidden-sm hidden-xs">
+                                        extracts which have efficient potential to  <br class="hidden-sm hidden-xs">
+                                        replace or eliminate the cell damaged by  <br class="hidden-sm hidden-xs">
+                                        Gout symptoms. That’s why it can effectively  <br class="hidden-sm hidden-xs">
+                                        ease Gout symptoms.
                                     </span>
                                 </div>
                             </div>
+
+
                         </div>
 
 
-                        <p class="hidden-lg hidden-md">&nbsp;</p>
-                        <div class="col-xs-12">
-                            <div class="bg3-body-sentance-9 text-center-xs">
-                                <div style="font-family: Century Gothic;font-size: 18px;"> 
-                                    <span style="font-family: Century Schoolbook;font-size: 36px;"> If YES,</span> 
-                                    please give a chance to <br>
-                                    <span style="font-family: Century Schoolbook;font-size: 22px;"> 
-                                        Filorga A Series Anti-Diabetes  
-                                    </span><br>
-                                    for being your effective assistant  <br>
-                                    along with your daily exercises.
-                                </div>
-                            </div>
-                        </div>
-                        <p class="hidden-lg hidden-md">&nbsp;</p>
-                        <div class="col-xs-12 bg_color_2-xs">
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <div class="bg3-body-sentance-10">
-                                <div style="font-family: Arial;font-size: 12px;"> 
-                                    Filorga Anti-Diabetes is embryonic stem cell extracts <br>
-                                    which has a great potential to  <br>
-                                    <span style="font-family: Century Gothic;font-size: 20px;">  
-                                        <strong>  cure the smallest unit  <br>
-                                        of the body.  <br> <br>
-                                        </strong>
-                                    </span>
-
-                                    Stem cell extract will  <br>
-                                    <span style="font-family: Century Gothic;font-size: 20px;">   
-                                          <strong> replace your cells  <br>
-                                        damaged by diabetes.  <br> <br>
-                                          </strong>
-                                    </span>
-
-                                    As a result, your body gets the  <br>
-                                    <span style="font-family: Century Gothic;font-size: 20px;">   
-                                        <strong> new healthier cells </strong> </span><br>
-                                    so that they can function better.
-                                </div>
-                            </div>
-                            <br class="hidden-lg hidden-md">
-                            <div class="bg3-body-sentance-11">
-                                <div style="font-family: Arial;font-size: 12px;"> 
-                                    Filorga stem cells are extracted from several types <br>
-                                    of specific organ cells. So you have many options  <br>
-                                    for choose which one is the most suitable for your  <br>
-                                    diseases. <br> <br>
-
-                                    For Filorga Anti-Diabetes set is composed of  <br>
-                                    <span style="font-family: Century Gothic;font-size: 20px;">   
-                                          <strong> Filorga Pancreas,  <br>
-                                        Liver,  <br>
-                                        Intestine
-                                          </strong><br> 
-                                    </span>
-                                    which all have properties to  <br>
-                                    <span style="font-family: Century Gothic;font-size: 20px;">   
-                                        <strong>   EASE diabetes symptoms  
-                                        </strong>
-                                    </span><br>
-                                    together with  <br>
-                                    <span style="font-family: Century Gothic;font-size: 20px;">   
-                                        <strong> PREVENT you from the disease.</strong>
-                                    </span>
-                                </div>
-                            </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
-                        </div>
-                     
                     </div>
-                
-                </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
 
+                </div>
+
+                <p class="hidden-lg hidden-md">&nbsp;</p>
                 <div class="bg6">
                     <div class="row">
                         <div class="col-xs-12">
@@ -353,9 +250,9 @@ and open the template in the editor.
                                 <p>
                                     <br class="hidden-sm hidden-xs">
                                 <div class="text-indent-xs" style="font-family:Arial; font-size: 12px;color: #000;"> 
-                                        FILORGA BRM have a shelf-life of 4 years, if kept in a refrigerator at optimum <br class="hidden-xs hidden-sm">
-                                        temperature from +2°C to +10°C (not frozen) and fully protected from direct sunlight.
-                                    </div>
+                                    FILORGA BRM have a shelf-life of 4 years, if kept in a refrigerator at optimum <br class="hidden-xs hidden-sm">
+                                    temperature from +2°C to +10°C (not frozen) and fully protected from direct sunlight.
+                                </div>
                                 </p>
                             </div>
                             <div class="bg6-body-sentance-9">
@@ -2554,7 +2451,7 @@ and open the template in the editor.
 
 
                 .bg1{
-                    background-image: url(images/Filorga_a_series/Anti_Diabetes/bg1.jpg);
+                    background-image: url(images/Filorga_a_series/Anti_Gout/bg1.jpg);
                     width: 800px;
                     height: 467px;
                 }
@@ -2582,7 +2479,7 @@ and open the template in the editor.
                 }
                 .bg1-body-sentance-3{
                     line-height: 24px;
-                    margin: 18px 0 0 392px;
+                    margin: 21px 0 0 392px;
                     color: #000;
 
                 }
@@ -2593,7 +2490,7 @@ and open the template in the editor.
 
 
                 .bg2{
-                    background-image: url(images/Filorga_a_series/7_types/bg2.jpg);
+                    background-image: url(images/Filorga_a_series/Anti_Gout/bg2.jpg);
                     width: 800px;
                     height: 506px;
                 }
@@ -2616,10 +2513,10 @@ and open the template in the editor.
                 }
 
                 .bg3{
-                    background-image: url(images/Filorga_a_series/Anti_Diabetes/bg3.jpg);
+                    background-image: url(images/Filorga_a_series/Anti_Gout/bg3.jpg);
                     background-repeat: no-repeat;
                     width: 800px;
-                    height: 2412px;
+                    height: 926px;
                 }
 
                 .bg3-head-sentance-1{
@@ -2630,23 +2527,22 @@ and open the template in the editor.
 
                 }
                 .bg3-body-sentance-1{
-
-                    margin: 10px 0 0 0;
-                    line-height: 18px;
+                    margin: -9px 0 0 0;
+                    line-height: 23px;
                 }
 
                 .bg3-body-sentance-2{
 
-                    margin: 110px 401px 0 0;
+                    margin: 103px 484px 0 0;
                 }
                 .bg3-body-sentance-3{
 
-                    margin: 34px 0 0 74px;
+                    margin: 18px 0 0 30px;
                 } 
                 .bg3-body-sentance-4{
-                    margin: 34px 0 0 58px;
+                    margin: 18px 0 0 42px;
                     float: left;
-                    line-height: 21px;
+                    line-height: 20px;
                     letter-spacing: -0.2px;
                 }
                 .bg3-body-sentance-5{
@@ -2777,7 +2673,7 @@ and open the template in the editor.
 
 
                 .bg4{
-                    background-image: url(images/filorga_4-in-1/bg4.jpg);
+                    background-image: url(images/Filorga_a_series/Anti_Gout/bg4.jpg);
                     background-repeat: no-repeat;
                     width: 739px;
                     height: 392px;
