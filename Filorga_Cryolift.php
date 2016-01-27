@@ -38,7 +38,7 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+                <p class="hidden-md hidden-lg hidden-sm hidden-xs">&nbsp;</p>
                 <div class="bg2">
                     <div class="row">
                         <div class="col-xs-12">
@@ -67,7 +67,7 @@ and open the template in the editor.
                                     </span>
                                 </span>
                             </div>
-                            <div class="bg3-body-sentance-1">
+                            <div class="bg3-body-sentance-1 text-indent-xs">
                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                     Cryolift III combines cryotherpy and light therapy technologies on <br class="hidden-sm hidden-xs">
                                     same machine for better overall comfort. It is a non invasive treatment <br class="hidden-sm hidden-xs">
@@ -297,21 +297,21 @@ and open the template in the editor.
                                     <span style="font-size: 18px;color: #FFF;">
                                         <span class="color-black-xs"> 1. Localisation of the zone to treat </span><br> 
                                     </span>  
-                                    <span class="color-black-xs">Use Cryolift on skin filled with Filorga Fluids so as to <br class="hidden-sm hidden-xs"> 
+                                    <span class="color-black-xs"><span class="hidden-lg hidden-md">&nbsp;&nbsp;&nbsp;&nbsp;</span>Use Cryolift on skin filled with Filorga Fluids so as to <br class="hidden-sm hidden-xs"> 
                                         create dermocyophoresis of active ingredients and <br class="hidden-sm hidden-xs"> 
                                         the stimulation of micro circulation by vasomotricity.<br class="hidden-sm hidden-xs"> 
-                                        <span style="font-size: 18px;color: #FFF;">  <br>
+                                        <span style="font-size: 18px;" class="color-black-xs">  <br>
                                             2. Horizontal application of the cryoprobe <br >
                                         </span>
-                                        Start with the top of the face and exert brushing <br class="hidden-sm hidden-xs"> 
+                                        <span class="hidden-lg hidden-md">&nbsp;&nbsp;&nbsp;&nbsp;</span>Start with the top of the face and exert brushing <br class="hidden-sm hidden-xs"> 
                                         movements from the median line towards the sides. <br class="hidden-sm hidden-xs"> 
                                         Continue at the level of middle tier, lower tier,neck <br class="hidden-sm hidden-xs"> 
                                         and neckline.<br class="hidden-sm hidden-xs">  <br>
-                                        <span style="font-size: 18px;color: #FFF;">
+                                        <span style="font-size: 18px;" class="color-black-xs">
                                             3. Sweeping cryoplasty On the maxillary, <br>
                                         </span>
                                         <br class="hidden-sm hidden-xs"> 
-                                        exert upward circular movements in order 
+                                        <span class="hidden-lg hidden-md">&nbsp;&nbsp;&nbsp;&nbsp;</span>exert upward circular movements in order 
                                         to remoel the oval of the face, by <br class="hidden-sm hidden-xs"> 
                                         activating dermo cryostimulation.
                                     </span>
@@ -324,16 +324,16 @@ and open the template in the editor.
                                 </span>
 
                                 <span style="font-family:  Arial; font-size: 12px;color: #000;">
-                                    APPARATUS PART <br>
-                                    AC Input: 120 - 230 Volts / 50 - 60 Hz <br>
-                                    Absorbed energy: 35 W <br>
-                                    Control management: by microprocessor <br>
-                                    Display: GRAPHIC LCD retro-lighting <br>
-                                    Control: by key <br>
-                                    Dimensions: 23 x 23 x 17 cms <br>
-                                    Total Weight: 1,540 Kg <br>
-                                    Temperature of use: + 10 to + 40°C <br>
-                                    Safety: Classe 1 type BT (NF standard EN 60335-1)
+                                    <span class="hidden-lg hidden-md">- </span>APPARATUS PART <br>
+                                    <span class="hidden-lg hidden-md">- </span>AC Input: 120 - 230 Volts / 50 - 60 Hz <br>
+                                    <span class="hidden-lg hidden-md">- </span>Absorbed energy: 35 W <br>
+                                    <span class="hidden-lg hidden-md">- </span>Control management: by microprocessor <br>
+                                    <span class="hidden-lg hidden-md">- </span>Display: GRAPHIC LCD retro-lighting <br>
+                                    <span class="hidden-lg hidden-md">- </span>Control: by key <br>
+                                    <span class="hidden-lg hidden-md">- </span>Dimensions: 23 x 23 x 17 cms <br>
+                                    <span class="hidden-lg hidden-md">- </span>Total Weight: 1,540 Kg <br>
+                                    <span class="hidden-lg hidden-md">- </span>Temperature of use: + 10 to + 40°C <br>
+                                    <span class="hidden-lg hidden-md">- </span>Safety: Classe 1 type BT (NF standard EN 60335-1)
                                 </span>
 
 
@@ -345,16 +345,16 @@ and open the template in the editor.
                                 </span>
                                 <span style="font-family:  Arial; font-size: 12px;color: #000;">
 
-                                    AC Input: 12 Volts<br>
-                                    Absorbed energy: 12 W<br>
-                                    Control management: by microprocessor<br>
-                                    Control: by key<br>
-                                    Cold application process: by contact<br>
-                                    Nature of cold: Peltier effect module<br>
-                                    Active contact surface: 0,5 cm² et 5 cm²<br>
-                                    Temperature Variation: temperature delta of -18°C<br>
-                                    Adjustement: 1°C increments<br>
-                                    Contact Temperature: - 5°C under minimal conditions of use<br>
+                                    <span class="hidden-lg hidden-md">- </span>AC Input: 12 Volts<br>
+                                    <span class="hidden-lg hidden-md">- </span>Absorbed energy: 12 W<br>
+                                    <span class="hidden-lg hidden-md">- </span>Control management: by microprocessor<br>
+                                    <span class="hidden-lg hidden-md">- </span>Control: by key<br>
+                                    <span class="hidden-lg hidden-md">- </span>Cold application process: by contact<br>
+                                    <span class="hidden-lg hidden-md">- </span>Nature of cold: Peltier effect module<br>
+                                    <span class="hidden-lg hidden-md">- </span>Active contact surface: 0,5 cm² et 5 cm²<br>
+                                    <span class="hidden-lg hidden-md">- </span>Temperature Variation: temperature delta of -18°C<br>
+                                    <span class="hidden-lg hidden-md">- </span>Adjustement: 1°C increments<br>
+                                    <span class="hidden-lg hidden-md">- </span>Contact Temperature: - 5°C under minimal conditions of use<br class="hidden-sm hidden-xs">
                                     Safety: In & Out temperature Sensors
                                 </span>
 
