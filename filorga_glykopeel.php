@@ -21,172 +21,211 @@ and open the template in the editor.
                 <div class="bg1">
                     <div class="row">
                         <div class="col-xs-12">
+                            <div class="hidden-sm hidden-xs">
+                                <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
+                                    <div style="font-family: Myriad Pro;font-size: 19px;color: #990033;    text-shadow: 1px -1px 8px rgb(255, 255, 255);letter-spacing: 1.4px;" class="uppercase"> 
+                                        <div class="">
+                                            <span style="color: #0e0e0e;">
+                                                REDUCe 
+                                            </span>
+                                            WRINKLEs  
 
-                            <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
-                                <div style="font-family: Century Schoolbook;font-size: 72px;color: #000;text-transform: uppercase;"> 
-                                    <div class="font-xs-34">Filorga  </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <br class="hidden-sm hidden-xs">
 
-                                <p class="bg1-head-sentance-2"> 
-                                    <span style="font-family: Century Gothic;font-size: 48px;color: #000;">
-                                        <span class="font-xs-26 uppercase letter-spacing-1px">  
-                                            X-HA Volume 
+                                <div class="bg1-head-sentance-2"> 
+                                    <span style="font-family: Myriad Pro;font-size: 19px;color: #990033;    text-shadow: 1px -1px 8px rgb(255, 255, 255);letter-spacing: 1.4px;">
+                                        <span class="uppercase ">  
+                                            <span style="color: #0e0e0e;"> IMPROVED</span> elasticity 
                                         </span>
                                     </span> 
-                                </p>
+                                </div>
 
                                 <div class="bg1-head-sentance-3">
-                                    <span style="font-family: Century Gothic;font-size: 24px;color: #000;">
-                                        <span class="font-xs-26"> HYALURONIC ACID</span>
-                                    </span>
-                                </div>
+                                    <span style="font-family: Myriad Pro;font-size: 19px;color: #990033;    text-shadow: 1px -1px 8px rgb(255, 255, 255);letter-spacing: 1.4px;">
+                                        <span class="font-xs-26 uppercase"> 
 
-                                <p class="hidden-lg hidden-md">&nbsp;</p>
-                                <div  class="bg1-head-sentance-4">
-                                    <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
-                                        72%
-                                    </span>
-                                </div>
-                                <div class="bg1-head-sentance-5">
-                                    <span style="font-family: times new roman;font-size: 22px;color: #0e0e0e;">
-                                        <i>  FINE LINE &WRINKLE <br>
-                                            REDUCTION
-                                        </i>
-                                    </span>    
-                                </div>
-                                <p class="hidden-lg hidden-md">&nbsp;</p>
+                                            <span style="color: #0e0e0e;"> Repaired</span>
+                                            hyper <br>
+                                            pigmentations
 
-                                <div  class="bg1-head-sentance-6">
-                                    <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
-                                        132%
+                                        </span>
                                     </span>
                                 </div>
-                                <div class="bg1-head-sentance-7">
-                                    <span style="font-family: times new roman;font-size: 22px;color: #0e0e0e;">
-                                        <i>IMPROVED OVERALL <br>
-                                            HYDRATION
-                                        </i>
-                                    </span>    
-                                </div>
-                                <p class="hidden-lg hidden-md">&nbsp;</p>
-
-                                <div  class="bg1-head-sentance-8">
-                                    <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
-                                        256%
-                                    </span>
-                                </div>
-                                <div class="bg1-head-sentance-9">
-                                    <span style="font-family: times new roman;font-size: 22px;color: #0e0e0e;" class="uppercase">
-                                        <i>
-                                            increased collagen <br>
-                                            SYNTHESIS
-                                        </i>
-                                    </span>    
-                                </div>
-                                <div class="hidden-lg hidden-md">
-                                    <span style="font-family: Arial; font-size: 12px;color: #0e0e0e; ">
-                                        Disclaimer: Results may vary between individuals.
-                                    </span>
-                                </div>
-
                             </div>
+
+                            <div  class="bg1-head-sentance-4">
+                                <div class="uppercase" style="font-family: Century Schoolbook;font-size: 82px;color: #0e0e0e;">
+                                    <div class="font-xs-36 text-center-xs"> Filorga </div>
+                                </div>
+                            </div>
+                            <div class="bg1-head-sentance-5">
+                                <div class="uppercase" style="font-family: Century Gothic;font-size: 55px;color: #fff;">
+                                    <div class="font-xs-30 color-black-xs text-center-xs">
+                                        Glykopeel
+                                    </div>
+                                </div>    
+                            </div>
+
+
+                            <div  class="bg1-head-sentance-6">
+                                <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
+
+                                </span>
+                            </div>
+
+                            <div class="bg1-head-sentance-7">
+                                <div style="font-family:Myriad Pro;font-size: 27px;color: #0e0e0e;">
+                                    <div class="font-xs-22 text-center-xs"> EXPERIENCE IT YOURSELF</div>
+                                </div>    
+                            </div>
+                            <br>
+                            <div class="hidden-md hidden-lg col-xs-11 col-xs-offset-1 col-md-12 col-md-offset-0 line-height-xs-30">
+                                <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
+                                    <div style="font-family: Myriad Pro;font-size: 19px;color: #990033;    text-shadow: 1px -1px 8px rgb(255, 255, 255);letter-spacing: 1.4px;" class="uppercase"> 
+                                        <div class="text-left-xs font-xs-18">
+                                            <span style="color: #0e0e0e;">
+                                                <img src="images/filorga_glykopeel/icon-plus.png" style="opacity: 0.8;">&nbsp;REDUCe 
+                                            </span>
+                                            WRINKLEs  
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <br class="hidden-sm hidden-xs">
+
+                                <div class="bg1-head-sentance-2 text-left-xs"> 
+                                    <span style="font-family: Myriad Pro;font-size: 19px;color: #990033;    text-shadow: 1px -1px 8px rgb(255, 255, 255);letter-spacing: 1.4px;">
+                                        <span class="uppercase  font-xs-18 font-bold-xs">  
+                                            <span style="color: #0e0e0e;"> <img src="images/filorga_glykopeel/icon-plus.png" style="opacity: 0.8;">&nbsp;IMPROVED</span> 
+                                            elasticity 
+                                        </span>
+                                    </span> 
+                                </div>
+
+                                <div class="bg1-head-sentance-3 text-left-xs">
+                                    <span style="font-family: Myriad Pro;font-size: 19px;color: #990033;    text-shadow: 1px -1px 8px rgb(255, 255, 255);letter-spacing: 1.4px;">
+                                        <span class="font-xs-18 font-bold-xs uppercase"> 
+
+                                            <span style="color: #0e0e0e;" > <img src="images/filorga_glykopeel/icon-plus.png" style="opacity: 0.8;">&nbsp;Repaired</span>
+                                            hyper <br>
+                                            pigmentations
+
+                                        </span>
+                                    </span>
+                                </div>
+                            </div>
+
 
                         </div>
 
                     </div>
-                </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <div class="bg2">
-                    <div class="row">
-
-                        <div class="col-xs-12">
-                            <div class="bg_color_1-xs">
-                                <div class="bg2-head-sentance-1 hidden-sm hidden-xs">
-
-                                    <span style="font-family: Arial; font-size: 12px;color: #0e0e0e; ">
-                                        Disclaimer: Results may vary between individuals.
-                                    </span>
-                                </div>
-                                <div class="bg2-body-sentance-1">
-                                    <span style="font-family: Century Gothic;font-size: 24px;color: #0e0e0e; line-height: 25px;" >
-                                        <span class="color-white-xs">  Filorga X-HA Volume is a new, highly effective <br class="hidden-sm hidden-xs">
-                                            dermal filler for treating fine lines and wrinkles. 
-                                        </span>
-
-                                    </span>
-                                </div>
-                                <br class="hidden-lg hidden-md">
-                                <div class="bg2-body-sentance-2 text-center-xs">
-                                    <span style="font-family: Arial;font-size: 12px;color: #0e0e0e; " class="" >
-                                        <span class="color-white-xs"> X-HA Volume contains hyaluronic acid which is a natural part of tissue repair in the body, <br class="hidden-sm hidden-xs">
-                                            making it ideal for providing a natural approach to anti-aging with long lasting results. <br class="hidden-sm hidden-xs">
-                                            This product provides an effective alternative to surgical procedures that often leave the patient bruised and swollen. 
-                                        </span>
-                                    </span>
-                                </div>
-
-
-
-                            </div>
-                        </div>
-                    </div>
 
                 </div>
+
                 <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg3">
-                    <div class="bg_color_3-xs">
+                    <div class="bg_color_1-xs">
                         <div class="row ">
 
                             <div class="col-xs-12">
                                 <div class="bg3-head-sentance-1 text-center-xs">
-                                    <span style="font-family:Century Gothic;font-size: 26px;color: #000;">
-                                        <span class="color-black-xs font-xs-24 "> 
+                                    <span style="font-family: Century Schoolbook; font-size: 36px;color: #000;">
+                                        <span class="color-white-xs font-xs-26 font-italic-xs"> Filorga Glykopeel </span><br>
 
-                                            Through a minimally  <br>
-                                            invasive application of <br>
-                                            X-HA Volume, you can <br>
-                                            restore volume to:
-                                        </span>
+                                    </span>
+                                    <span style="font-family: Century Gothic;font-size: 24px;color: #000;" >
+                                        <span class="color-white-xs font-italic-xs"> is proven to effectively treat:</span>
                                     </span>
                                 </div>
                                 <br class="hidden-lg hidden-md">
 
-                                <div class="bg3-body-sentance-1 text-center-xs">
+                                <div class="bg3-body-sentance-1 text-left-xs">
                                     <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
                                         <span class="color-black-xs">
-                                            <i>       <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span>  <span class="font-xs-18">Face ovale</span></span></i>
+                                            <i>       <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> <span class="color-white-xs"> • </span></span>  <span class="font-xs-18 color-white-xs">Wrinkles</span></span></i>
+                                    </span>
+                                    </span>
+                                </div>
+                                <div class="bg3-body-sentance-2 text-left-xs">
+                                    <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
+                                        <span class="color-black-xs">
+                                            <i><span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> <span class="color-white-xs">•</span> </span> <span class="font-xs-18 color-white-xs">Hyper <br class="hidden-sm hidden-xs">Pigmentation</span></i>
                                         </span>
                                     </span>
                                 </div>
-                                <div class="bg3-body-sentance-2 text-center-xs">
+                                <div class="bg3-body-sentance-3 text-left-xs">
                                     <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
                                         <span class="color-black-xs">
-                                            <i>      <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span> <span class="font-xs-18">Cheekbones</span></i>
+                                            <i>      
+                                                <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> 
+                                                    <span class="color-white-xs"> • </span>
+                                                </span> 
+                                                <span class="font-xs-18 color-white-xs">
+                                                    Loss of <br class="hidden-sm hidden-xs">
+                                                    Suppleness
+                                                </span></i>
                                         </span>
                                     </span>
                                 </div>
-                                <div class="bg3-body-sentance-3 text-center-xs">
+                                <div class="bg3-body-sentance-4 text-left-xs">
                                     <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
                                         <span class="color-black-xs">
-                                            <i>      <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span> <span class="font-xs-18">Cheeks</span></i>
+                                            <i>      
+                                                <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md">  <span class="color-white-xs">• </span></span> 
+                                                <span class="font-xs-18 color-white-xs">
+                                                    Microcystic <br class="hidden-sm hidden-xs">
+                                                    Acne
+                                                </span>
+                                            </i>
                                         </span>
                                     </span>
                                 </div>
-                                <div class="bg3-body-sentance-4 text-center-xs">
+                                <div class="bg3-body-sentance-5 text-left-xs">
                                     <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
                                         <span class="color-black-xs">
-                                            <i>      <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span> <span class="font-xs-18">Chin</span></i>
+                                            <i>       <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> <span class="color-white-xs"> • </span></span> <span class="font-xs-18 color-white-xs">Dull <br class="hidden-sm hidden-xs"> Complexions</span></i>
                                         </span>
                                     </span>
                                 </div>
-                                <div class="bg3-body-sentance-5 text-center-xs">
+                                <div class="bg3-body-sentance-6 text-left-xs">
                                     <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
                                         <span class="color-black-xs">
-                                            <i>       <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span> <span class="font-xs-18">Temporal areas</span></i>
+                                            <i>       
+                                                <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> <span class="color-white-xs"> • </span></span> 
+                                                <span class="font-xs-18 color-white-xs">
+                                                    Other <br class="hidden-sm hidden-xs">
+                                                    Blemishes
+                                                </span>
+                                            </i>
                                         </span>
                                     </span>
                                 </div>
+                                <p class="hidden-lg hidden-md">&nbsp;</p>
+                                <div class="bg3-body-sentance-7 text-left-xs text-indent-xs">
+                                    <span style="font-family:Arial;font-size: 12px;color: #0e0e0e;">
+                                        <span class="color-white-xs">
+                                            From the very first session, the benefits of this revolutionary product are visible with <br class="hidden-sm hidden-xs">
+                                            a brighter complexion, diminished imperfections and finer skin texture.<br class="hidden-sm hidden-xs">
+                                            After 3 to 5 sessions, Glykopeel revitalizes your appearance as pores become tighter, <br class="hidden-sm hidden-xs">
+                                            complexions are even more radiant, wrinkles are wiped away and pigment spots diminish.
+                                        </span>
+                                    </span>
+                                </div>
+                                <p class="hidden-lg hidden-md">&nbsp;</p>
+                                <div class="bg3-body-sentance-8 text-left-xs text-indent-xs">
+                                    <span style="font-family:Arial;font-size: 12px;color: #0e0e0e;">
+                                        <span class="color-white-xs">
+                                            Filorga Glykopeel is a unique treatment plan that stimulates cell regeneration and promotes cell renewal. <br class="hidden-sm hidden-xs">
+                                            This means you will be shedding old skin cells and restoring a healthy, smooth complexion.<br class="hidden-sm hidden-xs">
+                                            Glykopeel balances skin PH levels, clears blocked pores and provides deep-penetrating vitamin and nutrient delivery.
+                                        </span>
+                                    </span>
+                                </div>
+
 
 
                             </div>
@@ -202,40 +241,63 @@ and open the template in the editor.
                 <div class="bg4">
                     <div class="row">
                         <div class="col-xs-12">
-                            <div class="bg4-head-sentance-1 line-height-xs-28 text-center-xs">
-                                <span style="font-family:Century Schoolbook;font-size: 36px;color: #000;">
-                                    <span class="color-black-xs font-xs-28 "> 
+                            <div class="bg4-head-sentance-1 line-height-xs-28 text-center-xs border-xs">
+                                <span style="font-family:Century Gothic;font-size: 24px;color: #FFF;">
+                                    <span class="color-black-xs font-xs-22 font-italic-xs"> 
 
-                                        Indications
+                                        Depending on individual needs, <br>
+                                        Glykopeel comes in two concentrations. 
                                     </span>
                                 </span>
                             </div>
-                            <br class="hidden-lg hidden-md">
-                            <div class="col-xs-12">
-                                <p class="hidden-lg hidden-md">
-                                    <img src="images/Filorga_dermal__xha/pd1.jpg" class="img-responsive margin-auto">
-                                </p>
-                            </div>
+
                             <div class="col-xs-12">
                                 <div class="bg4-body-sentance-1">
-                                    <span style="font-family: Century Gothic;font-size: 18px;color: #000;">
-                                        <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span>Filling in superficial, medium <br>
-                                        and deep wrinkles
+                                    <br class="hidden-lg hidden-md">
+                                    <span style="font-family: Century Gothic;font-size: 24px;color: #FFF;"> 
+                                        <span class="color-black-xs">
+                                            Glykopeel 20% <br>
+                                        </span>
+                                    </span>
+                                    <span style="font-family: Arial;font-size: 14px;color: #FFF;">
+                                        <span class="color-black-xs font-italic-xs">
+                                            is appropriate for less <br>
+                                            severe blemishes and corrections
+                                        </span>
                                     </span>
                                 </div>
+                                <br>
                                 <div class="bg4-body-sentance-2">
-                                    <span style="font-family: Century Gothic;font-size: 18px;color: #000;">
-                                        <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span>
-                                        Re-structuring cheekbones <br>
-                                        to redefine facial contours
+                                    <span style="font-family: Century Gothic;font-size: 24px;color: #FFF;"> 
+                                        <span class="color-black-xs">
+                                            Glykopeel 50% <br>
+                                        </span>
+
+                                    </span>
+                                    <span style="font-family: Arial;font-size: 14px;color: #FFF;">
+                                        <span class="color-black-xs font-italic-xs">
+                                            concentration is recommended for <br>
+                                            individuals requiring more intensive treatments. 
+                                        </span>
                                     </span>
                                 </div>
+
+                                <p class="hidden-lg hidden-md">&nbsp;</p>
+                                <p class="hidden-lg hidden-md"><img src="images/filorga_glykopeel/shadow-divider_1.png" class="img-responsive"></p>
                                 <div class="bg4-body-sentance-3 ">
-                                    <span style="font-family: Century Gothic;font-size: 18px;color: #000;">
-                                        <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span> Rejuvenating lips with peribuccal <br>
-                                        wrinkle correction, contour <br>
-                                        reshaping and volume increase.
+                                    <span style="font-family: Century Schoolbook;font-size: 36px;color: #000;">
+                                        Indications
                                     </span>
+                                </div>
+                                <div class="bg4-body-sentance-4 text-indent-xs">
+                                    <span style="font-family: Arial;font-size: 12px;color: #000;" class="text-indent-xs">
+                                        Glykopeel is recommended to treat wrinkles, loss of suppleness, dull complexion, <br>
+                                        hyperpigmentation, microcystic acne and skin imperfections.<br><br>
+
+                                        It visibly improves cutaneous state with no side effects.
+
+                                    </span>
+                                    <p class="hidden-lg hidden-md"><img src="images/filorga_glykopeel/before_after.jpg" class="img-responsive margin-auto"></p>
                                 </div>
                             </div>
 
@@ -244,66 +306,114 @@ and open the template in the editor.
 
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <div class="bg5_1">
-                    <p class="hidden-lg hidden-md">
-                        <img src="images/Filorga_dermal__xha/img-before-after.png" class="img-responsive margin-auto">
-                    </p>
-                </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg5">
                     <div class="row">
+
+                    </div>
+                </div>
+                <img src="images/filorga_glykopeel/shadow-divider_2.png" class="img-responsive margin-auto hidden-lg hidden-md">
+                <p class="hidden-md hidden-lg">&nbsp;</p>
+                <div class="bg6">
+                    <div class="row">
                         <div class="col-xs-12">
-                            <div class=" border-xs">
-                                <div class="bg5-body-sentance-1 text-center-xs">
-
-                                    <span style="font-family:  Century Gothic; font-size: 24px;color: #000;">
-                                        X-HA Volume is formulated with  <br>
-                                        23mg/ml of highly cross-linked <br>
-                                        hyaluronic acid.
-
+                            <div class="bg6-body-sentance-1 text-center-xs">
+                                <span style="font-family: Century Gothic;">
+                                    <span style="font-size: 30px;">
+                                        Filorga Glykopeel <br>
+                                        includes four products <br>
                                     </span>
-                                </div>
-                            </div>
-                            <br class="hidden-md hidden-lg" >
-                            <div class="bg5-body-sentance-2 text-indent-xs">
+                                    <span style="font-size: 20px;" class="font-italic-xs"> 
 
-                                <span style="font-family:  Arial; font-size: 12px;color: #000;">
-
-
-                                    Hyaluronic acid is a major component of skin where it is involved in repairing damage. <br class="hidden-sm hidden-xs">
-                                    Age and exposure to UVB rays degrade hyaluronic acid production and have a detrimental <br class="hidden-sm hidden-xs">
-                                    effect on its continued production. Scientific research has shown that the main component <br class="hidden-sm hidden-xs">
-                                    of X-HA Volume is also necessary for collagen production and is integral to the natural skin <br class="hidden-sm hidden-xs">
-                                    hydration process.<br class="hidden-sm hidden-xs"><br class="hidden-sm hidden-xs">
-
-                                    The medical community is administering hyaluronic acid at an ever increasing rate to aid in <br class="hidden-sm hidden-xs">
-                                    tissue repair and achieve anti-aging results. X-HA Volume uses highly purified hyaluronic acid <br class="hidden-sm hidden-xs">
-                                    which is obtained through bio-fermentation with no animal origins, resulting in perfect <br class="hidden-sm hidden-xs">
-                                    biocompatibility.
+                                        to optimize skin health and appearance.
+                                    </span>
                                 </span>
                             </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <div class="bg5-body-sentance-3">
-                                <p>
-                                    <span style="font-family:  Century schoolbook; font-size: 36px;color: #000;">
-                                        Usage: <br>
-                                    </span>
-                                </p>
-                                <span style="font-family: Arial; font-size: 14px;color: #000;">
-
-                                    All supplements and therapies should be used under a doctor's supervision. <br>
-                                    Please consult with your physician prior to use.
-
+                            <br class="hidden-lg hidden-md">
+                            <p class="hidden-lg hidden-md">
+                                <img src="images/filorga_glykopeel/pd1.jpg" class="img-responsive margin-auto">
+                            </p>
+                            <br class="hidden-lg hidden-md">
+                            <div class="bg6-body-sentance-2">
+                                <span style="font-family: Century Gothic;font-size: 14px;" class="line-height-xs-28">
+                                    <span class="text-shadow">Exfoliation </span>- Glycolic Acid (20% or 50%) <br>
+                                    <span class="text-shadow">Stimulation </span>- Mulberry, Brown Algae, Vitamin E, Glycerin<br>
+                                    <span class="text-shadow">Protection</span> - Vitamins A & C, Glycolic Acid<br>
+                                    <span class="text-shadow">Correction </span> - Kojic Acid, Bearberry, Vitamin C
                                 </span>
-                                <p class="hidden-lg hidden-md">&nbsp;</p>
-                                <p class="hidden-lg hidden-md">
-                                    <img src="images/Filorga_dermal__xha/img1.jpg" class="img-responsive margin-auto" style="opacity: 0.5;">
-                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p class="hidden-md hidden-lg">&nbsp;</p>
+                <img src="images/filorga_glykopeel/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md">
+                <p class="hidden-md hidden-lg">&nbsp;</p>
+                <div class="bg7">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="bg7-body-sentance-1 text-center-xs">
+                                <span style="font-family: Century Schoolbook;font-size: 36px;">
+                                    <span class="font-xs-28"> Glykopeel Treatments </span><br>
+                                </span>
+                                <span style="font-family: Century Gothic;font-size: 18px;">
 
+                                    take about 10 minutes and <br>
+                                    consist of four steps:
+                                </span>
                             </div>
 
+                            <div class="bg7-body-sentance-2">
+                                <span style="font-family: times new roman;font-size: 28px;">
+                                    <img src="images/filorga_glykopeel/_1.jpg" class="hidden-lg hidden-md" style="width: 36px;"><i>  Prepeel </i>
+                                </span>
+                                <br>
+                                <span style="font-family: Arial;font-size: 12px;">
+                                    Purification and preparation of the skin
+                                </span>
+                            </div>
 
+                            <div class="bg7-body-sentance-3">
+                                <span style="font-family: times new roman;font-size: 28px;">
+                                    <img src="images/filorga_glykopeel/_2.jpg" class="hidden-lg hidden-md" style="width: 36px;"><i>  Peel </i>
+                                </span>
+                                <br>
+                                <span style="font-family: Arial;font-size: 12px;">
+                                    Application of glycolic acid <br>
+                                    exfoliating solution (5 minutes)<br>
+                                </span>
+                                <span style="font-family: Arial;font-size: 12px;color: #999999;">
+                                    *During this part of the treatment you might <br>
+                                    experience a warm sensation. Some people <br>
+                                    have found it to be slightly uncomfortable as <br>
+                                    the glycolic acid takes effect.
+                                </span>
+                            </div>
+
+                            <div class="bg7-body-sentance-4">
+                                <span style="font-family: times new roman;font-size: 28px;">
+                                    <img src="images/filorga_glykopeel/_3-4.jpg" class="hidden-lg hidden-md" style="width: 36px;"><i>  Post-Peel & Mist </i>
+                                </span>
+                                <br>
+                                <span style="font-family: Arial;font-size: 12px;">
+                                    Neutralization and hydration that soothes <br>
+                                    and brings immediate comfort
+                                </span>
+
+                            </div>
+                            <div class="bg7-body-sentance-5">
+
+                                <span style="font-family: Arial;font-size: 12px;color: #ff0000;">
+                                    <b> 
+                                        <i> 
+                                            *All supplements and therapies should be used under a doctor's supervision. Please consult with your physician prior to use.
+                                        </i>
+                                    </b>
+                                </span>
+
+                            </div>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <img src="images/filorga_glykopeel/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md">
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
                         </div>
                     </div>
                 </div>
@@ -311,11 +421,31 @@ and open the template in the editor.
             </div>
         </div>
 
+
         <style>
+            .font-italic-xs{
+                font-style: italic;
+            }
+
+            .margin-bottom-5-xs{
+                margin-bottom: 5px;
+            }
+            .margin-bottom-10-xs{
+                margin-bottom: 10px;
+            }
+            .margin-bottom-15-xs{
+                margin-bottom: 15px;
+            }
+            .margin-bottom-20-xs{
+                margin-bottom: 20px;
+            }
             .uppercase{
                 text-transform: uppercase;
             }
             .text-shadow{
+                text-shadow: 1px 0px 0px rgb(0, 0, 0);
+            }
+            .text-shadow-xs{
                 text-shadow: 1px 0px 0px rgb(0, 0, 0);
             }
             .color-black-xs{
@@ -337,6 +467,9 @@ and open the template in the editor.
             .line-height-xs-28{
                 line-height: 28px;
             }
+            .line-height-xs-30{
+                line-height: 28px;
+            }
             .line-height-xs-32{
                 line-height: 32px;
             }
@@ -351,11 +484,15 @@ and open the template in the editor.
             .font-bold-xs{
                 font-weight: bold;
             }
+
             .font-xs-36{
                 font-size: 36px;
             }
             .font-xs-34{
                 font-size: 34px;
+            }
+            .font-xs-30{
+                font-size: 28px;
             }
             .font-xs-28{
                 font-size: 28px;
@@ -399,12 +536,12 @@ and open the template in the editor.
             }
 
 
+
             .bg1-head-sentance-1{
                 color: #000;
                 line-height: 36px;
             }
             .bg1-head-sentance-2{
-                margin: inherit;
 
             }
 
@@ -512,9 +649,7 @@ and open the template in the editor.
                 box-shadow: 5px -1px 5px 1px rgba(167, 167, 167, 0.37);
                 padding: 15px;
             }
-            .bg7-body-sentance-3{
 
-            }
             .letter-spacing-1px{
                 letter-spacing: inherit;
             }
@@ -526,6 +661,13 @@ and open the template in the editor.
             }
             /*            md size*/
             @media(min-width:992px){
+                .font-italic-xs{
+                    font-style: inherit;
+                }
+                .text-shadow-xs{
+                    text-shadow: inherit;
+                }
+
                 .letter-spacing-1px{
                     letter-spacing: 1px;
                 }
@@ -538,7 +680,7 @@ and open the template in the editor.
                     padding: inherit;
                 }
                 .line-height-xs-16, .line-height-xs-20, .line-height-xs-24, .line-height-xs-28,
-                .line-height-xs-32, .line-height-xs-36, .line-height-xs-40{
+                .line-height-xs-32,.line-height-xs-30,  .line-height-xs-36, .line-height-xs-40{
                     line-height: inherit;
                 }
 
@@ -549,6 +691,9 @@ and open the template in the editor.
                     font-size: inherit;
                 }
                 .font-xs-34{
+                    font-size: inherit;
+                }
+                .font-xs-30{
                     font-size: inherit;
                 }
                 .font-xs-28{
@@ -595,29 +740,28 @@ and open the template in the editor.
 
 
                 .bg1{
-                    background-image: url(images/Filorga_dermal__xha/bg1.jpg);
-                    width: 799px;
-                    height: 571px;
+                    background-image: url(images/filorga_glykopeel/bg1.jpg);
+                    width: 800px;
+                    height: 576px;
                 }
                 .bg1-head-sentance-1{
-                    color: #000;
-                    margin: 76px 0px 0 406px;
 
-                    line-height: 27px;
+                    margin: 60px 0px 0 507px;
+                    line-height: 26px;
                 }
                 .bg1-head-sentance-2{
-                    margin: 36px 0 0 0;
+                    margin: 30px 0 0 579px
                 }
                 .bg1-head-sentance-3{
-                    margin: 5px 0 0 0;
+                    margin: 42px 0 0 560px;
                 }
                 .bg1-head-sentance-4{
-                    float: left;
-                    margin: 85px 0px 0 -5px;
+                    margin:42px 0px 0 33px;
+                    letter-spacing: 1.2px;
                 }
                 .bg1-head-sentance-5{
-                    float: right;
-                    margin: 72px 55px 0 0;
+                    margin: 7px 0px 0 36px;
+                    letter-spacing: 1.2px;
                 }
                 .bg1-head-sentance-6{
                     margin: 44px 0 0 -33px;
@@ -626,69 +770,24 @@ and open the template in the editor.
 
                 }
                 .bg1-head-sentance-7{
-                    margin: 24px 62px 0 0;
-                    float: right;
+                    margin: 27px 0 0 40px;
+                    /* float: right; */
                     line-height: 30px;
-                }
-
-                .bg1-head-sentance-8{
-                    margin: 44px 0 0 -33px;
-                    float: left;
-
-
-                }
-                .bg1-head-sentance-9{
-                    margin: 24px 37px 0 0;
-                    float: right;
-                    line-height: 30px;
-                }
-                .bg1-head-sentance-10{
-                    margin:  34px 0 0 103px;
-                }
-                .bg1-head-sentance-11{
-                    margin:  34px 0 0 103px;
-                }
-
-
-
-
-
-
-
-                .bg1-body-sentance-1{
-                    margin: 55px 0 0 473px;
-                    line-height: 31px;
-                    color: #000;
-
-                }
-                .bg1-body-sentance-2{
-                    margin: 27px 0 0 481px;
-                    line-height: 31px;
-
-
-                }
-                .bg1-body-sentance-3{
-                    line-height: 24px;
-                    margin: 21px 0 0 392px;
-                    color: #000;
-
-                }
-                .bg1-body-sentance-4{
-                    margin: -7px 0 0 462px;
-
+                    letter-spacing: 1.3px;
                 }
 
 
                 .bg2{
-                    background-image: url(images/Filorga_dermal__xha/bg2.jpg);
-                    width: 799px;
-                    height: 333px;
+                    background-image: url(images/filorga_glykopeel/bg2.jpg);
+                    width: 800px;
+                    height: 976px;
                 }
                 .bg2-head-sentance-1{
-                    margin: 6px 0 0px 492px;
-                    /* text-align: center; */
-                    line-height: 32px;
+                    margin: 65px 0 0px 20px;
+                    text-align: center;
+                    line-height: 28px;
                     /* float: right; */
+                    letter-spacing: 0.3px;
 
                 }
 
@@ -730,43 +829,71 @@ and open the template in the editor.
 
 
                 .bg3{
-                    background-image: url(images/Filorga_dermal__xha/bg3.jpg);
+                    background-image: url(images/filorga_glykopeel/bg2.jpg);
                     background-repeat: no-repeat;
                     width: 800px;
-                    height: 629px;
+                    height: 976px;
                 }
 
                 .bg3-head-sentance-1{
-
-                    margin: 33px 0 0 -31px;
+                    margin: 68px 0 0 18px;
                     text-align: center;
                     line-height: 26px;
 
                 }
                 .bg3-body-sentance-1{
-                    margin: 61px 0 0 62px;
+                    margin: 62px 0 0 81px;
 
 
                 }
                 .bg3-body-sentance-2{
 
-                    margin: 27px 0 0 647px;
+                    margin: 0px 0 0 643px;
+                    line-height: 21px;
                 }
                 .bg3-body-sentance-3{
 
-                    margin: 36px 0 0 100px;
+                    margin: 70px 0 0 24px;
+                    line-height: 21px;
+                    text-align: right;
+                    float: left;
 
                 } 
 
                 .bg3-body-sentance-4{
-                    margin: 55px 0 0 650px;
+                    margin: 82px 0 0 665px;
+                    /* left: 21px; */
+                    line-height: 21px;
+                    text-align: left;
 
                 } 
                 .bg3-body-sentance-5{
-                    margin: 53px 0 0 14px;
+                    margin: 148px 0 0 35px;
+                    line-height: 21px;
+                    text-align: right;
+                    float: left;
+                }
+                .bg3-body-sentance-6{
+                    margin: 110px 0 0 662px;
+                    /* left: 21px; */
+                    line-height: 21px;
+                    text-align: left;
 
                 } 
+                .bg3-body-sentance-7{
+                    margin: 160px 0 0 0;
+                    /* left: 21px; */
+                    line-height: 19px;
+                    text-align: center;
 
+                } 
+                .bg3-body-sentance-8{
+                    margin: 46px 0 0 0;
+                    /* left: 21px; */
+                    line-height: 19px;
+                    text-align: center;
+
+                } 
 
 
 
@@ -775,49 +902,51 @@ and open the template in the editor.
 
 
                 .bg4{
-                    background-image: url(images/Filorga_dermal__xha/bg4.jpg);
+                    background-image: url(images/filorga_glykopeel/bg3.jpg);
                     background-repeat: no-repeat;
                     width: 800px;
-                    height: 517px;
+                    height: 530px;
                 }
 
                 .bg4-head-sentance-1{
 
-                    margin: 58px 0 0 457px;
-                    /* text-align: center; */
-                    line-height: 34px;
-
+                    margin: 96px 0 0 15px;
+                    text-align: center;
+                    line-height: 29px;
                 }
                 .bg4-body-sentance-1{
-                    margin: 51px 0 0 461px;
+                    margin: 77px 0 0 0;
                     line-height: 29px;
+                    text-align: center;
 
 
                 }
                 .bg4-body-sentance-2{
 
-                    margin: 42px 0 0 461px;
+                    margin: 39px 0 0 0;
                     line-height: 29px;
+                    text-align: center;
+
                 }
                 .bg4-body-sentance-3{
 
-                    margin: 36px 0 0 461px;
+                    margin: 125px 0 0 0;
                     line-height: 29px;
+                    text-align: center;
+                    letter-spacing: -0.1px;
                 } 
-
-                .bg5_1{
-                    background-image: url(images/Filorga_dermal__xha/bg-before-after.jpg);
-                    background-repeat: no-repeat;
-                    width: 800px;
-                    height: 764px;
+                .bg4-body-sentance-4{
+                    margin: 31px 0 0 0;
+                    text-align: center;
                 }
 
 
+
                 .bg5{
-                    background-image: url(images/Filorga_dermal__MHA/bg5.jpg);
+                    background-image: url(images/filorga_glykopeel/bg4.jpg);
                     background-repeat: no-repeat;
                     width: 800px;
-                    height: 1032px;
+                    height: 753px;
                 }
                 .bg5-head-sentance-1{
 
@@ -838,6 +967,65 @@ and open the template in the editor.
 
                     margin: 286px 0 0 64px
                 }
+
+
+
+                .bg6{
+                    background-image: url(images/filorga_glykopeel/bg5.jpg);
+                    background-repeat: no-repeat;
+                    width: 800px;
+                    height: 688px;
+                }
+
+                .bg6-body-sentance-1{
+
+                    text-align: center;
+                    margin: 66px 0 0 15px;
+                    line-height: 25px;
+                }
+                .bg6-body-sentance-2{
+
+                    margin: 375px 0 0 223px;
+                    line-height: 25px;
+                    letter-spacing: 0.2px;
+                }
+
+                .bg7{
+                    background-image: url(images/filorga_glykopeel/bg6.jpg);
+                    background-repeat: no-repeat;
+                    width: 800px;
+                    height: 844px;
+                }
+
+                .bg7-body-sentance-1{
+
+                    margin: 78px 0 0 40px;
+                    line-height: 28px;
+                }
+                .bg7-body-sentance-2{
+
+                    margin: 78px 0 0 127px;
+                    line-height: 28px;
+                }
+                .bg7-body-sentance-3{
+
+                    margin: 85px 0 0 127px;
+                    line-height: 20px;
+                }
+                .bg7-body-sentance-4{
+
+                    margin: 67px 0 0 127px;
+                    line-height: 20px;
+                }
+
+                .bg7-body-sentance-5{
+
+                    margin: 130px 0 0 58px;
+                    line-height: 20px;
+
+                }
+
+
 
 
 
