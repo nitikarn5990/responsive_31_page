@@ -30,7 +30,7 @@ and open the template in the editor.
 
                                     <p class="bg1-head-sentance-2"> 
                                         <span style="font-family: Century Gothic;font-size: 48px;color: #0e0e0e;">
-                                            <span class="font-xs-26">  NCTF 135 </span>
+                                            <span class="font-xs-26"> NCTF 135HA </span>
                                         </span> 
                                     </p>
 
@@ -91,7 +91,7 @@ and open the template in the editor.
                     </div>
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                <img src="images/Filorga_NCTF135HA/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg2">
                     <div class="row">
@@ -101,9 +101,9 @@ and open the template in the editor.
                                 <div class="bg2-head-sentance-1">
 
                                     <div style="font-family: Century Gothic; font-size: 36px;color: #FFF; " >
-                                        <div  class="color-white-xs text-center-xs"> 
+                                        <div  class="color-white-xs text-center-xs" style="letter-spacing: -0.5px;"> 
 
-                                            Filorga&nbsp;NCTF 135
+                                            Filorga&nbsp;NCTF 135HA
 
                                         </div>
                                     </div>
@@ -111,7 +111,7 @@ and open the template in the editor.
                                     <div style="font-family: Arial; font-size: 12px;color: #FFF; " >
                                         <div  class="color-white-xs text-center-xs"> 
 
-                                            Filorga’s NCTF 135, this mesotherapy is perfect for treating <br class="hidden-sm hidden-xs">
+                                            Filorga’s NCTF 135HA, this mesotherapy is perfect for treating <br class="hidden-sm hidden-xs">
                                             fine lines and wrinkles, localized body contouring and <br class="hidden-sm hidden-xs">
                                             redensification of aging skin. Proven success spans 10 years <br class="hidden-sm hidden-xs">
                                             in treating more than one million patients.<br class="hidden-sm hidden-xs">
@@ -133,13 +133,13 @@ and open the template in the editor.
                                         <span class="color-white-xs font-xs-20"> 
                                             <i>
 
-                                                <img src="images/Filorga_NCTF135/icon-arrow.png" class="hidden-lg hidden-md"> Face <br>
-                                                <img src="images/Filorga_NCTF135/icon-arrow.png" class="hidden-lg hidden-md"> Neck <br>
-                                                <img src="images/Filorga_NCTF135/icon-arrow.png" class="hidden-lg hidden-md"> Décolleté <br>
-                                                <img src="images/Filorga_NCTF135/icon-arrow.png" class="hidden-lg hidden-md"> Back of the hands <br>
-                                                <img src="images/Filorga_NCTF135/icon-arrow.png" class="hidden-lg hidden-md"> Inside of the arms <br>
-                                                <img src="images/Filorga_NCTF135/icon-arrow.png" class="hidden-lg hidden-md"> Inside of the legs <br>
-                                                <img src="images/Filorga_NCTF135/icon-arrow.png" class="hidden-lg hidden-md"> Abdomen
+                                                <img src="images/Filorga_NCTF135HA/icon-arrow.png" class="hidden-lg hidden-md"> Face <br>
+                                                <img src="images/Filorga_NCTF135HA/icon-arrow.png" class="hidden-lg hidden-md"> Neck <br>
+                                                <img src="images/Filorga_NCTF135HA/icon-arrow.png" class="hidden-lg hidden-md"> Décolleté <br>
+                                                <img src="images/Filorga_NCTF135HA/icon-arrow.png" class="hidden-lg hidden-md"> Back of the hands <br>
+                                                <img src="images/Filorga_NCTF135HA/icon-arrow.png" class="hidden-lg hidden-md"> Inside of the arms <br>
+                                                <img src="images/Filorga_NCTF135HA/icon-arrow.png" class="hidden-lg hidden-md"> Inside of the legs <br>
+                                                <img src="images/Filorga_NCTF135HA/icon-arrow.png" class="hidden-lg hidden-md"> Abdomen
                                             </i>
                                         </span>
                                         </i>
@@ -151,7 +151,7 @@ and open the template in the editor.
 
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_2.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                <img src="images/Filorga_NCTF135HA/shadow-divider_2.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg3">
                     <div class="row ">
@@ -160,7 +160,7 @@ and open the template in the editor.
                                 <div style="font-family:Century Gothic;font-size: 24px;color: #000;">
                                     <div class="color-black-xs font-xs-22 border-xs"> 
 
-                                        NCTF 135 is formulated <br>
+                                        NCTF 135HA is formulated <br>
                                         with hyaluronic acid <br>
                                         as a top active ingredient.
                                     </div>
@@ -173,12 +173,12 @@ and open the template in the editor.
                                     Hyaluronic acid is a major component of skin where it is involved in repairing damage. <br class="hidden-sm hidden-xs">
                                     Age and exposure to UVB rays degrade hyaluronic acid production and have a detrimental effect <br class="hidden-sm hidden-xs">
                                     on its continued production. Scientific research has shown that the main component of <br class="hidden-sm hidden-xs">
-                                    NCTF 135 is also necessary for collagen production and is integral to the natural skin <br class="hidden-sm hidden-xs">
+                                    NCTF 135HA is also necessary for collagen production and is integral to the natural skin <br class="hidden-sm hidden-xs">
                                     hydration process.<br><br>
 
                                     The medical community is administering hyaluronic acid at an ever increasing rate to aid in <br class="hidden-sm hidden-xs">
                                     tissue repair and achieve anti-aging results.<br class="hidden-sm hidden-xs">
-                                    <b> NCTF 135 uses highly purified hyaluronic acid which is obtained through bio-fermentation <br class="hidden-sm hidden-xs">
+                                    <b> NCTF 135HA uses highly purified hyaluronic acid which is obtained through bio-fermentation <br class="hidden-sm hidden-xs">
                                         with no animal origins, resulting in perfect biocompatibility.
                                     </b>
                                 </div>
@@ -192,7 +192,7 @@ and open the template in the editor.
                 </div>
 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                <img src="images/Filorga_NCTF135HA/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg4">
                     <div class="row ">
@@ -258,14 +258,14 @@ and open the template in the editor.
                             <div class="clearfix"></div>
                             <p class="hidden-lg hidden-md">&nbsp;</p>
                             <p class="hidden-lg hidden-md">
-                                <img src="images/Filorga_NCTF135/pd1.jpg" class="img-responsive margin-auto">
+                                <img src="images/Filorga_NCTF135HA/pd1.jpg" class="img-responsive margin-auto">
                             </p>
                             <p class="hidden-lg hidden-md">&nbsp;</p>
                             <div class="bg4-body-sentance-5">
 
                                 <div style="font-family:Century Gothic;font-size: 16px;color: #000;text-align: center;">
                                     The skin texture of participants also responded dramatically <br>
-                                    after being treated with NCTF 135
+                                    after being treated with NCTF 135HA
                                 </div>
 
                             </div>
@@ -359,7 +359,7 @@ and open the template in the editor.
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_2.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                <img src="images/Filorga_NCTF135HA/shadow-divider_2.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg5">
                     <div class="row">
@@ -426,7 +426,59 @@ and open the template in the editor.
                 </div>
 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                <img src="images/Filorga_NCTF135HA/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                <p class="hidden-md hidden-lg">&nbsp;</p>
+
+
+                <div class="bg7">
+                    <div class="bg_color_1-xs">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="bg7-body-sentance-1 text-center border-white-xs" >
+                                <div style="font-family: Century Gothic;font-size: 16px;color: #FFF;" class="">
+                                    <div class="color-black-xss">
+                                        <strong> Filorga NCTF 135HA also can be ordered with our specialized <br class="hidden-sm hidden-xs">
+                                            Meso-Roller which is great for hair loss purposes! <br class="hidden-sm hidden-xs"><br class="hidden-sm hidden-xs">
+                                        </strong>
+                                    </div>
+                                </div>
+                                <div style="font-family: Arial;font-size: 14px;color: #FFF;">
+                                    <div class="color-black-xss">
+                                        Contact your customer care agent for more information <br class="hidden-sm hidden-xs">
+                                        about this special order product!
+                                    </div>
+                                </div>
+                            </div>
+
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <img src="images/Filorga_NCTF135HA/pd2.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+
+                            <div class="bg7-body-sentance-2 text-center">
+                                <div style="font-family: Arial;font-size: 14px;color: #FFF;">
+                                    <div class="color-black-xss">
+                                        <span style="font-family: Century Gothic;font-size: 18px;"><strong>Filoga Meso Roller</strong> </span>is an alternative to injections, this is a roller with 10 discs <br class="hidden-sm hidden-xs">
+                                        with small needles. This product is to be used with Filorga NCTF 135HA injectibles. <br class="hidden-sm hidden-xs">
+                                        The benefits of this are outstanding, as it boost skin rejuvenation, and also helps with <br class="hidden-sm hidden-xs">
+                                        combating and preventing hair loss as well!<br><br>
+
+                                        The Filorga Meso Roller comes with 10, 3ml vials of Filorga NCTF 135HA, <br class="hidden-sm hidden-xs">
+                                        1 Filorga Meso Roller and 10 replacement heads!<br><br><br>
+
+
+                                        Please note, <br>
+                                        there are two types of roller heads/needles. 1mm for facial use, and 0.5mm for hair loss <br class="hidden-sm hidden-xs">
+                                        to be used on the head. It is recommended that for hair loss treatment purposes <br class="hidden-sm hidden-xs">
+                                        that you order the 0.5mm Filorga Meso Roller head, when you order!
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <p class="hidden-md hidden-lg">&nbsp;</p>
+                <img src="images/Filorga_NCTF135HA/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg6">
                     <div class="row">
@@ -448,7 +500,7 @@ and open the template in the editor.
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                <img src="images/Filorga_NCTF135HA/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
 
             </div>
@@ -785,7 +837,7 @@ and open the template in the editor.
 
 
                 .bg1{
-                    background-image: url(images/Filorga_NCTF135/bg1.jpg);
+                    background-image: url(images/Filorga_NCTF135HA/bg1.jpg);
                     width: 799px;
                     height: 571px;
                 }
@@ -864,7 +916,7 @@ and open the template in the editor.
 
 
                 .bg2{
-                    background-image: url(images/Filorga_NCTF135/bg2.jpg);
+                    background-image: url(images/Filorga_NCTF135HA/bg2.jpg);
                     width: 799px;
                     height: 628px;
                 }
@@ -898,7 +950,7 @@ and open the template in the editor.
 
 
                 .bg3{
-                    background-image: url(images/Filorga_NCTF135/bg3.jpg);
+                    background-image: url(images/Filorga_NCTF135HA/bg3.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 531px;
@@ -931,7 +983,7 @@ and open the template in the editor.
 
 
                 .bg4{
-                    background-image: url(images/Filorga_NCTF135/bg4.jpg);
+                    background-image: url(images/Filorga_NCTF135HA/bg4.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 1063px;
@@ -1004,7 +1056,7 @@ and open the template in the editor.
 
 
                 .bg5{
-                    background-image: url(images/Filorga_NCTF135/bg5.jpg);
+                    background-image: url(images/Filorga_NCTF135HA/bg5.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 665px;
@@ -1038,7 +1090,7 @@ and open the template in the editor.
 
 
                 .bg6{
-                    background-image: url(images/Filorga_NCTF135/bg6.jpg);
+                    background-image: url(images/Filorga_NCTF135HA/bg6.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 504px;
@@ -1050,9 +1102,22 @@ and open the template in the editor.
 
                 }
 
+                .bg7{
+                    background-image: url(images/Filorga_NCTF135HA/bg7.jpg);
+                    background-repeat: no-repeat;
+                    width: 799px;
+                    height: 751px;
+                }
+                .bg7-body-sentance-1{
+                    margin: 87px 0 0 0;
+                    line-height: 17px;
 
+                }
+                .bg7-body-sentance-2{
 
-
+                    margin: 243px 0 0 0;
+                    line-height: 21px;
+                }
 
 
 
