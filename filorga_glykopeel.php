@@ -11,7 +11,7 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
-
+        <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
     </head>
     <body>
@@ -20,7 +20,7 @@ and open the template in the editor.
 
                 <div class="bg1">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="bg1-xs padding-top-2em-xs padding-bottom-2em-xs col-xs-12">
                             <div class="hidden-sm hidden-xs">
                                 <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
                                     <div style="font-family: Myriad Pro;font-size: 19px;color: #990033;    text-shadow: 1px -1px 8px rgb(255, 255, 255);letter-spacing: 1.4px;" class="uppercase"> 
@@ -56,27 +56,25 @@ and open the template in the editor.
                                 </div>
                             </div>
 
-                            <div  class="bg1-head-sentance-4">
+                            <div  class="bg1-head-sentance-4 bg_color-white-low_light">
                                 <div class="uppercase" style="font-family: Century Schoolbook;font-size: 82px;color: #0e0e0e;">
-                                    <div class="font-xs-36 text-center-xs"> Filorga </div>
+                                    <div class="font-xs-36 text-center-xs"> Filorga</div>
                                 </div>
                             </div>
-                            <div class="bg1-head-sentance-5">
+                            <div class="bg1-head-sentance-5 bg_color-white-low_light">
                                 <div class="uppercase" style="font-family: Century Gothic;font-size: 55px;color: #fff;">
                                     <div class="font-xs-30 color-black-xs text-center-xs">
                                         Glykopeel
                                     </div>
                                 </div>    
                             </div>
-
-
                             <div  class="bg1-head-sentance-6">
                                 <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
 
                                 </span>
                             </div>
 
-                            <div class="bg1-head-sentance-7">
+                            <div class="bg1-head-sentance-7 bg_color-white-low_light">
                                 <div style="font-family:Myriad Pro;font-size: 27px;color: #0e0e0e;">
                                     <div class="font-xs-22 text-center-xs"> EXPERIENCE IT YOURSELF</div>
                                 </div>    
@@ -125,14 +123,12 @@ and open the template in the editor.
 
                 </div>
 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-
                 <div class="bg3">
-                    <div class="bg_color_1-xs">
+                    <div class="">
                         <div class="row ">
 
-                            <div class="col-xs-12">
-                                <div class="bg3-head-sentance-1 text-center-xs">
+                            <div class="bg2-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
+                                <div class="bg_color-pink-low_light padding-all-10-xs bg3-head-sentance-1 text-center-xs">
                                     <span style="font-family: Century Schoolbook; font-size: 36px;color: #000;">
                                         <span class="color-white-xs font-xs-26 font-italic-xs"> Filorga Glykopeel </span><br>
 
@@ -205,45 +201,42 @@ and open the template in the editor.
                                     </span>
                                 </div>
                                 <p class="hidden-lg hidden-md">&nbsp;</p>
+
+                            </div>
+                            <p class="">&nbsp;</p>
+                            <div class="padding-all-10-xs">
                                 <div class="bg3-body-sentance-7 text-left-xs text-indent-xs">
                                     <span style="font-family:Arial;font-size: 12px;color: #0e0e0e;">
-                                        <span class="color-white-xs">
-                                            From the very first session, the benefits of this revolutionary product are visible with <br class="hidden-sm hidden-xs">
-                                            a brighter complexion, diminished imperfections and finer skin texture.<br class="hidden-sm hidden-xs">
-                                            After 3 to 5 sessions, Glykopeel revitalizes your appearance as pores become tighter, <br class="hidden-sm hidden-xs">
-                                            complexions are even more radiant, wrinkles are wiped away and pigment spots diminish.
-                                        </span>
+
+                                        From the very first session, the benefits of this revolutionary product are visible with <br class="hidden-sm hidden-xs">
+                                        a brighter complexion, diminished imperfections and finer skin texture.<br class="hidden-sm hidden-xs">
+                                        After 3 to 5 sessions, Glykopeel revitalizes your appearance as pores become tighter, <br class="hidden-sm hidden-xs">
+                                        complexions are even more radiant, wrinkles are wiped away and pigment spots diminish.
+
                                     </span>
                                 </div>
                                 <p class="hidden-lg hidden-md">&nbsp;</p>
                                 <div class="bg3-body-sentance-8 text-left-xs text-indent-xs">
                                     <span style="font-family:Arial;font-size: 12px;color: #0e0e0e;">
-                                        <span class="color-white-xs">
-                                            Filorga Glykopeel is a unique treatment plan that stimulates cell regeneration and promotes cell renewal. <br class="hidden-sm hidden-xs">
-                                            This means you will be shedding old skin cells and restoring a healthy, smooth complexion.<br class="hidden-sm hidden-xs">
-                                            Glykopeel balances skin PH levels, clears blocked pores and provides deep-penetrating vitamin and nutrient delivery.
-                                        </span>
+
+                                        Filorga Glykopeel is a unique treatment plan that stimulates cell regeneration and promotes cell renewal. <br class="hidden-sm hidden-xs">
+                                        This means you will be shedding old skin cells and restoring a healthy, smooth complexion.<br class="hidden-sm hidden-xs">
+                                        Glykopeel balances skin PH levels, clears blocked pores and provides deep-penetrating vitamin and nutrient delivery.
+
                                     </span>
                                 </div>
-
-
-
                             </div>
-
-
                         </div>
                     </div>
-
                 </div>
+                <p class="hidden-lg hidden-md">&nbsp;</p>
 
-                <p class="hidden-lg hidden-md">&nbsp;</p>
-                <p class="hidden-lg hidden-md">&nbsp;</p>
                 <div class="bg4">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="bg_color_pink-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
                             <div class="bg4-head-sentance-1 line-height-xs-28 text-center-xs border-xs">
                                 <span style="font-family:Century Gothic;font-size: 24px;color: #FFF;">
-                                    <span class="color-black-xs font-xs-22 font-italic-xs"> 
+                                    <span class="font-xs-22 font-italic-xs"> 
 
                                         Depending on individual needs, <br>
                                         Glykopeel comes in two concentrations. 
@@ -251,45 +244,53 @@ and open the template in the editor.
                                 </span>
                             </div>
 
+
+                            <div class="bg4-body-sentance-1">
+                                <br class="hidden-lg hidden-md">
+                                <span style="font-family: Century Gothic;font-size: 24px;color: #FFF;"> 
+
+                                    Glykopeel 20% <br>
+
+                                </span>
+                                <span style="font-family: Arial;font-size: 14px;color: #FFF;">
+                                    <span class="font-italic-xs">
+                                        is appropriate for less <br>
+                                        severe blemishes and corrections
+                                    </span>
+                                </span>
+                            </div>
+                            <br>
+                            <div class="bg4-body-sentance-2">
+                                <span style="font-family: Century Gothic;font-size: 24px;color: #FFF;"> 
+
+                                    Glykopeel 50% <br>
+
+
+                                </span>
+                                <span style="font-family: Arial;font-size: 14px;color: #FFF;">
+                                    <span class=" font-italic-xs">
+                                        concentration is recommended for <br>
+                                        individuals requiring more intensive treatments. 
+                                    </span>
+                                </span>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="bg5">
+                    <div class="row">
+                        <div class=" padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
                             <div class="col-xs-12">
-                                <div class="bg4-body-sentance-1">
-                                    <br class="hidden-lg hidden-md">
-                                    <span style="font-family: Century Gothic;font-size: 24px;color: #FFF;"> 
-                                        <span class="color-black-xs">
-                                            Glykopeel 20% <br>
-                                        </span>
-                                    </span>
-                                    <span style="font-family: Arial;font-size: 14px;color: #FFF;">
-                                        <span class="color-black-xs font-italic-xs">
-                                            is appropriate for less <br>
-                                            severe blemishes and corrections
-                                        </span>
-                                    </span>
-                                </div>
-                                <br>
-                                <div class="bg4-body-sentance-2">
-                                    <span style="font-family: Century Gothic;font-size: 24px;color: #FFF;"> 
-                                        <span class="color-black-xs">
-                                            Glykopeel 50% <br>
-                                        </span>
 
-                                    </span>
-                                    <span style="font-family: Arial;font-size: 14px;color: #FFF;">
-                                        <span class="color-black-xs font-italic-xs">
-                                            concentration is recommended for <br>
-                                            individuals requiring more intensive treatments. 
-                                        </span>
-                                    </span>
-                                </div>
-
-                                <p class="hidden-lg hidden-md">&nbsp;</p>
-                                <p class="hidden-lg hidden-md"><img src="images/filorga_glykopeel/shadow-divider_1.png" class="img-responsive"></p>
-                                <div class="bg4-body-sentance-3 ">
+                                <div class="bg4-body-sentance-3 text-center-xs margin-bottom-15-xs">
                                     <span style="font-family: Century Schoolbook;font-size: 36px;color: #000;">
                                         Indications
                                     </span>
                                 </div>
-                                <div class="bg4-body-sentance-4 text-indent-xs">
+                                <div class="bg4-body-sentance-4 text-indent-xs text-center-xs">
                                     <span style="font-family: Arial;font-size: 12px;color: #000;" class="text-indent-xs">
                                         Glykopeel is recommended to treat wrinkles, loss of suppleness, dull complexion, <br>
                                         hyperpigmentation, microcystic acne and skin imperfections.<br><br>
@@ -297,26 +298,18 @@ and open the template in the editor.
                                         It visibly improves cutaneous state with no side effects.
 
                                     </span>
+                                    <p class="hidden-lg hidden-md">&nbsp;</p>
                                     <p class="hidden-lg hidden-md"><img src="images/filorga_glykopeel/before_after.jpg" class="img-responsive margin-auto"></p>
                                 </div>
                             </div>
-
                         </div>
                     </div>
-
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
 
-                <div class="bg5">
-                    <div class="row">
 
-                    </div>
-                </div>
-                <img src="images/filorga_glykopeel/shadow-divider_2.png" class="img-responsive margin-auto hidden-lg hidden-md">
-                <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg6">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="bg3-xs padding-bottom-2em-xs padding-top-3em-xs col-xs-12">
                             <div class="bg6-body-sentance-1 text-center-xs">
                                 <span style="font-family: Century Gothic;">
                                     <span style="font-size: 30px;">
@@ -345,13 +338,11 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/filorga_glykopeel/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md">
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg7">
                     <div class="row">
-                        <div class="col-xs-12">
-                            <div class="bg7-body-sentance-1 text-center-xs">
+                        <div class="bg4-xs padding-bottom-2em-xs padding-top-3em-xs col-xs-12">
+                            <div class="bg_color-white-low_light padding-all-10-xs bg7-body-sentance-1 text-center-xs">
                                 <span style="font-family: Century Schoolbook;font-size: 36px;">
                                     <span class="font-xs-28"> Glykopeel Treatments </span><br>
                                 </span>
@@ -361,20 +352,20 @@ and open the template in the editor.
                                     consist of four steps:
                                 </span>
                             </div>
-
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
                             <div class="bg7-body-sentance-2">
                                 <span style="font-family: times new roman;font-size: 28px;">
-                                    <img src="images/filorga_glykopeel/_1.jpg" class="hidden-lg hidden-md" style="width: 36px;"><i>  Prepeel </i>
+                                    <img src="images/filorga_glykopeel/_1.png" class="hidden-lg hidden-md" style="width: 36px;"><i>  Prepeel </i>
                                 </span>
                                 <br>
                                 <span style="font-family: Arial;font-size: 12px;">
                                     Purification and preparation of the skin
                                 </span>
                             </div>
-
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
                             <div class="bg7-body-sentance-3">
                                 <span style="font-family: times new roman;font-size: 28px;">
-                                    <img src="images/filorga_glykopeel/_2.jpg" class="hidden-lg hidden-md" style="width: 36px;"><i>  Peel </i>
+                                    <img src="images/filorga_glykopeel/_2.png" class="hidden-lg hidden-md" style="width: 36px;"><i>  Peel </i>
                                 </span>
                                 <br>
                                 <span style="font-family: Arial;font-size: 12px;">
@@ -388,10 +379,10 @@ and open the template in the editor.
                                     the glycolic acid takes effect.
                                 </span>
                             </div>
-
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
                             <div class="bg7-body-sentance-4">
                                 <span style="font-family: times new roman;font-size: 28px;">
-                                    <img src="images/filorga_glykopeel/_3-4.jpg" class="hidden-lg hidden-md" style="width: 36px;"><i>  Post-Peel & Mist </i>
+                                    <img src="images/filorga_glykopeel/_3-4.png" class="hidden-lg hidden-md" style="width: 36px;"><i>  Post-Peel & Mist </i>
                                 </span>
                                 <br>
                                 <span style="font-family: Arial;font-size: 12px;">
@@ -400,6 +391,7 @@ and open the template in the editor.
                                 </span>
 
                             </div>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
                             <div class="bg7-body-sentance-5">
 
                                 <span style="font-family: Arial;font-size: 12px;color: #ff0000;">
@@ -411,8 +403,7 @@ and open the template in the editor.
                                 </span>
 
                             </div>
-                            <p class="hidden-md hidden-lg">&nbsp;</p>
-                            <img src="images/filorga_glykopeel/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md">
+
                             <p class="hidden-md hidden-lg">&nbsp;</p>
                         </div>
                     </div>
@@ -423,6 +414,90 @@ and open the template in the editor.
 
 
         <style>
+            .bg1-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg1-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 0% 100%;
+            }
+            .bg2-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg2-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 65% 100%;
+            }
+            .bg3-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg3-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 0% 100%;
+            }
+            .bg4-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg4-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 64% 100%;
+            }
+            .bg5-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg5-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 10% 100%;
+            }
+            .bg5-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg5-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 10% 100%;
+            }
+            .bg6-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg6-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
+            .bg6-1-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg6-1-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 71%;
+            }
+            .bg6-2-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg6-2-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 71%;
+            }
+            .bg6-3-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg6-3-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
+            .bg7-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg7-1-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
+            .bg8-xs{
+                width: 100%;
+                background: #FFF url(images/filorga_glykopeel/bg8-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
             .font-italic-xs{
                 font-style: italic;
             }
@@ -452,7 +527,7 @@ and open the template in the editor.
                 color: #000;
             }
             .border-xs{
-                border: 1px solid #000;
+                border: 1px solid #FFF;
                 padding: 10px;
             }
             .line-height-xs-16{
@@ -649,6 +724,11 @@ and open the template in the editor.
                 box-shadow: 5px -1px 5px 1px rgba(167, 167, 167, 0.37);
                 padding: 15px;
             }
+            .bg_color_pink-xs{
+                background: #e37f8a;
+
+            }
+            e37f8a
 
             .letter-spacing-1px{
                 letter-spacing: inherit;
@@ -661,6 +741,25 @@ and open the template in the editor.
             }
             /*            md size*/
             @media(min-width:992px){
+                .bg1-xs,
+                .bg2-xs,
+                .bg3-xs,
+                .bg4-xs,
+                .bg5-xs,
+                .bg6-xs,
+                .bg6-1-xs,.bg6-2-xs,.bg6-3-xs,
+                .bg7-xs,
+                .bg7-1-xs,
+                .bg8-xs,
+                .bg9-xs,
+                .bg10-xs
+                {
+
+                    background: inherit;
+                    -moz-background-size: inherit;
+                    background-size: inherit;
+                    background-position:inherit;
+                }
                 .font-italic-xs{
                     font-style: inherit;
                 }
@@ -881,7 +980,7 @@ and open the template in the editor.
 
                 } 
                 .bg3-body-sentance-7{
-                    margin: 160px 0 0 0;
+                    margin: 94px 0 0 0;
                     /* left: 21px; */
                     line-height: 19px;
                     text-align: center;
@@ -930,7 +1029,7 @@ and open the template in the editor.
                 }
                 .bg4-body-sentance-3{
 
-                    margin: 125px 0 0 0;
+                    margin: 49px 0 0 0;
                     line-height: 29px;
                     text-align: center;
                     letter-spacing: -0.1px;
@@ -1058,6 +1157,11 @@ and open the template in the editor.
                     box-shadow: inherit;
                     padding: inherit;
                 }
+                .bg_color_pink-xs{
+                    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d1dfc5+0,caddba+40,c4d8af+100 */
+                    background: inherit; /* Old browsers */
+
+                }
 
             }
 
@@ -1065,6 +1169,7 @@ and open the template in the editor.
 
 
         </style>
+
 
     </body>
 </html>

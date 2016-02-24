@@ -11,18 +11,19 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
-
+        <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
     </head>
     <body>
         <div class="container">
             <div style="max-width: 800px !important;">
-                <div class="">
-                    <div class="bg1">
-                        <div class="row">
-                            <div class="col-xs-12">
 
-                                <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
+                <div class="bg1">
+                    <div class="row">
+                        <div class="bg1-xs padding-bottom-3em-xs padding-top-2em-xs col-xs-12">
+
+                            <div class="bg1-head-sentance-1 text-center-xs" style="">
+                                <div class="bg_color-white-low_light padding-all-10-xs">
                                     <div style="font-family: Century Schoolbook;font-size: 72px;color: #0e0e0e;text-transform: uppercase;"> 
                                         <div class="font-xs-34">Filorga  </div>
                                     </div>
@@ -39,66 +40,65 @@ and open the template in the editor.
                                             <span class="font-xs-26"> MESOTHERAPY</span>
                                         </span>
                                     </div>
+                                </div>
 
-                                    <p class="hidden-lg hidden-md">&nbsp;</p>
-                                    <div  class="bg1-head-sentance-4">
-                                        <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
-                                            72%
-                                        </span>
-                                    </div>
-                                    <div class="bg1-head-sentance-5">
-                                        <span style="font-family: times new roman;font-size: 22px;color: #0e0e0e;">
-                                            <i>  FINE LINE &WRINKLE <br>
-                                                REDUCTION
-                                            </i>
-                                        </span>    
-                                    </div>
-                                    <p class="hidden-lg hidden-md">&nbsp;</p>
+                                <p class="hidden-lg hidden-md">&nbsp;</p>
+                                <div  class="bg1-head-sentance-4">
+                                    <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
+                                        72%
+                                    </span>
+                                </div>
+                                <div class="bg1-head-sentance-5">
+                                    <span style="font-family: times new roman;font-size: 22px;color: #0e0e0e;">
+                                        <i>  FINE LINE &WRINKLE <br>
+                                            REDUCTION
+                                        </i>
+                                    </span>    
+                                </div>
+                                <p class="hidden-lg hidden-md">&nbsp;</p>
 
-                                    <div  class="bg1-head-sentance-6">
-                                        <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
-                                            132%
-                                        </span>
-                                    </div>
-                                    <div class="bg1-head-sentance-7">
-                                        <span style="font-family: times new roman;font-size: 22px;color: #0e0e0e;">
-                                            <i>IMPROVED OVERALL <br>
-                                                HYDRATION
-                                            </i>
-                                        </span>    
-                                    </div>
-                                    <p class="hidden-lg hidden-md">&nbsp;</p>
+                                <div  class="bg1-head-sentance-6">
+                                    <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
+                                        132%
+                                    </span>
+                                </div>
+                                <div class="bg1-head-sentance-7">
+                                    <span style="font-family: times new roman;font-size: 22px;color: #0e0e0e;">
+                                        <i>IMPROVED OVERALL <br>
+                                            HYDRATION
+                                        </i>
+                                    </span>    
+                                </div>
+                                <p class="hidden-lg hidden-md">&nbsp;</p>
 
-                                    <div  class="bg1-head-sentance-8">
-                                        <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
-                                            256%
-                                        </span>
-                                    </div>
-                                    <div class="bg1-head-sentance-9">
-                                        <span style="font-family: times new roman;font-size: 22px;color: #0e0e0e;" class="uppercase">
-                                            <i>
-                                                increased collagen <br>
-                                                SYNTHESIS
-                                            </i>
-                                        </span>    
-                                    </div>
-
+                                <div  class="bg1-head-sentance-8">
+                                    <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
+                                        256%
+                                    </span>
+                                </div>
+                                <div class="bg1-head-sentance-9">
+                                    <span style="font-family: times new roman;font-size: 22px;color: #0e0e0e;" class="uppercase">
+                                        <i>
+                                            increased collagen <br>
+                                            SYNTHESIS
+                                        </i>
+                                    </span>    
                                 </div>
 
                             </div>
 
                         </div>
+
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
+
                 <div class="bg2">
                     <div class="row">
 
-                        <div class="col-xs-12">
-                            <div class="bg_color_1-xs">
-                                <div class="bg2-head-sentance-1">
+                        <div class="bg2-xs padding-top-2em-xs padding-bottom-3em-xs col-xs-12">
+                            <div class="">
+                                <div class=" bg2-head-sentance-1">
 
                                     <div style="font-family: Century Gothic; font-size: 36px;color: #FFF; " >
                                         <div  class="color-white-xs text-center-xs"> 
@@ -107,7 +107,7 @@ and open the template in the editor.
 
                                         </div>
                                     </div>
-                                    <div class="" style="margin-bottom: 5px;"></div>
+                                    <div class="" style="margin-bottom: 20px;"></div>
                                     <div style="font-family: Arial; font-size: 12px;color: #FFF; " >
                                         <div  class="color-white-xs text-center-xs"> 
 
@@ -150,12 +150,10 @@ and open the template in the editor.
                     </div>
 
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_2.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg3">
                     <div class="row ">
-                        <div class="col-xs-12">
+                        <div class="bg3-xs padding-bottom-4em-xs padding-top-3em-xs col-xs-12">
                             <div class="bg3-head-sentance-1 line-height-xs-28 text-center-xs">
                                 <div style="font-family:Century Gothic;font-size: 24px;color: #000;">
                                     <div class="color-black-xs font-xs-22 border-xs"> 
@@ -191,12 +189,9 @@ and open the template in the editor.
 
                 </div>
 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg4">
                     <div class="row ">
-                        <div class="col-xs-12">
+                        <div class="padding-bottom-3em-xs padding-top-3em-xs col-xs-12">
                             <div class="bg4-body-sentance-1">
                                 <div style="font-family:Century Gothic;font-size: 18px;color: #000;text-align: center;">
                                     <strong>  
@@ -339,14 +334,14 @@ and open the template in the editor.
                                     </div>
 
                                     <b>Fourteen vitamins </b><br>
-                                    including A, B, C and E, stimulate vital cell functioning.<br><br>
+                                    <span style="font-size: 12px;">including A, B, C and E, stimulate vital cell functioning.</span><br><br>
 
                                     <b> Twenty-four amino acids</b> <br>
-                                    <div style="letter-spacing: -0.6px;"> 
+                                    <div style="letter-spacing: -0.6px;font-size: 12px;"> 
                                         promote protein production which leads to increased amounts of elastin and collagen.<br><br>
                                     </div>
                                     <b> Two anti-oxidants </b><br>
-                                    capture free-radicals, leading to greater health and longevity.
+                                    <span style="font-size: 12px;">capture free-radicals, leading to greater health and longevity.</span>
 
                                 </div>
                             </div>
@@ -357,23 +352,15 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_2.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg5">
                     <div class="row">
-                        <div class="col-xs-12">
-
-                            <div class="bg5-body-sentance-1 text-center-xs">
-
+                        <div class="bg4-xs padding-bottom-4em-xs padding-top-1em-xs col-xs-12">
+                            <div class="bg5-body-sentance-1 text-center-xs margin-bottom-20-xs">
                                 <div style="font-family:  Century Schoolbook; font-size:36px;color: #000;">
                                     Protocol
-
                                 </div>
                             </div>
-
-                            <br class="hidden-md hidden-lg" >
                             <div class="bg5-body-sentance-2 text-indent-xs">
 
                                 <div style="font-family:  Arial; font-size: 14px;color: #000;">
@@ -425,13 +412,11 @@ and open the template in the editor.
                     </div>
                 </div>
 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg6">
                     <div class="row">
-                        <div class="col-xs-12">
-                            <div class="bg6-body-sentance-1 text-center-xs">
+                        <div class="bg5-xs padding-top-2em-xs padding-bottom-3em-xs col-xs-12">
+                            <div class="bg6-body-sentance-1 ">
                                 <div style="font-family:  Century Schoolbook; font-size:36px;color: #000;">
                                     Usage:
 
@@ -446,15 +431,61 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga-Meso_Needling/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
 
             </div>
         </div>
 
         <style>
+            .bg1-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_NCTF135/bg1-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 47% 100%;
+            }
+            .bg2-xs{
+                width: 100%;
+                background: #e37f8a;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 100% 100%;
+            }
+            .bg3-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_NCTF135/bg3-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 10% 100%;
+            }
+            .bg4-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_NCTF135/bg4-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 0% 100%;
+            }
+            .bg5-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_NCTF135/bg5-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 10% 100%;
+            }
+            .bg5-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_NCTF135/bg5-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 10% 100%;
+            }
+            .bg6-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_NCTF135/bg6-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
             .font-italic-xs{
                 font-style: italic;
             }
@@ -651,7 +682,7 @@ and open the template in the editor.
                 line-height: inherit;
             }
             .bg5-body-sentance-1{
-                padding: inherit;
+               
                 line-height: 26px;
 
             }
@@ -703,7 +734,25 @@ and open the template in the editor.
             }
             /*            md size*/
             @media(min-width:992px){
+                .bg1-xs,
+                .bg2-xs,
+                .bg3-xs,
+                .bg4-xs,
+                .bg5-xs,
+                .bg6-xs,
+                .bg6-1-xs,.bg6-2-xs,.bg6-3-xs,
+                .bg7-xs,
+                .bg7-1-xs,
+                .bg8-xs,
+                .bg9-xs,
+                .bg10-xs
+                {
 
+                    background: inherit;
+                    -moz-background-size: inherit;
+                    background-size: inherit;
+                    background-position:inherit;
+                }
                 .font-italic-xs{
                     font-style: inherit;
                 }
@@ -869,7 +918,7 @@ and open the template in the editor.
                     height: 628px;
                 }
                 .bg2-head-sentance-1{
-                    margin: 51px 0 0px 16px;
+                    margin: 35px 0 0px 28px;
                     /* text-align: center; */
                     line-height: 25px;
 
@@ -882,7 +931,7 @@ and open the template in the editor.
                 }
                 .bg2-body-sentance-2{
 
-                    margin: 28px 0 0 66px;
+                    margin: 28px 0 0 79px;
                     letter-spacing: 1px;
                     line-height: 41px;
                 }

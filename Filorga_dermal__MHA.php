@@ -11,36 +11,38 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
-
+        <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
     </head>
     <body>
         <div class="container">
             <div style="max-width: 800px !important;">
-                <div class="bg_color_3-xs">
-                    <div class="bg1">
-                        <div class="row">
-                            <div class="col-xs-12">
-                             
-                                <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
+
+                <div class="bg1">
+                    <div class="row">
+                        <div class="bg1-xs col-xs-12">
+                            <div class="bg1-head-sentance-1 text-center-xs padding-top-2em-xs padding-bottom-2em-xs">
+                                <div class="padding-top-1em-xs padding-bottom-1em-xs">
                                     <div style="font-family: Century Schoolbook;font-size: 72px;color: #000;text-transform: uppercase;"> 
-                                        <div class="font-xs-34">Filorga  </div>
+                                        <div class="font-xs-45">Filorga  </div>
                                     </div>
                                     <br class="hidden-sm hidden-xs">
-                                  
+                                    <div class="hidden-lg hidden-md margin-bottom-15-xs"></div>
+                                    <div class="bg_color-pink-low_light padding-top-1em-xs padding-bottom-1em-xs">
                                         <p class="bg1-head-sentance-2"> 
                                             <span style="font-family: Century Gothic;font-size: 48px;color: #000;">
-                                                <span class="font-xs-26">  M-HA 18 </span>
+                                                <span class="font-xs-40">  M-HA 18 </span>
                                             </span> 
                                         </p>
-
                                         <div class="bg1-head-sentance-3">
                                             <span style="font-family: Century Gothic;font-size: 24px;color: #000;">
                                                 <span class="font-xs-26"> HYALURONIC ACID</span>
                                             </span>
                                         </div>
-                              
+                                    </div>
+
                                     <p class="hidden-lg hidden-md">&nbsp;</p>
+
                                     <div  class="bg1-head-sentance-4">
                                         <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
                                             72%
@@ -53,7 +55,7 @@ and open the template in the editor.
                                             </i>
                                         </span>    
                                     </div>
-                                      <p class="hidden-lg hidden-md">&nbsp;</p>
+                                    <p class="hidden-lg hidden-md">&nbsp;</p>
 
                                     <div  class="bg1-head-sentance-6">
                                         <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
@@ -67,7 +69,7 @@ and open the template in the editor.
                                             </i>
                                         </span>    
                                     </div>
-                                        <p class="hidden-lg hidden-md">&nbsp;</p>
+                                    <p class="hidden-lg hidden-md">&nbsp;</p>
 
                                     <div  class="bg1-head-sentance-8">
                                         <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
@@ -82,81 +84,78 @@ and open the template in the editor.
                                             </i>
                                         </span>    
                                     </div>
-
                                 </div>
-                           
+
                             </div>
 
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg2">
                     <div class="row">
+                        <div class="bg2-xs col-xs-12 padding-top-1em-xs padding-bottom-3em-xs">
+                            <div class="bg2-head-sentance-1">
 
-                        <div class="col-xs-12">
-                            <div class="bg_color_1-xs">
-                                <div class="bg2-head-sentance-1">
-
-                                    <div style="font-family: Century Gothic; font-size: 36px;color: #FFF; " >
-                                        <div  class="color-white-xs text-center-xs"> <span class="font-xs-28 ">Filorga M-HA 18 </span>  <br>
-                                            <div style="font-family: Arial; font-size: 12px;" class="text-center-xs">
-                                                is an industry leading dermal filler and redensification therapy. <br class="hidden-sm hidden-xs">
-                                            </div>
+                                <div style="font-family: Century Gothic; font-size: 36px;color: #FFF; " >
+                                    <div  class="color-white-xs text-center-xs"> <span class="font-xs-28 ">Filorga M-HA 18 </span>  <br>
+                                        <div style="font-family: Arial; font-size: 12px;" class="text-center-xs">
+                                            is an industry leading dermal filler and redensification therapy. <br class="hidden-sm hidden-xs">
                                         </div>
-                                        <p class="" style="margin-bottom: 20px;"></p>
-                                        <div style="font-size: 24px; line-height: 25px;" class="color-white-xs text-center-xs">
-                                            <span class="font-xs-22"> M-HA 18 has been proven  <br class="hidden-sm hidden-xs">
-                                                to successfully treatability
-                                            </span>
-                                        </div>
-
                                     </div>
-                                    <br class="hidden-lg hidden-md">
+                                    <p class="" style="margin-bottom: 20px;"></p>
+                                    <div style="font-size: 24px; line-height: 25px;" class="color-white-xs text-center-xs">
+                                        <span class="font-xs-22"> M-HA 18 has been proven  <br class="hidden-sm hidden-xs">
+                                            to successfully treatability
+                                        </span>
+                                    </div>
 
                                 </div>
-                                <div class="bg2-body-sentance-1">
-                                    <span style="font-family: times new roman;font-size: 22px;color: #FFF; line-height: 25px;" >
-                                        <i><span class="color-white-xs font-xs-20"><img src="images/Filorga_dermal__MHA/icon-check.png" class="hidden-lg hidden-md"> Fine lines</span></i>
-                                    </span>
-                                </div>
-                                <div class="bg2-body-sentance-2">
-                                    <span style="font-family: times new roman;font-size: 22px;color: #FFF; line-height: 25px;" >
-                                        <i><span class="color-white-xs font-xs-20"><img src="images/Filorga_dermal__MHA/icon-check.png" class="hidden-lg hidden-md"> Superficial wrinkles</span></i>
-                                    </span>
-                                </div>
-                                <div class="bg2-body-sentance-3">
-                                    <span style="font-family: times new roman;font-size: 22px;color: #FFF; " >
-                                        <span class="color-white-xs font-xs-20">  
-                                            <i> <img src="images/Filorga_dermal__MHA/icon-check.png" class="hidden-lg hidden-md"> Provide cutaneous <br class="hidden-sm hidden-xs">
-                                                redensification.
-                                            </i>
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="bg2-body-sentance-4">
-                                    <span style="font-family: times new roman;font-size: 22px;color: #FFF; " >
-                                        <span class="color-white-xs font-xs-20"> 
-                                            <i>
-                                                <img src="images/Filorga_dermal__MHA/icon-check.png" class="hidden-lg hidden-md">  Eye contour and <br class="hidden-sm hidden-xs">
-                                                perioral wrinkles <br class="hidden-sm hidden-xs">
-                                                are some of the areas <br class="hidden-sm hidden-xs">
-                                                commonly benefiting<br class="hidden-sm hidden-xs">
-                                                from treatment.
-                                            </i>
-                                        </span>
+                                <br class="hidden-lg hidden-md">
+
+                            </div>
+                            <div class="bg2-body-sentance-1">
+                                <span style="font-family: times new roman;font-size: 22px;color: #FFF; line-height: 25px;" >
+                                    <i><span class="color-white-xs font-xs-20"><img src="images/Filorga_dermal__MHA/icon-check.png" class="hidden-lg hidden-md"> Fine lines</span></i>
+                                </span>
+                            </div>
+                            <div class="bg2-body-sentance-2">
+                                <span style="font-family: times new roman;font-size: 22px;color: #FFF; line-height: 25px;" >
+                                    <i><span class="color-white-xs font-xs-20"><img src="images/Filorga_dermal__MHA/icon-check.png" class="hidden-lg hidden-md"> Superficial wrinkles</span></i>
+                                </span>
+                            </div>
+                            <div class="bg2-body-sentance-3">
+                                <span style="font-family: times new roman;font-size: 22px;color: #FFF; " >
+                                    <span class="color-white-xs font-xs-20">  
+                                        <i> <img src="images/Filorga_dermal__MHA/icon-check.png" class="hidden-lg hidden-md"> Provide cutaneous <br class="hidden-sm hidden-xs">
+                                            redensification.
                                         </i>
                                     </span>
-                                </div>
+                                </span>
                             </div>
+                            <div class="bg2-body-sentance-4">
+                                <span style="font-family: times new roman;font-size: 22px;color: #FFF; " >
+                                    <span class="color-white-xs font-xs-20"> 
+                                        <i>
+                                            <img src="images/Filorga_dermal__MHA/icon-check.png" class="hidden-lg hidden-md">  Eye contour and <br class="hidden-sm hidden-xs">
+                                            perioral wrinkles <br class="hidden-sm hidden-xs">
+                                            are some of the areas <br class="hidden-sm hidden-xs">
+                                            commonly benefiting<br class="hidden-sm hidden-xs">
+                                            from treatment.
+                                        </i>
+                                    </span>
+                                    </i>
+                                </span>
+                            </div>
+
                         </div>
                     </div>
 
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg3">
                     <div class="row ">
-                        <div class="col-xs-12">
+                        <div class="bg3-xs col-xs-12 padding-top-2em-xs padding-bottom-3em-xs">
                             <div class="bg3-head-sentance-1 line-height-xs-28 text-center-xs">
                                 <span style="font-family:Century Schoolbook;font-size: 36px;color: #000;">
                                     <span class="color-black-xs font-xs-28 "> 
@@ -200,13 +199,13 @@ and open the template in the editor.
                 <p class="hidden-lg hidden-md">&nbsp;</p>
                 <div class="bg4">
                     <p class="hidden-lg hidden-md">
-                        <img src="images/Filorga_dermal__MHA/before_after.jpg" class="img-responsive margin-auto">
+                        <img src="images/Filorga_dermal__MHA/before_after.png" class="img-responsive margin-auto">
                     </p>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+             
                 <div class="bg5">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="bg5-xs box-shadow-xs padding-bottom-4em-xs padding-top-3em-xs col-xs-12">
                             <div class=" border-xs">
                                 <div class="bg5-body-sentance-1 text-center-xs">
 
@@ -234,7 +233,9 @@ and open the template in the editor.
                                     biocompatibility.
                                 </span>
                             </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                        </div>
+                       
+                        <div class="bg6-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
                             <div class="bg5-body-sentance-3">
                                 <p>
                                     <span style="font-family:  Century schoolbook; font-size: 36px;color: #000;">
@@ -248,10 +249,6 @@ and open the template in the editor.
 
                                 </span>
                                 <p class="hidden-lg hidden-md">&nbsp;</p>
-                                <p class="hidden-lg hidden-md">
-                                    <img src="images/Filorga_dermal__MHA/img1.jpg" class="img-responsive margin-auto" style="opacity: 0.5;">
-                                </p>
-
                             </div>
 
 
@@ -262,6 +259,84 @@ and open the template in the editor.
             </div>
 
             <style>
+                .bg1-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg1-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 0% 100%;
+                }
+                .bg2-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg2-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 50% 100%;
+                }
+                .bg3-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg3-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 64% 100%;
+                }
+                .bg4-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg4-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 64% 100%;
+                }
+                .bg5-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg5-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 10% 100%;
+                }
+                .bg5-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg5-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 10% 100%;
+                }
+                .bg6-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg6-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 50% 100%;
+                }
+                .bg6-2-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg6-2-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 50% 71%;
+                }
+                .bg6-3-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg6-3-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 50% 100%;
+                }
+                .bg7-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg7-1-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 50% 100%;
+                }
+                .bg8-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_dermal__MHA/bg8-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 50% 100%;
+                }
+
                 .uppercase{
                     text-transform: uppercase;
                 }
@@ -301,6 +376,16 @@ and open the template in the editor.
                 .font-bold-xs{
                     font-weight: bold;
                 }
+                .font-xs-50{
+                    font-size: 50px;
+                }
+                .font-xs-45{
+                    font-size: 45px;
+                }
+                .font-xs-40{
+                    font-size: 40px;
+                }
+
                 .font-xs-36{
                     font-size: 36px;
                 }
@@ -473,7 +558,25 @@ and open the template in the editor.
                 }
                 /*            md size*/
                 @media(min-width:992px){
+                    .bg1-xs,
+                    .bg2-xs,
+                    .bg3-xs,
+                    .bg4-xs,
+                    .bg5-xs,
+                    .bg6-xs,
+                    .bg6-1-xs,.bg6-2-xs,.bg6-3-xs,
+                    .bg7-xs,
+                    .bg7-1-xs,
+                    .bg8-xs,
+                    .bg9-xs,
+                    .bg10-xs
+                    {
 
+                        background: inherit;
+                        -moz-background-size: inherit;
+                        background-size: inherit;
+                        background-position:inherit;
+                    }
                     .color-black-xs{
                         color: inherit;;
                     }
@@ -489,7 +592,7 @@ and open the template in the editor.
                     .font-bold-xs{
                         font-weight: inherit;
                     }
-                    .font-xs-36{
+                    .font-xs-36,.font-xs-40,.font-xs-45,.font-xs-50{
                         font-size: inherit;
                     }
                     .font-xs-34{
@@ -618,12 +721,13 @@ and open the template in the editor.
 
 
                     .bg2{
-                        background-image: url(images/Filorga_dermal__MHA/bg2.jpg);
-                        width: 800px;
+                        background-image:  url(images/Filorga_dermal__MHA/bg2.jpg);
+                        //   background: #FFF url(images/Filorga_dermal__MHA/bg2.jpg) center top no-repeat ;
+                        width: 799px;
                         height: 626px;
                     }
                     .bg2-head-sentance-1{
-                        margin: 44px 0 0px 16px;
+                        margin: 44px 0 0px 29px;
                         /* text-align: center; */
                         line-height: 32px;
 
@@ -631,17 +735,17 @@ and open the template in the editor.
                     }
 
                     .bg2-body-sentance-1{
-                        margin: 40px 0 0 160px;
+                        margin: 40px 0 0 170px;
                         letter-spacing: 1px;
 
                     }
                     .bg2-body-sentance-2{
 
-                        margin: 49px 0 0 61px;
+                        margin: 49px 0 0 69px;
                         letter-spacing: 1px;
                     }
                     .bg2-body-sentance-3{
-                        margin: 37px 0 0 74px;
+                        margin: 37px 0 0 84px;
                         letter-spacing: 1px;
                         line-height: 19px;
                         text-align: right;

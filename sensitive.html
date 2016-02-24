@@ -11,146 +11,134 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
-
+        <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
     </head>
     <body>
         <div class="container">
             <div style="max-width: 800px !important;">
-                <div class="">
-                    <div class="bg1">
-                        <div class="row">
-                            <div class="col-xs-12">
-                                <p class="hidden-lg hidden-md">
-                                    <img src="images/sensitive/pd1.jpg" class="img-responsive margin-auto">
-                                </p>
-                                <div class="bg1-head-sentance-1 text-center-xs" style="">
-                                    <div style="font-family: Century Schoolbook;font-size: 34px;color: #000;text-transform: uppercase;"> 
-                                        <div class="font-xs-34">SKIN PERFUSION  </div>
-                                    </div>
 
-                                    <div class="bg1-head-sentance-2 uppercase"> 
-                                        <div style="font-family: Century Schoolbook;font-size: 18px;color: #000;letter-spacing: -0.2px;">
-                                            <div class=""> HIGH RESOLUTION PROCEDURES</div>
-                                        </div> 
-                                    </div>
-                                    <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
-                                    <div class="bg1-head-sentance-3">
-                                        <div style="font-family: Century Gothic;font-size: 15px;color: #000;">
-
-                                            <b>   FILORGA SKIN </b>PERFUSION <b>PROPOSES <br>
-                                                A UNIVERSE OF CUSTOMISED TREATMENTS.
-                                            </b>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="margin-bottom-15-xs hidden-lg hidden-md"></div>
-                                    <div  class="bg1-head-sentance-4">
-                                        <div style="font-family: Arial;font-size: 13px;color: #000;" class="line-height-xs-24">
-                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It combines the therapists expert knowledge with <br class="hidden-xs hidden-xs">
-                                            exclusive techniques derived directly from the <br class="hidden-xs hidden-xs">
-                                            treatments performed in a medical practice with <br class="hidden-xs hidden-xs">
-                                            highly effective products and results.<br class="">
-                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Close relationship existing between Filorga <br class="hidden-xs hidden-xs">
-                                            Salon Range and followup Treatments helps prolong <br class="hidden-xs hidden-xs">
-                                            the salon experience at home.
-                                        </div>
-                                    </div>
-                                    <p class="hidden-md hidden-lg">&nbsp;</p>
-                                    <img src="images/sensitive/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                                    <p class="hidden-md hidden-lg">&nbsp;</p>
-                                    <div class="bg1-head-sentance-5">
-                                        <div style="font-family: Century Gothic;font-size: 15px;color: #000;letter-spacing: -0.4px;">
-                                            <b>   
-                                                HIGHLY SATISFYING SALON TREATMENTS
-                                            </b>
-                                        </div>
-                                    </div>
-                                    <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
-
-                                    <div  class="bg1-head-sentance-6">
-                                        <div style="font-family:Arial;font-size: 13px;color: #000;" class="line-height-xs-24">
-                                            &nbsp; &nbsp; &nbsp;Each treatment combines the effectiveness of the <br class=" hidden-sm hidden-xs">
-                                            aesthetic medicine techniques that have been tested <br class=" hidden-sm hidden-xs">
-                                            resulting with specialised anti-ageing massage <br class=" hidden-sm hidden-xs">
-                                            techniques  and structured treatment plan.<br class="">
-                                            &nbsp; &nbsp; &nbsp;The objective is to bring together visible results<br class=" hidden-sm hidden-xs">
-                                            and moments of total relaxation in order to make you<br class=" hidden-sm hidden-xs">
-                                            feel good in your own skin, both on the outside and <br class=" hidden-sm hidden-xs">
-                                            from within. 
-                                        </div>
-                                    </div>
-                                    <p class="hidden-md hidden-lg">&nbsp;</p>
-                                    <div class="bg1-head-sentance-7">
-                                        <div style="font-family: Century Gothic;font-size: 15px;color: #000;letter-spacing: 0.5px;">
-                                            <b>   
-                                                HIGHLY CUSTOMISED PROCEDURES
-                                            </b>
-                                        </div>
-                                    </div>
-                                    <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
-
-                                    <div  class="bg1-head-sentance-8">
-                                        <div style="font-family:Arial;font-size: 13px;color: #000;" class="line-height-xs-24">
-                                            &nbsp; &nbsp; &nbsp;&nbsp;Every salon procedure combines SKIN PERFUSION <br class=" hidden-sm hidden-xs">
-                                            serum SKIN PERFUSION anti-ageing treatments, <br class=" hidden-sm hidden-xs">
-                                            and the aesthetic medicine techniques that are most <br class=" hidden-sm hidden-xs">
-                                            suitable for the condition of your skin.<br class="">
-                                            &nbsp; &nbsp; &nbsp;&nbsp;All concerns are addressed when beginning your<br class=" hidden-sm hidden-xs">
-                                            treatment It is important to have a full consultation <br class=" hidden-sm hidden-xs">
-                                            with skin diagnosis with your personal therapist prior <br class=" hidden-sm hidden-xs">
-                                            to your treatment
-                                        </div>
-                                    </div>
-
+                <div class="bg1">
+                    <div class="row">
+                        <div class="col-xs-12 padding-bottom-2em-xs padding-top-2em-xs">
+                            <p class="hidden-lg hidden-md">
+                                <img src="images/sensitive/pd1.jpg" class="img-responsive margin-auto">
+                            </p>
+                            <div class="bg1-head-sentance-1 text-center-xs" style="">
+                                <div style="font-family: Century Schoolbook;font-size: 34px;color: #000;text-transform: uppercase;"> 
+                                    <div class="font-xs-34">SKIN PERFUSION  </div>
                                 </div>
 
-                            </div>
+                                <div class="bg1-head-sentance-2 uppercase"> 
+                                    <div style="font-family: Century Schoolbook;font-size: 18px;color: #000;letter-spacing: -0.2px;">
+                                        <div class=""> HIGH RESOLUTION PROCEDURES</div>
+                                    </div> 
+                                </div>
+                                <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
+                                <div class="bg1-head-sentance-3">
+                                    <div style="font-family: Century Gothic;font-size: 15px;color: #000;">
 
+                                        <b>   FILORGA SKIN </b>PERFUSION <b>PROPOSES <br>
+                                            A UNIVERSE OF CUSTOMISED TREATMENTS.
+                                        </b>
+
+                                    </div>
+                                </div>
+
+                                <div class="margin-bottom-15-xs hidden-lg hidden-md"></div>
+                                <div  class="bg1-head-sentance-4">
+                                    <div style="font-family: Arial;font-size: 13px;color: #000;" class="line-height-xs-24">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It combines the therapists expert knowledge with <br class="hidden-xs hidden-xs">
+                                        exclusive techniques derived directly from the <br class="hidden-xs hidden-xs">
+                                        treatments performed in a medical practice with <br class="hidden-xs hidden-xs">
+                                        highly effective products and results.<br class="">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Close relationship existing between Filorga <br class="hidden-xs hidden-xs">
+                                        Salon Range and followup Treatments helps prolong <br class="hidden-xs hidden-xs">
+                                        the salon experience at home.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg2-xs col-xs-12 padding-top-2em-xs padding-bottom-2em-xs">
+
+                            <div class="bg1-head-sentance-5">
+                                <div style="font-family: Century Gothic;font-size: 15px;color: #000;letter-spacing: -0.4px;">
+                                    <b>   
+                                        HIGHLY SATISFYING SALON TREATMENTS
+                                    </b>
+                                </div>
+                            </div>
+                            <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
+
+                            <div  class="bg1-head-sentance-6">
+                                <div style="font-family:Arial;font-size: 13px;color: #000;" class="line-height-xs-24">
+                                    &nbsp; &nbsp; &nbsp;Each treatment combines the effectiveness of the <br class=" hidden-sm hidden-xs">
+                                    aesthetic medicine techniques that have been tested <br class=" hidden-sm hidden-xs">
+                                    resulting with specialised anti-ageing massage <br class=" hidden-sm hidden-xs">
+                                    techniques  and structured treatment plan.<br class="">
+                                    &nbsp; &nbsp; &nbsp;The objective is to bring together visible results<br class=" hidden-sm hidden-xs">
+                                    and moments of total relaxation in order to make you<br class=" hidden-sm hidden-xs">
+                                    feel good in your own skin, both on the outside and <br class=" hidden-sm hidden-xs">
+                                    from within. 
+                                </div>
+                            </div>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <div class="bg1-head-sentance-7">
+                                <div style="font-family: Century Gothic;font-size: 15px;color: #000;letter-spacing: 0.5px;">
+                                    <b>   
+                                        HIGHLY CUSTOMISED PROCEDURES
+                                    </b>
+                                </div>
+                            </div>
+                            <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
+
+                            <div  class="bg1-head-sentance-8">
+                                <div style="font-family:Arial;font-size: 13px;color: #000;" class="line-height-xs-24">
+                                    &nbsp; &nbsp; &nbsp;&nbsp;Every salon procedure combines SKIN PERFUSION <br class=" hidden-sm hidden-xs">
+                                    serum SKIN PERFUSION anti-ageing treatments, <br class=" hidden-sm hidden-xs">
+                                    and the aesthetic medicine techniques that are most <br class=" hidden-sm hidden-xs">
+                                    suitable for the condition of your skin.<br class="">
+                                    &nbsp; &nbsp; &nbsp;&nbsp;All concerns are addressed when beginning your<br class=" hidden-sm hidden-xs">
+                                    treatment It is important to have a full consultation <br class=" hidden-sm hidden-xs">
+                                    with skin diagnosis with your personal therapist prior <br class=" hidden-sm hidden-xs">
+                                    to your treatment
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
+                </div> 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/sensitive/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                <img src="images/sensitive/line-xs.jpg" class="img-responsive margin-auto hidden-lg hidden-md">  
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg2">
                     <div class="row">
-
                         <div class="col-xs-12">
                             <div class="">
-                                <div class="bg2-head-sentance-1 hidden-sm hidden-xs">
-
+                                <div class="bg2-head-sentance-1 head-title-xs">
                                     <div style="font-family: Century Gothic; font-size: 13px;color: #FFF; " >
-                                        <div  class="color-black-xs text-center-xs uppercase"> 
-
+                                        <div  class="text-center-xs uppercase padding-all-10-xs"> 
                                             <strong> Normal to Dry Skin Care Sets </strong>
-
                                         </div>
                                     </div>
                                 </div>
-                                <div class="bg2-head-sentance-1_1  hidden-sm hidden-xs">
-
+                                <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
+                                <div class="bg2-head-sentance-1_1 head-title-active-xs">
                                     <div style="font-family: Century Gothic; font-size: 13px;color: #000; " >
-                                        <div  class="color-black-xs text-center-xs uppercase"> 
-
+                                        <div  class="font-xs-24 text-center-xs uppercase padding-all-10-xs"> 
                                             <strong>Sensitive Skin Care Sets </strong>
-
                                         </div>
                                     </div>
                                 </div>
-                                <div class="bg2-head-sentance-1_2">
-
+                                <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
+                                <div class="bg2-head-sentance-1_2 head-title-xs">
                                     <div style="font-family: Century Gothic; font-size: 13px;color: #FFF; " >
-                                        <div  class="color-black-xs text-center-xs font-xs-24 uppercase"> 
-
+                                        <div  class="text-center-xs uppercase padding-all-10-xs"> 
                                             <strong>Combination <br class="hidden-lg hidden-md">Skin Care Sets</strong>
-
                                         </div>
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
-
+                                <p class="hidden-lg hidden-md">&nbsp;</p>
                                 <p class="hidden-lg hidden-md">
                                     <img src="images/sensitive/pd2.jpg" class="img-responsive margin-auto">
                                 </p>
@@ -220,11 +208,11 @@ and open the template in the editor.
 
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/sensitive/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                <img src="images/sensitive/line-xs.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg3">
                     <div class="row ">
-                        <div class="col-xs-12">
+                        <div class="col-xs-12 padding-bottom-3em-xs">
                             <div class="bg3-body-sentance-1">
                                 <div style="font-family:Century Gothic;font-size: 15px;color: #000;">
                                     <div class="text-center-xs"> 
@@ -335,12 +323,12 @@ and open the template in the editor.
 
                                 </div>
                             </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <img src="images/sensitive/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <img src="images/sensitive/line-xs.jpg" class="img-responsive margin-auto hidden-lg hidden-md">  
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
                             <div class="bg3-body-sentance-6">
                                 <div style="font-family:Century Schoolbook;font-size: 19px;color: #000;">
-                                    <div class="uppercase text-center-xs"> 
+                                    <div class="uppercase font-xs-24 text-center-xs"> 
                                         <strong> Promotion set</strong>
                                     </div>
                                 </div>
@@ -489,16 +477,79 @@ and open the template in the editor.
                     </div>
 
                 </div>
-
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/Filorga_NCTF135HA/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-
-
             </div>
         </div>
 
         <style>
+            .head-title-xs{
+                border-radius: 20px 20px 0px 0px;
+                -moz-border-radius: 20px 20px 0px 0px;
+                -webkit-border-radius: 20px 20px 0px 0px;
+                border: 0px solid #000000;
+                background: #646464;
+                -webkit-box-shadow: 0px -1px 5px 0px rgba(125,125,125,0.58);
+                -moz-box-shadow: 0px -1px 5px 0px rgba(125,125,125,0.58);
+                box-shadow: 0px -1px 5px 0px rgba(125,125,125,0.58);
+            }
+            .head-title-active-xs{
+                border-radius: 20px 20px 0px 0px;
+                -moz-border-radius: 20px 20px 0px 0px;
+                -webkit-border-radius: 20px 20px 0px 0px;
+                border: 0px solid #000000;
+                background: #FFF;
+                -webkit-box-shadow: 0px -1px 5px 0px rgba(125,125,125,0.58);
+                -moz-box-shadow: 0px -1px 5px 0px rgba(125,125,125,0.58);
+                box-shadow: 0px -1px 5px 0px rgba(125,125,125,0.58);
+            }
+            .bg1-xs{
+                width: 100%;
+                background: #FFF url(images/sensitive/bg1-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 0% 100%;
+            }
+            .bg2-xs{
+                width: 100%;
+                background: #FFF url(images/sensitive/bg2-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 100% 100%;
+            }
+            .bg3-xs{
+                width: 100%;
+                background: #FFF url(images/sensitive/bg3-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
+            .bg4-xs{
+                width: 100%;
+                background: #FFF url(images/sensitive/bg4-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 0% 100%;
+            }
+            .bg5-xs{
+                width: 100%;
+                background: #FFF url(images/sensitive/bg5-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 10% 100%;
+            }
+            .bg5-xs{
+                width: 100%;
+                background: #FFF url(images/sensitive/bg5-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 10% 100%;
+            }
+            .bg6-xs{
+                width: 100%;
+                background: #FFF url(images/sensitive/bg6-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
             .font-italic-xs{
                 font-style: italic;
             }
@@ -747,7 +798,36 @@ and open the template in the editor.
             }
             /*            md size*/
             @media(min-width:992px){
+                .bg1-xs,
+                .bg2-xs,
+                .bg3-xs,
+                .bg4-xs,
+                .bg5-xs,
+                .bg6-xs,
+                .bg6-1-xs,.bg6-2-xs,.bg6-3-xs,
+                .bg7-xs,
+                .bg7-1-xs,
+                .bg8-xs,
+                .bg9-xs,
+                .bg10-xs
+                {
 
+                    background: inherit;
+                    -moz-background-size: inherit;
+                    background-size: inherit;
+                    background-position:inherit;
+                }
+
+                .head-title-xs, .head-title-active-xs{
+                    border-radius: inherit;
+                    -moz-border-radius: inherit;
+                    -webkit-border-radius: inherit;
+                    border: inherit;
+                    background: inherit;
+                    -webkit-box-shadow: inherit;
+                    -moz-box-shadow: inherit;
+                    box-shadow: inherit;
+                }
                 .font-italic-xs{
                     font-style: inherit;
                 }
@@ -848,24 +928,23 @@ and open the template in the editor.
                 }
                 .bg1-head-sentance-5{
 
-                    margin: 53px 0 0 1px;
+                    margin: 53px 0 0 425px;
                 }
                 .bg1-head-sentance-6{
-                    margin: 9px 0 0 -1px;
+                    margin: 9px 0 0 405px;
                     line-height: 17px;
 
                 }
-
                 .bg1-head-sentance-7{
 
-                    margin: 75px 0 0 1px;
+                    margin: 75px 0 0 429px;
                 }
                 .bg1-head-sentance-8{
-                    margin: 9px 0 0 -6px;
+                    margin: 9px 0 0 403px;
                     line-height: 17px;
-
+                    /* letter-spacing: -0.1px; */
+                    word-spacing: -1px;
                 }
-
 
 
 
@@ -1112,7 +1191,7 @@ and open the template in the editor.
 
 
                 .bg4{
-                    background-image: url(images/Filorga_NCTF135HA/bg4.jpg);
+                    background-image: url(images/sensitive/bg4.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 1063px;
@@ -1185,7 +1264,7 @@ and open the template in the editor.
 
 
                 .bg5{
-                    background-image: url(images/Filorga_NCTF135HA/bg5.jpg);
+                    background-image: url(images/sensitive/bg5.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 665px;
@@ -1219,7 +1298,7 @@ and open the template in the editor.
 
 
                 .bg6{
-                    background-image: url(images/Filorga_NCTF135HA/bg6.jpg);
+                    background-image: url(images/sensitive/bg6.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 504px;
@@ -1232,7 +1311,7 @@ and open the template in the editor.
                 }
 
                 .bg7{
-                    background-image: url(images/Filorga_NCTF135HA/bg7.jpg);
+                    background-image: url(images/sensitive/bg7.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 751px;

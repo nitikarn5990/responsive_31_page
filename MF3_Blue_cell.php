@@ -21,23 +21,21 @@ and open the template in the editor.
                 <div class="">
                     <div class="bg1">
                         <div class="row">
-                            <div class="col-xs-12">
-
+                            <div class="bg1-xs col-xs-12">
                                 <div class="bg1-head-sentance-1 text-center-xs" style="">
-
+                                    <p class="hidden-md hidden-lg">&nbsp;</p>
                                     <div style="font-family: Century Gothic;font-size: 28px;color: #02144d;word-spacing: 5px;"> 
-
-
-                                        <div class="stroke-single" title="MFIII of Switzerland Presents"> 
-                                            MFIII of Switzerland Presents
-                                        </div>
-
+                                        <span class="stroke-single" title="MFIII of Switzerland"> 
+                                            MFIII of Switzerland
+                                        </span>
+                                        <span class="stroke-single" title="Presents"> 
+                                            Presents
+                                        </span>
                                     </div>
-
                                     <div class="bg1-head-sentance-2"> 
                                         <div style="font-family: Century Gothic;font-size: 40px;color: #02144d;">
                                             <div class="font-xs-28"> 
-                                                <b>
+                                                <strong>
                                                     <span class="stroke-single" title="MFIII Bluecell"> 
                                                         MFIII Bluecell 
 
@@ -48,18 +46,20 @@ and open the template in the editor.
 
                                                     </span>
                                                     <br>
-                                                    <span style=" word-spacing: -1px;letter-spacing: -1px;" class="stroke-single" title="(Advanced Formula 2)"> 
-                                                        (Advanced Formula 2)
-
+                                                    <span style=" word-spacing: -1px;letter-spacing: -1px;" class="stroke-single" title="(Advanced "> 
+                                                        (Advanced
                                                     </span>
-                                                </b>
+                                                    <span style=" word-spacing: -1px;letter-spacing: -1px;" class="stroke-single" title="Formula 2)"> 
+                                                        Formula 2)
+                                                    </span>
+                                                </strong>
 
 
                                             </div>
                                         </div> 
                                     </div>
                                     <p class="hidden-lg hidden-md">
-                                        <img src="images/bluecell/pd1.jpg" class="img-responsive margin-auto">
+                                        <img src="images/MF3_Blue_cell/bg1-img1.png" class="img-responsive margin-auto">
                                     </p>
                                     <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
                                     <div class="bg1-head-sentance-3">
@@ -71,7 +71,7 @@ and open the template in the editor.
                                             </div>
                                         </div> 
                                     </div>
-
+                                    <p class="hidden-md hidden-lg">&nbsp;</p>
 
                                 </div>
 
@@ -80,95 +80,104 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/bluecell/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg2">
                     <div class="row">
+                        <div class="bg2-bubble-1-xs col-xs-12">     
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <div class="bg2-head-sentance-1">
 
-                        <div class="col-xs-12">
-                            <div class="">
-                                <div class="bg2-head-sentance-1">
+                                <div style="font-family: Arial; font-size: 13px;color: #000;text-align: center;" >
+                                    <div  class="color-black-xs text-center-xs line-height-xs-19 line-height-xs-16"> 
 
-                                    <div style="font-family: Arial; font-size: 13px;color: #000;text-align: center;" >
-                                        <div  class="color-black-xs text-center-xs line-height-xs-24"> 
 
-                                            MFIII Bluecell Extracts Advanced Formula 2 <br class="hidden-sm hidden-xs">
-                                            (or MFIII Bluecell Extracts AF2) is a fast-absorbing, <br class="hidden-sm hidden-xs">
-                                            moisturizing formula that combines the rich cellular nutrients <br class="hidden-sm hidden-xs">
-                                            of blue plants and several other bioactive botanical extracts <br class="hidden-sm hidden-xs">
-                                            and essential lipids for rejuvenation of the face, eye and neck.<br><br>
+                                        MFIII Bluecell Extracts Advanced Formula 2 <br>
+                                        (or MFIII Bluecell Extracts AF2) is a fast-absorbing, <br>
+                                        moisturizing formula that combines the rich cellular nutrients <br>
+                                        of blue plants and several other bioactive botanical extracts <br>
+                                        and essential lipids for rejuvenation of the face, eye and neck.<br><br>
 
-                                            If you have experienced thickness and oily residue/eects from <br class="hidden-sm hidden-xs">
-                                            cream-based cosmetic products, MFIII Bluecell Extracts AF2 <br class="hidden-sm hidden-xs">
-                                            Serum Gel instead gives you clean and cooling eect upon <br class="hidden-sm hidden-xs">
-                                            application, and does not clog pores.<br><br>
+                                        If you have experienced thickness and oily residue/eects from <br>
+                                        cream-based cosmetic products, MFIII Bluecell Extracts AF2 <br>
+                                        Serum Gel instead gives you clean and cooling eect upon <br>
+                                        application, and does not clog pores.<br><br>
 
-                                            With MFIII Bluecell Extracts AF2 combined function as  <br class="hidden-sm hidden-xs">
-                                            a face moisturizer, eye gel and neck gel, you will <br class="hidden-sm hidden-xs">
-                                            no longer need to carry around multiple <br class="hidden-sm hidden-xs">
-                                            products for your skin.
+                                        With MFIII Bluecell Extracts AF2 combined function as  <br>
+                                        a face moisturizer, eye gel and neck gel, you will <br>
+                                        no longer need to carry around multiple <br>
+                                        products for your skin.
 
-                                        </div>
                                     </div>
                                 </div>
-                                <p class="hidden-lg hidden-md">&nbsp;</p>
-                                <div class="bg2-head-sentance-1_1 ">
-
-                                    <div style="font-family: Arial; font-size: 13px;color: #000;text-align: center;" >
-                                        <div  class="color-black-xs font-bold-xs font-xs-16"> 
-                                            MFIII Bluecell Extracts AF2<br class="hidden-sm hidden-xs">
-                                            is beauty and convenience, <br class="hidden-sm hidden-xs">
-                                            all in one bottle!
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <p class="hidden-lg hidden-md">&nbsp;</p>
-                                <div class="clearfix"></div>
-                                <div class="bg2-head-sentance-1_2">
-                                    <div style="font-family: Century Gothic; font-size: 18px;color: #000; " >
-                                        <div  class="color-black-xs text-center-xs"> 
-                                            MFIII Bluecell Extracts AF2 (Advanced Formula)  <br>
-                                            is clinically proven to reduce crow's feet (the wrinkles on the side of your eyes) <br class="hidden-sm hidden-xs">
-                                            and neck wrinkles.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <p class="hidden-lg hidden-md">
-                                    <img src="images/bluecell/pd2.jpg" class="img-responsive margin-auto"> 
-                                </p>
-
-
-                                <div class="bg2-head-sentance-1_3">
-                                    <div style="font-family: Arial; font-size: 13px;color: #000; " >
-                                        <div  class="color-black-xs text-center-xs"> 
-                                            <strong>
-                                                MFIII Bluecell Extracts AF2 (Advanced Formula 2)<br class="hidden-sm hidden-xs">
-                                                is the all in one effective product that is a face mosturizer, <br class="hidden-sm hidden-xs">
-                                                neck gel, and eye gel that will eliminate the need for using <br class="hidden-sm hidden-xs">
-                                                more than one skin care product!
-                                            </strong>
-                                        </div>
-                                    </div>
-                                </div>
-
 
                             </div>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
+
+                        </div>
+                        <p class="hidden-lg hidden-md">&nbsp;</p>
+                        <p class="hidden-md hidden-lg">&nbsp;</p>
+                        <div class="col-xs-12">
+                            <div class="bg2-head-sentance-1_1 ">
+
+                                <div style="font-family: Arial; font-size: 13px;color: #000;text-align: center;" >
+                                    <div  class="color-black-xs font-bold-xs font-xs-16 bg2-bubble-2-xs padding-top-6em-xs"> 
+                                        MFIII Bluecell Extracts AF2<br >
+                                        is beauty and convenience, <br >
+                                        all in one bottle!
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12">
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <div class="clearfix"></div>
+                            <div class="bg2-head-sentance-1_2">
+                                <div style="font-family: Century Gothic; font-size: 18px;color: #000; " >
+                                    <div  class="color-black-xs text-center-xs"> 
+                                        MFIII Bluecell Extracts AF2 (Advanced Formula)  <br>
+                                        is clinically proven to reduce crow's feet (the wrinkles on the side of your eyes) <br class="hidden-sm hidden-xs">
+                                        and neck wrinkles.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="hidden-lg hidden-md">&nbsp;</p>
+                        <p class="hidden-lg hidden-md">
+                            <img src="images/MF3_Blue_cell/pd2.jpg" class="img-responsive margin-auto"> 
+                        </p>
+                        <div class="margin-bottom-15-xs hidden-lg hidden-md"></div>
+                        <div class="col-xs-12 bg_color-blue">
+                            <div class="bg2-head-sentance-1_3">
+                                <div style="font-family: Arial; font-size: 13px;color: #000; " >
+                                    <div class=" padding-all-10-xs text-center-xs"> 
+                                        <strong>
+                                            MFIII Bluecell Extracts AF2 (Advanced Formula 2)<br class="hidden-sm hidden-xs">
+                                            is the all in one effective product that is a face mosturizer, <br class="hidden-sm hidden-xs">
+                                            neck gel, and eye gel that will eliminate the need for using <br class="hidden-sm hidden-xs">
+                                            more than one skin care product!
+                                        </strong>
+                                    </div>
+                                </div>
+                            </div>
+
+
                         </div>
                     </div>
 
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/MF_HP/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg3">
                     <div class="row ">
                         <div class="col-xs-12 line-height-xs-24">
                             <div class="bg3-body-sentance-1">
                                 <div style="font-family:Century Gothic;font-size: 22px;color: #000;">
-                                    <div class="text-center-xs line-height-xs-36"> 
+                                    <div class="bg6-img1 text-center-xs line-height-xs-36 padding-top-3em-xs"> 
                                         <strong>
                                             A NEW <br>
                                             EVOLUTION <br>
@@ -177,6 +186,8 @@ and open the template in the editor.
                                     </div>
                                 </div>
                             </div>
+
+
                             <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
 
                             <div class="bg3-body-sentance-2">
@@ -192,13 +203,13 @@ and open the template in the editor.
                             <div class="bg3-body-sentance-3">
                                 <div style="font-family: Arial;font-size: 14px;color: #000;" class="">
                                     <div class="text-center-xs">
-                                        <span class="hidden-sm hidden-xs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><strong><span class="hidden-lg hidden-md"><img src="images/bluecell/icon-water.jpg">&nbsp;</span>Moisturizer</strong>    <br>
+                                        <span class="hidden-sm hidden-xs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><strong><span class="hidden-lg hidden-md"><img src="images/MF3_Blue_cell/icon-water.jpg">&nbsp;</span>Moisturizer</strong>    <br>
                                         Provides long-lasting hydration for a more nourished and radiant complexion.<br><br>
 
-                                        <span class="hidden-sm hidden-xs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><strong><span class="hidden-lg hidden-md"><img src="images/bluecell/icon-water.jpg">&nbsp;</span>Eye gel </strong>            <br>
+                                        <span class="hidden-sm hidden-xs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><strong><span class="hidden-lg hidden-md"><img src="images/MF3_Blue_cell/icon-water.jpg">&nbsp;</span>Eye gel </strong>            <br>
                                         Rejuvenate areas of the eyes to diminish visible signs of ageing and fatigue.<br><br>
 
-                                        <span class="hidden-sm hidden-xs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><strong><span class="hidden-lg hidden-md"><img src="images/bluecell/icon-water.jpg">&nbsp;</span>Neck gel</strong>          <br>  
+                                        <span class="hidden-sm hidden-xs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><strong><span class="hidden-lg hidden-md"><img src="images/MF3_Blue_cell/icon-water.jpg">&nbsp;</span>Neck gel</strong>          <br>  
                                         Apply on area of the neck to maintain an equally beautiful skin.
                                     </div>
                                 </div>
@@ -221,14 +232,11 @@ and open the template in the editor.
 
 
                         </div>
-
-
                     </div>
 
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/MF_HP/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg4">
                     <div class="row ">
                         <div class="col-xs-12 line-height-xs-24">
@@ -240,8 +248,8 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <div class="bg4-body-sentance-2">
-                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;" class="text-center-xs uppercase line-height-xs-24">
-                                    <strong>
+                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;" class="bg6-img1 padding-top-4em-xs text-center-xs uppercase line-height-xs-24">
+                                    <strong class="font-xs-16">
                                         Researched and <br>
                                         developed  <br>
                                         to intervene  <br>
@@ -252,7 +260,7 @@ and open the template in the editor.
 
                             </div>
                             <p class="hidden-lg hidden-md">
-                                <img src="images/bluecell/pd3.jpg" class="img-responsive margin-auto"> 
+                                <img src="images/MF3_Blue_cell/pd3.jpg" class="img-responsive margin-auto"> 
                             </p>
                             <div class="bg4-body-sentance-1 hidden-lg hidden-md font-italic-xs">
                                 <div style="font-family:times new roman;font-size: 14px;color: #000;" class="text-center-xs ">
@@ -265,9 +273,9 @@ and open the template in the editor.
                             <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
                             <div class="bg4-body-sentance-3">
                                 <div style="font-family:Arial;font-size: 14px;color: #000;" class="">
-                                    <span class="hidden-lg hidden-md"><img src="images/bluecell/icon-water.jpg">&nbsp;</span>Nature's uncompromising gravity causes skin to sag - changing the shape of the face.<br>
-                                    <span class="hidden-lg hidden-md"><img src="images/bluecell/icon-water.jpg">&nbsp;</span>Dry skin, wrinkles and fine lines are tell-tale signs of aging.<br>
-                                    <span class="hidden-lg hidden-md"><img src="images/bluecell/icon-water.jpg">&nbsp;</span>Dullness and dark spots are evidence of exposure to environmental stress.
+                                    <span class="hidden-lg hidden-md"><img src="images/MF3_Blue_cell/icon-water.jpg">&nbsp;</span>Nature's uncompromising gravity causes skin to sag - changing the shape of the face.<br>
+                                    <span class="hidden-lg hidden-md"><img src="images/MF3_Blue_cell/icon-water.jpg">&nbsp;</span>Dry skin, wrinkles and fine lines are tell-tale signs of aging.<br>
+                                    <span class="hidden-lg hidden-md"><img src="images/MF3_Blue_cell/icon-water.jpg">&nbsp;</span>Dullness and dark spots are evidence of exposure to environmental stress.
                                 </div>
                             </div>
                             <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
@@ -283,10 +291,10 @@ and open the template in the editor.
                             <div class="bg4-body-sentance-5">
                                 <div style="font-family:Arial;font-size: 14px;color: #000;">
                                     <strong> 
-                                        <span class="hidden-lg hidden-md"><img src="images/bluecell/icon-check_box.png">&nbsp;</span>Nourishes, rejuvenates and regenerates skin cells <br class="hidden-sm hidden-xs">
+                                        <span class="hidden-lg hidden-md"><img src="images/MF3_Blue_cell/icon-check_box.png">&nbsp;</span>Nourishes, rejuvenates and regenerates skin cells <br class="hidden-sm hidden-xs">
                                         throughout the night while you sleep.<br><br>
 
-                                        <span class="hidden-lg hidden-md"><img src="images/bluecell/icon-check_box.png">&nbsp;</span>Your face, neck, and the areas around your eyes, <br class="hidden-sm hidden-xs">
+                                        <span class="hidden-lg hidden-md"><img src="images/MF3_Blue_cell/icon-check_box.png">&nbsp;</span>Your face, neck, and the areas around your eyes, <br class="hidden-sm hidden-xs">
                                         will feel exquisitely moist, without the slightest hint of <br class="hidden-sm hidden-xs">
                                         greasiness or stickiness.
                                     </strong>
@@ -306,19 +314,19 @@ and open the template in the editor.
                             <div class="bg4-body-sentance-7">
                                 <div style="font-family:Arial;font-size: 14px;color: #000;">
                                     <strong> 
-                                        <span class="hidden-lg hidden-md"><img src="images/bluecell/icon-check_box.png">&nbsp;</span>This increases the skin's elasticity and brings radiance<br class="hidden-sm hidden-xs">
+                                        <span class="hidden-lg hidden-md"><img src="images/MF3_Blue_cell/icon-check_box.png">&nbsp;</span>This increases the skin's elasticity and brings radiance<br class="hidden-sm hidden-xs">
                                         from within and protects the outer skin layers against <br class="hidden-sm hidden-xs">
                                         damaging environmental elements.<br><br>
 
-                                        <span class="hidden-lg hidden-md"><img src="images/bluecell/icon-check_box.png">&nbsp;</span>Your skin becomes smooth, energized, refined, firm, <br class="hidden-sm hidden-xs">
+                                        <span class="hidden-lg hidden-md"><img src="images/MF3_Blue_cell/icon-check_box.png">&nbsp;</span>Your skin becomes smooth, energized, refined, firm, <br class="hidden-sm hidden-xs">
                                         yet ideally supple and resilient with improved texture <br class="hidden-sm hidden-xs">
                                         and complexion
                                     </strong>
                                 </div>
                             </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
+
                             <p class="hidden-lg hidden-md">
-                                <img src="images/bluecell/pd4.jpg" class="margin-auto img-responsive">
+                                <img src="images/MF3_Blue_cell/pd4.jpg" class="margin-auto img-responsive">
                             </p>
                             <div class="bg4-body-sentance-8">
                                 <div style="font-family:times new roman;font-size: 14px;color: #000; text-align: center;">
@@ -330,7 +338,7 @@ and open the template in the editor.
 
                                 </div>
                             </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
                             <div class="clearfix"></div>
                             <div class="bg4-body-sentance-9">
                                 <div style="font-family:Arial;font-size: 14px;color: #000; ">
@@ -347,13 +355,12 @@ and open the template in the editor.
                     </div>
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/MF_HP/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg5">
                     <div class="row ">
                         <div class="col-xs-12">
                             <div class="bg5-body-sentance-1">
-                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;text-align: center;" class="text-center-xs">
+                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;text-align: center;" class="bg6-img1 padding-top-4em-xs text-center-xs">
                                     <strong>
                                         MFIII Bluecell <br>
                                         Extracts AF2  <br>
@@ -362,8 +369,10 @@ and open the template in the editor.
                                     </strong>
                                 </div>
                             </div>
+                        </div>
                             <div class="clearfix"></div>
                             <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
+                             <div class="col-xs-12">
                             <div class="bg5-body-sentance-2">
                                 <div style="font-family:Arial;font-size: 14px;color: #000;">
                                     With these new ingredients, MFIII Bluecell Extracts AF2 (Advanced Formula 2) <br class="hidden-sm hidden-xs">
@@ -377,7 +386,9 @@ and open the template in the editor.
                                     and Retinyl Palmitate.
                                 </div>
                             </div>
-
+                             </div>
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                             <div class="col-xs-12">
                             <div class="bg5-body-sentance-2_1" style="">
                                 <div class="uppercase line-height-xs-24 text-center-xs" style="font-family:Century Gothic;font-size: 18px;color: #2768a9;text-align: center;">
                                     <strong>  
@@ -388,7 +399,16 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <p class="hidden-lg hidden-md">
-                                <img src="images/bluecell/skin_moisture_retention_effect_of_bluecell_extracts.jpg" alt="skin moisture retention effect of bluecell extracts" title="skin moisture retention effect of bluecell extracts" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                                <img src="images/MF3_Blue_cell/skin_moisture_retention_effect_of_bluecell_extracts.jpg" alt="skin moisture retention effect of bluecell extracts" title="skin moisture retention effect of bluecell extracts" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                            </p>
+                            <p class="hidden-lg hidden-md">
+                                <img src="images/MF3_Blue_cell/bf-at-1.jpg" alt="" title="" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                            </p>
+                            <p class="hidden-lg hidden-md">
+                                <img src="images/MF3_Blue_cell/bf-at-2.jpg" alt="" title="" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                            </p>
+                            <p class="hidden-lg hidden-md">
+                                <img src="images/MF3_Blue_cell/bf-at-3.jpg" alt="" title="" class="img-responsive margin-auto hidden-lg hidden-md"> 
                             </p>
                             <div class="clearfix"></div>
                             <span class=" hidden-sm hidden-xs">
@@ -409,7 +429,7 @@ and open the template in the editor.
                                         products
                                     </div>
                                 </div>
-                                <div class="bg5-body-sentance-2_5" style=" ">
+                                <div class="bg5-body-sentance-2_5" style="">
                                     <div class="uppercase" style="font-family:Century Gothic;font-size: 12px;color: #2768a9;text-align: center;">
                                         <b>  Bluecell<br>
                                             extracts
@@ -417,79 +437,88 @@ and open the template in the editor.
                                     </div>
                                 </div>
                             </span>
+                             </div>
 
 
-
+                           
                             <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
+  <div class="col-xs-12">
                             <div class="bg5-body-sentance-3">
-                                <div style="font-family:Century Gothic;font-size: 24px;color: #000;" class="text-center-xs">
+                                <div style="font-family:Century Gothic;font-size: 24px;color: #000;" class="bg6-img1 padding-top-4em-xs text-center-xs">
                                     <strong>
                                         Oxygenin™
                                     </strong>
                                 </div>
                             </div>
+                             </div>
                             <div class="hidden-lg hidden-md margin-bottom-15-xs"></div>
                             <div class="clearfix"></div>
-                            <div class="bg5-body-sentance-4">
-                                <div class="line-height-xs-24" style="font-family:Arial;font-size: 14px;color: #000;text-align: right;">
-                                    <div class="text-left-xs text-indent-xs">
-                                        <strong>Oxygenin</strong> is the main key ingredient in this cosmeceutical formulation. <br class="hidden-sm hidden-xs">
-                                        A MFIII proprietary ingredient, it is designed to be the most effective and <br class="hidden-sm hidden-xs">
-                                        efficient oxygen carrier known to science. It captures oxygen by mimicking <br class="hidden-sm hidden-xs">
-                                        the function of hemoglobin. Hemoglobin is the key element for <br class="hidden-sm hidden-xs">
-                                        the blood's ability to transport essential nutrients.
+                             <div class="bg5-xs col-xs-12">
+                            <div class="">
+                                <div class="bg5-body-sentance-4">
+                                    <div class="line-height-xs-24" style="font-family:Arial;font-size: 14px;color: #000;text-align: right;">
+                                        <div class="text-left-xs text-indent-xs">
+                                            <strong>Oxygenin</strong> is the main key ingredient in this cosmeceutical formulation. <br class="hidden-sm hidden-xs">
+                                            A MFIII proprietary ingredient, it is designed to be the most effective and <br class="hidden-sm hidden-xs">
+                                            efficient oxygen carrier known to science. It captures oxygen by mimicking <br class="hidden-sm hidden-xs">
+                                            the function of hemoglobin. Hemoglobin is the key element for <br class="hidden-sm hidden-xs">
+                                            the blood's ability to transport essential nutrients.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <p class="hidden-lg hidden-md">&nbsp;</p>
+                                <div class="bg5-body-sentance-5">
+                                    <div  class="line-height-xs-24" style="font-family:Arial;font-size: 14px;color: #000;text-align: right;">
+                                        <div class="text-left-xs text-indent-xs">
+                                            <strong>Oxygenin</strong> in MFIII BLUECELL EXTRACT AF2 (Advanced Formula 2)  <br class="hidden-sm hidden-xs">
+                                            works as an active transport mechanism between the cells and intercellular space. <br class="hidden-sm hidden-xs">
+                                            It increases oxygen supply, resulting in stronger diffusion, which allows cell <br class="hidden-sm hidden-xs">
+                                            epidermi to absorb the optimal quantity of oxygen for the metabolic process. <br class="hidden-sm hidden-xs">
+                                            It helps the cell to breathe optimally and to self-regulate better, despite <br class="hidden-sm hidden-xs">
+                                            a polluted environment. It is an ideal detoxification agent, which rids the skin of <br class="hidden-sm hidden-xs">
+                                            carbon dioxide by enriching the skin with higher oxygen levels.
+                                        </div>
+                                    </div>
+                                </div>
+                                <p class="hidden-lg hidden-md">&nbsp;</p>
+                                <div class="bg5-body-sentance-6">
+                                    <div style="font-family:Arial;font-size: 14px;color: #000;" class="text-indent-xs">
+                                        MFIII BLUECELL EXTRACT AF2 (Advanced Formula) does not interfere with the skin's normal function <br class="hidden-sm hidden-xs">
+                                        of perspiration, nor its pH balance, and it will not clog skin pores.
                                     </div>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <div class="bg5-body-sentance-5">
-                                <div  class="line-height-xs-24" style="font-family:Arial;font-size: 14px;color: #000;text-align: right;">
-                                    <div class="text-left-xs text-indent-xs">
-                                        <strong>Oxygenin</strong> in MFIII BLUECELL EXTRACT AF2 (Advanced Formula 2)  <br class="hidden-sm hidden-xs">
-                                        works as an active transport mechanism between the cells and intercellular space. <br class="hidden-sm hidden-xs">
-                                        It increases oxygen supply, resulting in stronger diffusion, which allows cell <br class="hidden-sm hidden-xs">
-                                        epidermi to absorb the optimal quantity of oxygen for the metabolic process. <br class="hidden-sm hidden-xs">
-                                        It helps the cell to breathe optimally and to self-regulate better, despite <br class="hidden-sm hidden-xs">
-                                        a polluted environment. It is an ideal detoxification agent, which rids the skin of <br class="hidden-sm hidden-xs">
-                                        carbon dioxide by enriching the skin with higher oxygen levels.
-                                    </div>
-                                </div>
-                            </div>
-                             <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <div class="bg5-body-sentance-6">
-                                <div style="font-family:Arial;font-size: 14px;color: #000;" class="text-indent-xs">
-                                    MFIII BLUECELL EXTRACT AF2 (Advanced Formula) does not interfere with the skin's normal function <br class="hidden-sm hidden-xs">
-                                    of perspiration, nor its pH balance, and it will not clog skin pores.
-                                </div>
-                            </div>
+                             </div>
                         </div>
                     </div>
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/MF_HP/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg6">
                     <div class="row ">
-                        <div class="col-xs-12 line-height-xs-24">
+                        <div class="bg6-1-xs col-xs-12 line-height-xs-24">
                             <div class="bg6-body-sentance-1">
-                                <div style="font-family:Century Gothic;font-size: 20px;color: #000;" class="text-center-xs line-height-xs-24">
+                                <div style="font-family:Century Gothic;font-size: 20px;color: #000;" class="bg6-img1 text-center-xs line-height-xs-24 padding-top-5em-xs">
                                     <strong>
                                         MFIII Bluecell <br>
                                         Clinical Studies
                                     </strong>
                                 </div>
                             </div>
-                            <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
+
                             <div class="bg6-body-sentance-2">
                                 <div style="font-family:Century Gothic;font-size: 14px;color: #000;" class="text-center-xs">
                                     Conducted by Renowned Independent Swiss Research Bodies in Switzerland <br>
                                     <span style="font-size: 18px;">Clinical Study Report: CTE43A</span>
                                 </div>
                             </div>
+                        </div>
+                        <div class="col-xs-12">
                             <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
-                            <img src="images/bluecell/gp1.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                            <img src="images/MF3_Blue_cell/gp1.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
                             <div class="clearfix"></div>
+                            <div class="hidden-lg hidden-md margin-bottom-15-xs"></div>
                             <div class="bg6-body-sentance-3">
                                 <div style="font-family:Arial;font-size: 14px;color: #000;">
                                     <strong>  As seen from the graph, Oxygenin™ in MFIII <br class="hidden-sm hidden-xs">
@@ -512,15 +541,15 @@ and open the template in the editor.
                                         </strong>
                                     </div>
                                 </div>
-                                 <img src="images/bluecell/gp2.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                                 <div class="margin-bottom-20-xs hidden-lg hidden-md"></div>
+                                <img src="images/MF3_Blue_cell/gp2.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                                <div class="margin-bottom-20-xs hidden-lg hidden-md"></div>
                                 <div class="bg6-body-sentance-4_2 hidden-sm hidden-xs">
                                     <div style="font-family:Century Gothic;font-size: 15px;color: #000;text-align: center;">
                                         Before <br>
                                         Treatment
                                     </div>
                                 </div>
-                                 <div class="bg6-body-sentance-4_3 hidden-sm hidden-xs">
+                                <div class="bg6-body-sentance-4_3 hidden-sm hidden-xs">
                                     <div style="font-family:Century Gothic;font-size: 15px;color: #000;text-align: center;">
                                         After <br>
                                         Treatment
@@ -538,7 +567,7 @@ and open the template in the editor.
                                         </strong>
                                     </div>
                                 </div>
-                                  <img src="images/bluecell/gp2.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                                <img src="images/MF3_Blue_cell/gp2.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
                                 <div class="bg6-body-sentance-5_2  hidden-sm hidden-xs">
                                     <div style="font-family:Century Gothic;font-size: 15px;color: #000;text-align: center;">
                                         Before <br>
@@ -561,7 +590,7 @@ and open the template in the editor.
 
                                 </div>
                             </div>
-                             <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
                             <div class="bg6-body-sentance-7">
                                 <div class="" style="font-family:Century Gothic;font-size: 18px;color: #000;">
                                     <strong>
@@ -570,7 +599,9 @@ and open the template in the editor.
 
                                 </div>
                             </div>
-                             <div class="hidden-lg hidden-md margin-bottom-10-xs"></div> 
+                            <div class="hidden-lg hidden-md margin-bottom-10-xs"></div> 
+                        </div>
+                        <div class="bg6-3-xs col-xs-12">
                             <div class="bg6-body-sentance-8">
                                 <div class="" style="font-family:Arial;font-size: 14px;color: #000;">
                                     1.  Apply in the morning and before you go to bed (after washing). <br>
@@ -580,12 +611,11 @@ and open the template in the editor.
 
                                 </div>
                             </div>
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
 
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/MF_HP/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
                 <p class="hidden-md hidden-lg">&nbsp;</p>
 
 
@@ -599,7 +629,202 @@ and open the template in the editor.
 
                 <style>
 
+                    .bg6-img1 {
+                        background: url(images/MF3_Blue_cell/bg6-img1.png) center top no-repeat ;;
+                        height: 244px;
+                        -moz-border-radius:75px;
+                        -webkit-border-radius: 75px;
+                        width: 259px;
+                        text-align: center;
+                        display: block;
+                        margin: 0 auto;
 
+                    }
+                    .bg6-1-xs{
+                        width: 100%;
+                        background: #FFF url(images/MF3_Blue_cell/bg6-1-xs.jpg) center top no-repeat ;
+                        -moz-background-size: cover;
+                        background-size: cover;
+                        background-position: 50% 50%;
+                    }
+                    .bg6-3-xs{
+                        width: 100%;
+                        background: #FFF url(images/MF3_Blue_cell/bg6-3-xs.jpg) center top no-repeat ;
+                        -moz-background-size: cover;
+                        background-size: cover;
+                        background-position: 50% 50%;
+                    }
+                    .bg1-xs{
+                        width: 100%;
+                        background: #FFF url(images/MF3_Blue_cell/bg1-xs.jpg) center top no-repeat ;
+                        -moz-background-size: cover;
+                        background-size: cover;
+                        background-position: 0% 100%;
+                    }
+                    .bg2-bubble-1-xs{
+                        width: 100%;
+                        background: #FFF url(images/MF3_Blue_cell/bg2-bubble-1-xs.jpg) center top no-repeat ;
+                        -moz-background-size: cover;
+                        background-size: inherit;
+                        background-position: 50% 50%;
+
+                    }
+                    .bg2-bubble-2-xs{
+
+
+                        background: url(images/MF3_Blue_cell/bg2-bubble-2-xs.png) center top no-repeat ;;
+                        height: 235px;
+                        -moz-border-radius:75px;
+                        -webkit-border-radius: 75px;
+
+                        text-align: center;
+                        display: block;
+                        margin: 0 auto;
+
+                    }
+
+                    .bg5-xs{
+                        width: 100%;
+                        background: #FFF url(images/MF3_Blue_cell/bg5-xs.jpg) center top no-repeat ;
+                        -moz-background-size: cover;
+                        background-size: cover;
+                        background-position: 20% 0%;
+                    }
+
+
+
+                    .padding-all-10-xs{
+                        padding-top: 10px;
+                        padding-right: 10px;
+                        padding-bottom: 10px;
+                        padding-left:  10px;
+
+                    }
+                    .padding-left-0-xs{
+                        padding-left: 0px;
+                    }
+                    .padding-right-0-xs{
+                        padding-right:  0px;
+                    }
+
+
+                    .padding-top-10-xs{
+                        padding-top: 10px;
+                    }
+                    .padding-bottom-10-xs{
+                        padding-bottom:  10px;
+                    }
+                    .padding-left-10-xs{
+                        padding-left:  10px;
+                    }
+                    .padding-right-10-xs{
+                        padding-right:   10px;
+                    }
+
+                    .padding-top-15-xs{
+                        padding-top: 15px;
+                    }
+                    .padding-bottom-15-xs{
+                        padding-bottom:  15px;
+                    }
+                    .padding-left-15-xs{
+                        padding-left:  15px;
+                    }
+                    .padding-right-15-xs{
+                        padding-right:   15px;
+                    }
+
+
+                    .padding-top-20-xs{
+                        padding-top: 20px;
+                    }
+                    .padding-bottom-20-xs{
+                        padding-bottom:  20px;
+                    }
+                    .padding-left-20-xs{
+                        padding-left:  20px;
+                    }
+                    .padding-right-20-xs{
+                        padding-right:   20px;
+                    }
+
+                    .padding-top-1em-xs {
+                        padding-top: 1em;
+                    }
+                    .padding-bottom-1em-xs{
+                        padding-bottom:  1em;
+                    }
+                    .padding-left-1em-xs{
+                        padding-left:  1em;
+                    }
+                    .padding-right-1em-xs{
+                        padding-right:   1em;
+                    }
+
+                    .padding-top-2em-xs {
+                        padding-top: 2em;
+                    }
+                    .padding-bottom-2em-xs{
+                        padding-bottom:  2em;
+                    }
+                    .padding-left-2em-xs{
+                        padding-left:  2em;
+                    }
+                    .padding-right-2em-xs{
+                        padding-right:   2em;
+                    }
+
+                    .padding-top-3em-xs {
+                        padding-top: 3em;
+                    }
+                    .padding-bottom-3em-xs{
+                        padding-bottom:  3em;
+                    }
+                    .padding-left-3em-xs{
+                        padding-left:  3em;
+                    }
+                    .padding-right-3em-xs{
+                        padding-right:   3em;
+                    }
+
+                    .padding-top-4em-xs {
+                        padding-top: 4em;
+                    }
+                    .padding-bottom-4em-xs{
+                        padding-bottom:  4em;
+                    }
+                    .padding-left-4em-xs{
+                        padding-left:  4em;
+                    }
+                    .padding-right-4em-xs{
+                        padding-right:   4em;
+                    }
+
+                    .padding-top-5em-xs {
+                        padding-top: 5em;
+                    }
+                    .padding-bottom-5em-xs{
+                        padding-bottom:  5em;
+                    }
+                    .padding-left-5em-xs{
+                        padding-left:  5em;
+                    }
+                    .padding-right-5em-xs{
+                        padding-right:   5em;
+                    }
+
+                    .padding-top-6em-xs {
+                        padding-top: 6em;
+                    }
+                    .padding-bottom-6em-xs{
+                        padding-bottom:  6em;
+                    }
+                    .padding-left-6em-xs{
+                        padding-left:  6em;
+                    }
+                    .padding-right-6em-xs{
+                        padding-right:   6em;
+                    }
 
 
                     /* prepare the selectors to add a stroke to */
@@ -627,9 +852,6 @@ and open the template in the editor.
                         left: 0;
                         z-index: -2;
                     }
-
-
-
 
 
 
@@ -695,6 +917,15 @@ and open the template in the editor.
                     }
                     .line-height-xs-16{
                         line-height: 16px;
+                    }
+                    .line-height-xs-17{
+                        line-height: 17px;
+                    }
+                    .line-height-xs-18{
+                        line-height: 18px;
+                    }
+                    .line-height-xs-19{
+                        line-height: 19px;
                     }
                     .line-height-xs-20{
                         line-height: 20px;
@@ -777,10 +1008,13 @@ and open the template in the editor.
 
 
 
-                    .bg1-head-sentance-1{
-                        color: #000;
 
+                    .bg1-head-sentance-1{
+                        margin: inherit;
+                        letter-spacing: inherit;
                     }
+
+
                     .bg1-head-sentance-2{
                         margin: inherit;
 
@@ -865,10 +1099,10 @@ and open the template in the editor.
                         line-height: 23px;
                     }
                     .bg5-body-sentance-2_1{
-                        margin: 64px 0 0 57px;
-                        line-height: 15px;
-                        float: left;
-                        letter-spacing: -0.5px;
+                        margin: inherit;
+                        line-height: inherit;
+
+                        letter-spacing: inherit;
                     }
                     .bg5-body-sentance-2_2{
                         margin: 245px 0 0 135px;
@@ -930,6 +1164,20 @@ and open the template in the editor.
 
                     }
 
+                    .bg_color-blue{
+
+                        -moz-box-shadow: 0px 1px 0px 0px #f0f7fa;
+                        -webkit-box-shadow: 0px 1px 0px 0px #f0f7fa;
+                        box-shadow: 0px 1px 0px 0px #f0f7fa;
+                        background-color:#cce6ff;
+                        display:inline-block;
+
+                        padding:6px 24px;
+                        text-decoration:none;
+
+
+                    }
+
 
                     /*            sm size*/
                     @media(min-width:768px){
@@ -937,6 +1185,123 @@ and open the template in the editor.
                     }
                     /*            md size*/
                     @media(min-width:992px){
+
+                        .bg1-xs,
+                        .bg6-1-xs,
+                        .bg6-3-xs,
+                        .bg1-xs,
+                        .bg5-xs
+                        {
+
+                            background: inherit;
+                            -moz-background-size: inherit;
+                            background-size: inherit;
+                            background-position:inherit;
+                        }
+                        .bg2-bubble-1-xs,.bg2-bubble-2-xs{
+                            background: inherit;
+                            -moz-background-size: inherit;
+                            background-size: inherit;
+                            background-position:inherit;
+                            height: inherit;
+                        }
+
+                        .bg6-img1 {
+                            background: inherit;
+                            background-color: inherit;
+                            height: inherit;
+                            -moz-border-radius:inherit;
+                            -webkit-border-radius: inherit;
+                            width: inherit;
+                            text-align: inherit;
+                            display: inherit;
+
+
+                        }
+
+
+
+                        .padding-all-10-xs{
+                            padding-top: 0px;
+                            padding-right: 0px;
+                            padding-bottom: 0px;
+                            padding-left:  0px;
+
+                        }
+                        .padding-top-10-xs{
+                            padding-top: 0px;
+                        }
+                        .padding-bottom-10-xs{
+                            padding-bottom:  0px;
+                        }
+                        .padding-left-10-xs{
+                            padding-left:  0px;
+                        }
+                        .padding-right-10-xs{
+                            padding-right:   0px;
+                        }
+
+                        .padding-top-15-xs{
+                            padding-top: 0px;
+                        }
+                        .padding-bottom-15-xs{
+                            padding-bottom:  0px;
+                        }
+                        .padding-left-15-xs{
+                            padding-left:  0px;
+                        }
+                        .padding-right-15-xs{
+                            padding-right:   0px;
+                        }
+
+
+                        .padding-top-20-xs{
+                            padding-top: 0px;
+                        }
+                        .padding-bottom-20-xs{
+                            padding-bottom:  0px;
+                        }
+                        .padding-left-20-xs{
+                            padding-left:  0px;
+                        }
+                        .padding-right-20-xs{
+                            padding-right:   0px;
+                        }
+
+                        .padding-top-1em-xs,
+                        .padding-top-2em-xs,
+                        .padding-top-3em-xs,
+                        .padding-top-4em-xs,
+                        .padding-top-5em-xs,
+                        .padding-top-6em-xs{
+                            padding-top:   0px;
+                        }
+                        .padding-right-1em-xs,
+                        .padding-right-2em-xs,
+                        .padding-right-3em-xs,
+                        .padding-right-4em-xs,
+                        .padding-right-5em-xs,
+                        .padding-right-6em-xs{
+                            padding-right:   0px;
+                        }
+
+                        .padding-bottom-1em-xs,
+                        .padding-bottom-2em-xs,
+                        .padding-bottom-3em-xs,
+                        .padding-bottom-4em-xs,
+                        .padding-bottom-5em-xs,
+                        .padding-bottom-6em-xs{
+                            padding-bottom: 0px;
+                        }
+                        .padding-left-1em-xs,
+                        .padding-left-2em-xs,
+                        .padding-left-3em-xs,
+                        .padding-left-4em-xs,
+                        .padding-left-5em-xs,
+                        .padding-left-6em-xs{
+                            padding-left: 0px;
+                        }
+
                         .table > tbody > tr > td{
                             border-top: inherit;
 
@@ -964,7 +1329,7 @@ and open the template in the editor.
                             border: inherit;
                             padding: inherit;
                         }
-                        .line-height-xs-16, .line-height-xs-20, .line-height-xs-24, .line-height-xs-28,
+                        .line-height-xs-16,.line-height-xs-17,.line-height-xs-18,.line-height-xs-19, .line-height-xs-20, .line-height-xs-24, .line-height-xs-28,
                         .line-height-xs-32,.line-height-xs-30,  .line-height-xs-36, .line-height-xs-40{
                             line-height: inherit;
                         }
@@ -1026,7 +1391,7 @@ and open the template in the editor.
 
 
                         .bg1{
-                            background-image: url(images/bluecell/bg1.jpg);
+                            background-image: url(images/MF3_Blue_cell/bg1.jpg);
                             width: 800px;
                             height: 483px;
                         }
@@ -1097,7 +1462,7 @@ and open the template in the editor.
 
 
                         .bg2{
-                            background-image: url(images/bluecell/bg2.jpg);
+                            background-image: url(images/MF3_Blue_cell/bg2.jpg);
                             width: 800px;
                             height: 1505px;
                         }
@@ -1128,7 +1493,7 @@ and open the template in the editor.
 
 
                         .bg3{
-                            background-image: url(images/bluecell/bg3.jpg);
+                            background-image: url(images/MF3_Blue_cell/bg3.jpg);
                             background-repeat: no-repeat;
                             width: 800px;
                             height: 745px;
@@ -1193,7 +1558,7 @@ and open the template in the editor.
 
 
                         .bg4{
-                            background-image: url(images/bluecell/bg4.jpg);
+                            background-image: url(images/MF3_Blue_cell/bg4.jpg);
                             background-repeat: no-repeat;
                             width: 800px;
                             height: 1388px;
@@ -1262,7 +1627,7 @@ and open the template in the editor.
 
 
                         .bg5{
-                            background-image: url(images/bluecell/bg5.jpg);
+                            background-image: url(images/MF3_Blue_cell/bg5.jpg);
                             background-repeat: no-repeat;
                             width: 800px;
                             height: 1809px;
@@ -1283,10 +1648,16 @@ and open the template in the editor.
                             line-height: 23px;
                             letter-spacing: -0.3px;
                         }
+                        .bg5-body-sentance-2_1{
+                            margin: 64px 0 0 57px;
+                            line-height: 15px;
+                            float: left;
+                            letter-spacing: -0.5px;
+                        }
 
                         .bg5-body-sentance-3{
 
-                            margin: 439px 0 0 593px;
+                            margin: 170px 0 0 593px;
                         }
                         .bg5-body-sentance-4{
                             margin: 133px 37px 0 244px;
@@ -1306,7 +1677,7 @@ and open the template in the editor.
 
 
                         .bg6{
-                            background-image: url(images/bluecell/bg6.jpg);
+                            background-image: url(images/MF3_Blue_cell/bg6.jpg);
                             background-repeat: no-repeat;
                             width: 800px;
                             height: 1432px;
@@ -1413,7 +1784,7 @@ and open the template in the editor.
 
 
                         .bg7{
-                            background-image: url(images/MF_HP/bg7.jpg);
+                            background-image: url(images/MF3_Blue_cell/bg7.jpg);
                             background-repeat: no-repeat;
                             width: 801px;
                             height: 750px;
@@ -1432,7 +1803,7 @@ and open the template in the editor.
 
 
                         .bg8{
-                            background-image: url(images/MF_HP/bg8.jpg);
+                            background-image: url(images/MF3_Blue_cell/bg8.jpg);
                             background-repeat: no-repeat;
                             width: 801px;
                             height: 1549px;
@@ -1461,7 +1832,7 @@ and open the template in the editor.
 
 
                         .bg9{
-                            background-image: url(images/MF_HP/bg9.jpg);
+                            background-image: url(images/MF3_Blue_cell/bg9.jpg);
                             background-repeat: no-repeat;
                             width: 801px;
                             height: 430px;
@@ -1477,7 +1848,7 @@ and open the template in the editor.
 
 
                         .bg10{
-                            background-image: url(images/MF_HP/bg10.jpg);
+                            background-image: url(images/MF3_Blue_cell/bg10.jpg);
                             background-repeat: no-repeat;
                             width: 801px;
                             height: 713px;
@@ -1524,10 +1895,18 @@ and open the template in the editor.
                             padding: inherit;
                         }
 
+                        .bg_color-blue{
+                            -moz-box-shadow: inherit;
+                            -webkit-box-shadow: inherit;
+                            box-shadow: inherit;
+                            background-color: inherit;
+                            display:inherit;
+
+                            padding:inherit;
+                            text-decoration:inherit;
+                        }
+
                     }
-
-
-
 
                 </style>
             </div>

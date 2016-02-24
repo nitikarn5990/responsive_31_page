@@ -12,24 +12,27 @@ and open the template in the editor.
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
 
+        <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
     </head>
     <body>
         <div class="container">
             <div style="max-width: 800px !important;">
-                <div class="">
-                    <div class="bg1">
-                        <div class="row">
-                            <div class="col-xs-12">
+
+                <div class="bg1">
+                    <div class="row">
+                        <div class="bg1-xs box-shadow-xs col-xs-12 padding-bottom-2em-xs">
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <div class="bg_color-blue padding-all-10-xs col-xs-12">
                                 <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
                                     <div style="font-family: Century Schoolbook;font-size: 62px;color: #FFF;text-transform: uppercase;"> 
-                                        <div class="font-xs-28 color-black-xs">Filorga </div>
+                                        <div class="font-xs-28 color-white-xs">Filorga </div>
                                     </div><br class="hidden-sm hidden-xs">
                                     <div style="font-family: Century Schoolbook;font-size: 60px;color: #000;text-transform: uppercase;"> <div class="font-xs-26 color-black-xs"> A-Series </div></div><br class="hidden-sm hidden-xs">
 
                                 </div>
                             </div>
-
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
                             <div class="col-xs-12" >
                                 <div class="bg1-body-sentance-1 line-height-xs-24" style="text-shadow: 2px 0px 1px rgba(150, 150, 150, 1);">
                                     <p style="font-family: times new roman;font-style: italic;" class="text-center-xs">
@@ -55,15 +58,16 @@ and open the template in the editor.
                                 </div>
 
                             </div>
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
                             <div class="col-xs-12">
                                 <div class="bg1-head-sentance-2">
                                     <p style="line-height: 25px;" class="">
                                         <span style="font-family: Century Gothic;font-size: 16px;">
                                             The most popular product for those looking to <br class="hidden-sm hidden-xs">
                                             <span  style="font-family: times new roman;font-size: 24px;">
-                                                <span class="font-xs-18 font-bold-xs">  Delay</span> </span>
+                                                <span class="font-xs-18 font-bold-xs text-shadow-low"><i>Delay</i></span> </span>
                                             or
-                                            <span  style="font-family: times new roman;font-size: 28px;font-style: italic;">  <span class="font-xs-18 font-bold-xs">  Reverse</span> </span>
+                                            <span  style="font-family: times new roman;font-size: 28px;">  <span class="font-xs-18 font-bold-xs text-shadow-low"> <i>Reverse</i></span> </span>
                                             the effects of aging.
                                         </span>
                                     </p>
@@ -72,10 +76,11 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
+
                 <div class="bg2">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="bg2-xs padding-top-2em-xs padding-bottom-2em-xs col-xs-12">
                             <div class="bg2-head-sentance-1">
                                 <div style="font-family: Century Schoolbook; font-size: 42px;color: #000;    text-shadow: 1px 1px 7px rgb(255, 255, 255);" class="line-height-xs-28 ">
                                     <span class="font-xs-28 font-bold-xs">  Filorga A-Series Rage : <br class="hidden-sm hidden-xs">
@@ -105,10 +110,10 @@ and open the template in the editor.
                     </div>
 
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg3">
-                    <div class="row ">
-                        <div class="col-xs-12">
+                    <div class="row">
+                        <div class="padding-top-2em-xs padding-bottom-3em-xs col-xs-12">
                             <div class="bg3-head-sentance-1 line-height-xs-28 text-center-xs">
                                 <span style="font-family: Century Schoolbook;font-size: 36px;color: #000;">
                                     <span class="color-black-xs font-xs-28 "> 
@@ -143,43 +148,43 @@ and open the template in the editor.
 
                         </div>
                         <p class="hidden-lg hidden-md">&nbsp;</p>
-                        <div class="col-xs-12">
-                            <div class="bg3-body-sentance-2 line-height-xs-28">
-                                <div style="font-family: Century Gothic;font-size: 36px;text-align: center;color: #FFF;"> 
-                                    <p class="font-xs-28 color-black-xs" style=" margin: 0px 0 12px 0;">Filorga A Series <br class="hidden-sm hidden-xs">
-                                        & Anti-Gout </p>
+                        <div class="bg3-xs padding-top-2em-xs padding-bottom-2em-xs col-xs-12">
+                            <div class="bg_color-blue-low_light padding-all-10-xs col-xs-12">
+                                <div class="bg3-body-sentance-2 line-height-xs-28">
+                                    <div style="font-family: Century Gothic;font-size: 36px;text-align: center;color: #FFF;"> 
+                                        <p class="font-xs-28 color-white-xs" style=" margin: 0px 0 12px 0;">Filorga A Series <br class="hidden-sm hidden-xs">
+                                            & Anti-Gout </p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-
-                        <div class="col-xs-12">
-                            <div class="bg3-body-sentance-3">
-                                <div style="font-family: Century Gothic;font-size: 30px;color: #FFF;" class="text-center-xs"> 
-                                    <span class="color-black-xs" style="font-family:times new roman;font-size: 34px;"><i>Effective treatment:</i></span>
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <div class="bg_color-blue-low_light col-xs-12">
+                                <div class="bg3-body-sentance-3">
+                                    <div style="font-family: Century Gothic;font-size: 30px;color: #FFF;" class="text-center-xs"> 
+                                        <span class="color-white-xs" style="font-family:times new roman;font-size: 34px;"><i>Effective treatment:</i></span>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xs-12">
-                            <div class="bg3-body-sentance-4">
-                                <div style="font-family: Arial;font-size: 12px;color: #FFF;" class="text-indent-xs line-height-xs-20"> 
-                                    <span class="color-black-xs">
-                                        As we know that cells are the smallest unit  <br class="hidden-sm hidden-xs">
-                                        in the body. When they are affected by any  <br class="hidden-sm hidden-xs">
-                                        kind of diseases, it probably results in the  <br class="hidden-sm hidden-xs">
-                                        whole body’s function. So get the stem cell  <br class="hidden-sm hidden-xs">
-                                        treatment is the BEST to kill ailment and  <br class="hidden-sm hidden-xs">
-                                        strengthen the cells. <br class="hidden-sm hidden-xs"> <br class="hidden-sm hidden-xs">
+                            <div class="bg_color-blue-low_light padding-top-2em-xs padding-bottom-2em-xs  col-xs-12">
+                                <div class="bg3-body-sentance-4">
+                                    <div style="font-family: Arial;font-size: 12px;color: #FFF;" class="text-indent-xs line-height-xs-20"> 
+                                        <span class="color-white-xs">
+                                            As we know that cells are the smallest unit  <br class="hidden-sm hidden-xs">
+                                            in the body. When they are affected by any  <br class="hidden-sm hidden-xs">
+                                            kind of diseases, it probably results in the  <br class="hidden-sm hidden-xs">
+                                            whole body’s function. So get the stem cell  <br class="hidden-sm hidden-xs">
+                                            treatment is the BEST to kill ailment and  <br class="hidden-sm hidden-xs">
+                                            strengthen the cells. <br class="hidden-sm hidden-xs"> <br class="hidden-sm hidden-xs">
 
-                                        Since Filorga A Series Anti-Gout is stem cell  <br class="hidden-sm hidden-xs">
-                                        extracts which have efficient potential to  <br class="hidden-sm hidden-xs">
-                                        replace or eliminate the cell damaged by  <br class="hidden-sm hidden-xs">
-                                        Gout symptoms. That’s why it can effectively  <br class="hidden-sm hidden-xs">
-                                        ease Gout symptoms.
-                                    </span>
+                                            Since Filorga A Series Anti-Gout is stem cell  <br class="hidden-sm hidden-xs">
+                                            extracts which have efficient potential to  <br class="hidden-sm hidden-xs">
+                                            replace or eliminate the cell damaged by  <br class="hidden-sm hidden-xs">
+                                            Gout symptoms. That’s why it can effectively  <br class="hidden-sm hidden-xs">
+                                            ease Gout symptoms.
+                                        </span>
+                                    </div>
                                 </div>
                             </div>
-
-
                         </div>
 
 
@@ -187,10 +192,11 @@ and open the template in the editor.
 
                 </div>
 
-                <p class="hidden-lg hidden-md">&nbsp;</p>
+
                 <div class="bg6">
                     <div class="row">
                         <div class="col-xs-12">
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
                             <div class="bg6-body-sentance-1">
                                 <span style="font-family: Century Schoolbook; font-size: 36px;"> Dosage & Usage</span>
                             </div>
@@ -202,6 +208,8 @@ and open the template in the editor.
                                 </span>
                             </div>
                             <p>&nbsp;</p>
+                        </div>
+                        <div class="bg6-1-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12 box-shadow-xs">
                             <div class="bg6-body-sentance-3">
                                 <span style="font-family: Times new roman; font-size: 30px;font-style: italic;">
                                     By Injection:
@@ -220,7 +228,9 @@ and open the template in the editor.
                                     more than 15 minutes.
                                 </span>
                             </div>
-                            <p>&nbsp;</p>
+                        </div>
+
+                        <div class="bg6-2-xs  padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
                             <div class="bg6-body-sentance-5">
                                 <span style="font-family: Times new roman; font-size: 30px;font-style: italic;">
                                     Orally:
@@ -241,6 +251,8 @@ and open the template in the editor.
                                     <span style="font-family:Arial; font-size: 12px;color: red;"> * May not suitable for pregnant women </span>
                                 </p>
                             </div>
+                        </div>  
+                        <div class="bg6-1-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
                             <div class="bg6-body-sentance-8 ">
                                 <span style="font-family:  Century Schoolbook; font-size: 36px;color: #000;">
                                     Storage
@@ -255,6 +267,8 @@ and open the template in the editor.
                                 </div>
                                 </p>
                             </div>
+                        </div>
+                        <div class="padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
                             <div class="bg6-body-sentance-9">
                                 <div style="font-family:  Century Schoolbook; font-size: 36px;color: #000;text-align: center;">
                                     Production
@@ -271,19 +285,18 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg7">
                     <div class="row">
-                        <div class="col-xs-12">
-                            <div class="bg7-body-sentance-1">
-
+                        <div class="bg7-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
+                            <div class="bg7-body-sentance-1 text-center-xs">
                                 <span style="font-family:  Century Schoolbook; font-size: 36px;color: #000;">
                                     Approved and Certified by
-
                                 </span>
                             </div>
+                            <p class="hidden-md hidden-lg">
+                                <img src="images/Filorga_a_series/Anti_Gout/bg7-img1-xs.png" class="img-responsive margin-auto">
+                            </p>
                             <div class="bg7-body-sentance-2 text-indent-xs">
-
                                 <span style="font-family:  Arial; font-size: 12px;color: #000;">
                                     BRM of organs and tissues are obtained from fetal organs or tissues  <br class="hidden-xs hidden-sm">
                                     from closed colony of Ovine as per requirement of Euro veterinary and  <br class="hidden-xs hidden-sm">
@@ -296,15 +309,16 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg8">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="bg8-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
                             <div class="bg8-body-sentance-1">
                                 <span style="font-family:  Century Schoolbook; font-size: 36px;color: #000;">
                                     Range Of Application
                                 </span>
                             </div>
+                            <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
                             <div class="bg8-body-sentance-2 text-indent-xs">
                                 <span style="font-family: Arial; font-size: 12px;color: #000;">
                                     FILORGA BRM are used for the restoration and regeneration of immature or deteriorating organic structure, disorder <br class="hidden-xs hidden-sm">
@@ -1062,27 +1076,27 @@ and open the template in the editor.
                                 <div class="table-responsive">
                                     <table  class="table hidden-lg hidden-md">
                                         <thead>
-                                            <tr>
-                                                <th><span style="font-family: Arial;font-size: 16px;color: #000;">Ref</span></th>
-                                                <th><span style="font-family: Arial;font-size: 16px;color: #000;">Designation</span></th>
-                                                <th ><span style="font-family: Arial;font-size: 16px;color: #000;">content</span></th>
-                                                <th ><span style="font-family: Arial;font-size: 16px;color: #000;">Common Conditions</span></th>
+                                            <tr class="bg_color_grey">
+                                                <th><span style="font-family: Arial;font-size: 16px;color: #FFF;">Ref</span></th>
+                                                <th><span style="font-family: Arial;font-size: 16px;color: #FFF;">Designation</span></th>
+                                                <th ><span style="font-family: Arial;font-size: 16px;color: #FFF;">content</span></th>
+                                                <th ><span style="font-family: Arial;font-size: 16px;color: #FFF;">Common Conditions</span></th>
                                             </tr>
 
                                         </thead>
                                         <tbody>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td>
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  ACT004G </span>
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  ACT004G </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">Tissular Extract 4 in 1 F <br>
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">Tissular Extract 4 in 1 F <br>
                                                         Whole embryo, Thymus, <br>
                                                         Whole brain, Ovary
                                                     </span>
                                                 </td>
-                                                <td ><span style="font-family: Arial;font-size: 12px;color: #000;">10 x 8ml</span></td>
-                                                <td ><span style="font-family: Arial;font-size: 12px;color: #000;">Female Revitalization</span></td>
+                                                <td ><span style="font-family: Arial;font-size: 12px;color: #FFF;">10 x 8ml</span></td>
+                                                <td ><span style="font-family: Arial;font-size: 12px;color: #FFF;">Female Revitalization</span></td>
 
                                             </tr>
                                             <tr>
@@ -1107,26 +1121,26 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         ACT005S
                                                     </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Tissular Extract EB <br>
                                                         Embryoblast, <br>
                                                         extract of inner cellular mass
                                                     </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml 
                                                     </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Skin Rejuvenation <br>
                                                         *Can also be used as facial mesotherapy
                                                     </span></td>
@@ -1155,24 +1169,24 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         AY
                                                     </span>
                                                 </td>
                                                 <td  >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Artery
                                                     </span>
                                                 </td>
                                                 <td  >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Arteriosclerosis, cerebrovascular
                                                     </span></td>
 
@@ -1199,24 +1213,24 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         CE
                                                     </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Cartilage
                                                     </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Rheumatism, arthritis, joins functions
                                                     </span></td>
 
@@ -1243,24 +1257,24 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td  >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         DA
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Dental Arch
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Oral diseases
                                                     </span></td>
 
@@ -1287,24 +1301,24 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         EE
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Eyes
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Cataracta, eye muscle involution
                                                     </span></td>
 
@@ -1331,24 +1345,24 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         KY
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Kidney
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         High blood pressure, detoxifying
                                                     </span></td>
 
@@ -1375,24 +1389,24 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td  >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         LR
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Liver
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Weak Metabolism, diabetes, detoxifying
                                                     </span></td>
 
@@ -1419,24 +1433,24 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         ME
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Muscle
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Muscle involution, soft tissue mutation
                                                     </span></td>
 
@@ -1463,31 +1477,31 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td  >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         OY
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Ovary
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Osteoporosis, osteoarthritis
                                                     </span></td>
 
                                             </tr>
 
                                             <tr>
-                                                <td  >
+                                                <td>
                                                     <span style="font-family: Arial;font-size: 12px;color: #000;">  
                                                         PA
                                                     </span>
@@ -1508,25 +1522,25 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         PE
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Prostate
 
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Urination difficulties, hormone secretion
                                                     </span></td>
 
@@ -1553,25 +1567,25 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td  >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         SC
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Spinal Cord
 
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Nervous system involution
                                                     </span></td>
 
@@ -1600,25 +1614,25 @@ and open the template in the editor.
 
                                             </tr>
 
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td  >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         SL
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Suprarenal Adrenal Gland
 
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Low blood pressure, enhance metabolic
                                                     </span></td>
 
@@ -1646,25 +1660,25 @@ and open the template in the editor.
 
                                             </tr>
 
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td>
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         TC
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Total Cerebrum (brain)
 
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Mental disorder, hypertension, memories
                                                     </span></td>
 
@@ -1692,25 +1706,25 @@ and open the template in the editor.
 
                                             </tr>
 
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td  >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         TE
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Total Embryo
 
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Regeneration, Enhance Organ functions
                                                     </span></td>
 
@@ -1737,25 +1751,25 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  
                                                         TI
                                                     </span>
                                                 </td>
                                                 <td  style="line-height: 13px;">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Total Intestine
 
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         10 x 3ml
                                                     </span>
                                                 </td>
                                                 <td  style="">
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Enteritis, intestinal system disorder
                                                     </span></td>
 
@@ -1782,11 +1796,6 @@ and open the template in the editor.
                                                     </span></td>
 
                                             </tr>
-
-
-
-
-
 
                                         </tbody>
                                     </table>
@@ -1831,7 +1840,7 @@ and open the template in the editor.
                                             </td>
                                             <td  style="line-height: 13px;">
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
-                                                    Revitalization for Male
+                                                    Revitalization for Female
 
                                                 </span>
                                             </td>
@@ -1986,24 +1995,25 @@ and open the template in the editor.
                                 <div class="table-responsive">
                                     <table  class="table hidden-lg hidden-md">
                                         <thead>
-                                        <th><span style="font-family: Arial;font-size: 16px;color: #000;"></span></th>
-                                        <th><span style="font-family: Arial;font-size: 16px;color: #000;">Common Conditions</span></th>
-                                        <th ><span style="font-family: Arial;font-size: 16px;color: #000;">Recommended BRM'S</span></th>
+                                            <tr class="bg_color_grey">
+                                                <th><span style="font-family: Arial;font-size: 16px;color: #FFF;"></span></th>
+                                                <th><span style="font-family: Arial;font-size: 16px;color: #FFF;">Common Conditions</span></th>
+                                                <th ><span style="font-family: Arial;font-size: 16px;color: #FFF;">Recommended BRM'S</span></th>
 
-
+                                            </tr>
                                         </thead>
                                         <tbody>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  1 </span>
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  1 </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Revitalization for Male
 
                                                     </span>
                                                 </td>
-                                                <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                <td  style=""><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Tissular Extract 4 in 1 M (ACT004S)
                                                     </span>
                                                 </td>
@@ -2014,7 +2024,7 @@ and open the template in the editor.
                                                 </td>
                                                 <td >
                                                     <span style="font-family: Arial;font-size: 12px;color: #000;">
-                                                        Revitalization for Male
+                                                        Revitalization for Female
 
                                                     </span>
                                                 </td>
@@ -2024,17 +2034,17 @@ and open the template in the editor.
                                                 </td>
                                             </tr>
 
-                                            <tr>
+                                            <tr  class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  3 </span>
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  3 </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Diabetes mellitus, type 1
 
                                                     </span>
                                                 </td>
-                                                <td  ><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                <td  ><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Liver (LR), Placenta (PA), Suprarenal (SL)
                                                     </span>
                                                 </td>
@@ -2054,17 +2064,17 @@ and open the template in the editor.
                                                     </span>
                                                 </td>
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td>
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  5 </span>
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  5 </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Gout
 
                                                     </span>
                                                 </td>
-                                                <td ><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                <td ><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Kidney (KY), Liver (LR)
                                                     </span>
                                                 </td>
@@ -2084,17 +2094,17 @@ and open the template in the editor.
                                                     </span>
                                                 </td>
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  7 </span>
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  7 </span>
                                                 </td>
                                                 <td>
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Asthma
 
                                                     </span>
                                                 </td>
-                                                <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                <td  style=""><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Lung (LG), Thymus (TH), Suprarenal (SL)
                                                     </span>
                                                 </td>
@@ -2114,17 +2124,17 @@ and open the template in the editor.
                                                     </span>
                                                 </td>
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  9 </span>
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  9 </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Deficient immune system
 
                                                     </span>
                                                 </td>
-                                                <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                <td  style=""><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Thymus (TH), Placenta (PA)
                                                     </span>
                                                 </td>
@@ -2145,17 +2155,17 @@ and open the template in the editor.
                                                     </span>
                                                 </td>
                                             </tr>
-                                            <tr>
+                                            <tr class="bg_color_blue">
                                                 <td>
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">  11 </span>
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">  11 </span>
                                                 </td>
                                                 <td >
-                                                    <span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                    <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Central Nervous system disease
 
                                                     </span>
                                                 </td>
-                                                <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                                <td  style=""><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                         Total Cerebrum (TC), Spinal Cord (SC)
                                                     </span>
                                                 </td>
@@ -2180,6 +2190,76 @@ and open the template in the editor.
         </div>
 
         <style>
+            .bg_color_blue{
+                background: rgba(55, 144, 209, 0.74);
+            }
+            .bg_color_grey{
+                background: rgba(81, 81, 81, 0.71);
+            }
+            .bg1-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_a_series/Anti_Gout/bg1-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 0% 100%;
+            }
+            .bg2-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_a_series/Anti_Gout/bg2-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
+            .bg3-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_a_series/Anti_Gout/bg3-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 64% 100%;
+            }
+            .bg4-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_a_series/Anti_Gout/bg4-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 64% 100%;
+            }
+            .bg6-1-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_a_series/Anti_Gout/bg6-1-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
+            .bg6-2-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_a_series/Anti_Gout/bg6-2-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 71%;
+            }
+            .bg6-3-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_a_series/Anti_Gout/bg6-3-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
+            .bg7-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_a_series/Anti_Gout/bg7-1-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
+            .bg8-xs{
+                width: 100%;
+                background: #FFF url(images/Filorga_a_series/Anti_Gout/bg8-xs.jpg) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 50% 100%;
+            }
+
             .color-black-xs{
                 color: #000;
             }
@@ -2385,7 +2465,31 @@ and open the template in the editor.
             }
             /*            md size*/
             @media(min-width:992px){
+                .bg_color_blue{
+                    background: inherit;
+                }
+                .bg_color_grey{
+                    background: inherit;
+                }
+                .bg1-xs,
+                .bg2-xs,
+                .bg3-xs,
+                .bg4-xs,
+                .bg5-xs,
+                .bg6-xs,
+                .bg6-1-xs,.bg6-2-xs,.bg6-3-xs,
+                .bg7-xs,
+                .bg7-1-xs,
+                .bg8-xs,
+                .bg9-xs,
+                .bg10-xs
+                {
 
+                    background: inherit;
+                    -moz-background-size: inherit;
+                    background-size: inherit;
+                    background-position:inherit;
+                }
                 .color-black-xs{
                     color: inherit;;
                 }
@@ -2457,12 +2561,12 @@ and open the template in the editor.
                 }
                 .bg1-head-sentance-1{
                     color: #000;
-                    margin: 76px 55px 0 0;
+                    margin: 76px 42px 0 0;
                     text-align: right;
                     line-height: 27px;
                 }
                 .bg1-head-sentance-2{
-                    margin: -83px 0 0 42px;
+                    margin: -85px 0 0 22px;
                 }
 
                 .bg1-body-sentance-1{
@@ -2537,10 +2641,10 @@ and open the template in the editor.
                 }
                 .bg3-body-sentance-3{
 
-                    margin: 18px 0 0 30px;
+                    margin: 18px 0 0 14px;
                 } 
                 .bg3-body-sentance-4{
-                    margin: 18px 0 0 42px;
+                    margin: 18px 0 0 28px;
                     float: left;
                     line-height: 20px;
                     letter-spacing: -0.2px;
@@ -2740,7 +2844,7 @@ and open the template in the editor.
 
                 }
                 .bg6{
-                    background-image: url(images/Filorga_a_series/Anti_Diabetes/bg4.jpg);
+                    background-image: url(images/Filorga_a_series/Anti_Gout/bg4.jpg);
                     background-repeat: no-repeat;
                     width: 739px;
                     height: 961px;
@@ -2766,7 +2870,7 @@ and open the template in the editor.
 
                 .bg6-body-sentance-5{
 
-                    margin: 16px 0 0 42px;
+                    margin: 26px 0 0 42px;
                 }
 
 
@@ -2788,7 +2892,7 @@ and open the template in the editor.
 
                 .bg6-body-sentance-9{
 
-                    margin: 84px 0 0 0;
+                    margin: 60px 0 0 0;
                     line-height: 15px;
                 }
                 .bg6-body-sentance-10{

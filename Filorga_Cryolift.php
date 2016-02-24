@@ -11,7 +11,7 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
-
+        <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
     </head>
     <body>
@@ -20,18 +20,16 @@ and open the template in the editor.
                 <div class="">
                     <div class="bg1">
                         <div class="row">
-                            <div class="col-xs-12">
+                            <div class="col-xs-12 padding-top-1em-xs padding-bottom-1em-xs">
                                 <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
                                     <div style="font-family: Century Gothic;font-size: 70px;color: #000;text-transform: uppercase;"> 
-                                        <div class="font-xs-28">Cryolift </div>
+                                        <div class="font-xs-36">Cryolift </div>
                                     </div>
                                     <br class="hidden-sm hidden-xs">
                                     <p> 
-
                                         <img src="images/Filorga_Cryolift/logo.jpg" style="width: 131px;">
                                     </p>
                                     <br class="hidden-sm hidden-xs">
-
                                 </div>
                             </div>
 
@@ -41,15 +39,22 @@ and open the template in the editor.
                 <p class="hidden-md hidden-lg hidden-sm hidden-xs">&nbsp;</p>
                 <div class="bg2">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="bg1-xs padding-top-2em-xs col-xs-12 padding-left-0-xs-important padding-right-0-xs-important">
                             <div class="bg2-head-sentance-1">
-
+                                <div  class="bg_color-white-low_light padding-top-10-xs padding-bottom-10-xs hidden-lg hidden-md text-center-xs">
+                                    <p> 
+                                        <img src="images/Filorga_Cryolift/logo.png" >
+                                    </p>
+                                </div>
                                 <br>
-                                <div style="font-family: Century Gothic; font-size: 18px;color: #000; line-height: 25px;" class="bg2-head-sentance-2 text-center-xs text-center">
+                                <br class="hidden-lg hidden-md">
+                                <br class="hidden-lg hidden-md">
+                                <br class="hidden-lg hidden-md">
+                                <br class="hidden-lg hidden-md">
+                                <div style="font-family: Century Gothic; font-size: 18px;color: #000; line-height: 25px;" class="bg_color-white-low_light padding-top-10-xs padding-bottom-10-xs bg2-head-sentance-2 text-center-xs text-center">
                                     Beauty is an art, <br>
                                     We made it a Science.
                                 </div>
-
                             </div>
                         </div>
                     </div>
@@ -59,14 +64,17 @@ and open the template in the editor.
                 <div class="bg3">
                     <div class="row ">
                         <div class="col-xs-12">
-                            <div class="bg3-head-sentance-1 line-height-xs-28 text-center-xs">
+
+                            <div class="bg3-head-sentance-1 padding-bottom-20-xs line-height-xs-28 text-center-xs">
                                 <span style="font-family: Century Gothic;font-size: 36px;color: #000;">
                                     <span class="color-black-xs font-xs-28 text-shadow uppercase"> 
-
                                         Cryolift III 
                                     </span>
                                 </span>
                             </div>
+                            <p class="hidden-lg hidden-md">
+                                <img src="images/Filorga_Cryolift/img1.jpg" class="img-responsive margin-auto">
+                            </p>
                             <div class="bg3-body-sentance-1 text-indent-xs">
                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                     Cryolift III combines cryotherpy and light therapy technologies on <br class="hidden-sm hidden-xs">
@@ -85,15 +93,16 @@ and open the template in the editor.
 
                 <p class="hidden-lg hidden-md">&nbsp;</p>
                 <div class="bg4">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <div class="bg4-body-sentance-1 text-center-xs">
+                    <div class="row ">
+                        <div class="bg3-xs padding-bottom-4em-xs padding-top-2em-xs col-xs-12 padding-left-0-xs-important padding-right-0-xs-important ">
+
+                            <div class="bg4-body-sentance-1 text-center-xs bg_color-white-low_light padding-top-2em-xs">
                                 <span style="font-family: Century Gothic; font-size: 36px;" class="text-shadow uppercase"> 
                                     Cryolift <br>
                                     method
                                 </span>
                             </div>
-                            <div class="bg4-body-sentance-2 text-indent-xs">
+                            <div class="bg4-body-sentance-2 text-indent-xs bg_color-white-low_light padding-bottom-2em-xs padding-left-15-xs padding-right-15-xs">
                                 <span style="font-family: Arial; font-size: 12px;color: #000;" >
                                     The Cryolift method is the product of medical research  <br class="hidden-sm hidden-xs">
                                     and achieves a perfect symbiosis between the biostimulation  <br class="hidden-sm hidden-xs">
@@ -106,14 +115,15 @@ and open the template in the editor.
                                     the cold to the deep layers of the skin.
                                 </span>
                             </div>
-                            <p>&nbsp;</p>
-                            <div class="bg4-body-sentance-3">
+
+                            <p class="hidden-sm hidden-xs">&nbsp;</p>
+                            <div class="bg4-body-sentance-3 bg_color-white-low_light padding-left-15-xs ">
                                 <span style="font-family: Century Gothic; font-size: 30px;" class="text-shadow">
                                     3 Main Action 
                                 </span>
 
                             </div>
-                            <div class="bg4-body-sentance-4 text-indent-xs">
+                            <div class="bg4-body-sentance-4 text-indent-xs bg_color-white-low_light padding-bottom-3em-xs padding-left-15-xs padding-right-15-xs">
                                 <span style="font-family:Arial; font-size: 12px;">
                                     1. Controlled analgesia the rapid inhibition of nerve conduction  <br class="hidden-sm hidden-xs">
                                     enables deep massage without client discomfort <br class="hidden-sm hidden-xs"> <br class="hidden-sm hidden-xs">
@@ -131,10 +141,10 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg5">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="bg4-xs col-xs-12 padding-bottom-2em-xs padding-top-2em-xs">
                             <div class="bg5-body-sentance-1 text-center-xs">
 
                                 <span style="font-family:  Century Gothic; font-size: 30px;color: #000;">
@@ -204,7 +214,10 @@ and open the template in the editor.
                                     </div>
                                 </div>
                             </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                        </div>
+
+                        <p class="hidden-lg hidden-md">&nbsp;</p>
+                        <div class="col-xs-12">
                             <div class="bg5-body-sentance-6">
                                 <span style="font-family: Arial; font-size: 12px;color: #000;">
                                     <span style="font-family:  Century Gothic; font-size: 24px;color: #000;"> Definition</span> <br>
@@ -219,19 +232,21 @@ and open the template in the editor.
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg6">
                     <div class="row">
-                        <div class="col-xs-12">
-                            <div class="bg6-body-sentance-1">
+                        <div class="bg6-xs col-xs-12  padding-bottom-4em-xs padding-top-4em-xs">
+                             <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <div class="bg6-body-sentance-1 text-center-xs ">
                                 <span style="font-family:  Century Gothic; font-size: 48px;color: #000;">
                                     Targets
                                 </span>
                             </div>
-                            <div class="bg6-body-sentance-2 text-indent-xs">
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <div class="bg6-body-sentance-2 text-indent-xs ">
                                 <span style="font-family: Arial; font-size: 12px;color: #000;">
                                     Adapting to the indications of the treatment and personalised care specifications, <br class="hidden-sm hidden-xs">
                                     cryoplasty® applies to the various parts of the coetaneous anatomy:
                                 </span>
                             </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <p class="hidden-lg hidden-md ">&nbsp;</p>
                             <div class="bg6-body-sentance-3">
                                 <span style="font-family:Century Gothic; font-size: 20px;color: #000;">
                                     <img src="images/Filorga_Cryolift/icon-check.png" class="hidden-lg hidden-md"> Skin <br>
@@ -255,7 +270,9 @@ and open the template in the editor.
                                     precision, before applying the indication with rigour.
                                 </span>
                             </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                        </div>
+                        <p class="hidden-lg hidden-md">&nbsp;</p>
+                        <div class=" col-xs-12">
                             <div class="bg6-body-sentance-5">
                                 <span style="font-family: Century Gothic;font-size: 40px;">
                                     Cutaneous refrigeration
@@ -286,28 +303,28 @@ and open the template in the editor.
                 <p class="hidden-lg hidden-md">&nbsp;</p>
                 <div class="bg7">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="bg7-xs col-xs-12 padding-bottom-4em-xs padding-top-2em-xs">
                             <div class="bg7-body-sentance-1">
                                 <span style="font-family:  Century Gothic; font-size: 40px;color: #FFF;">
-                                    <span class="color-black-xs">  Procedure </span>
+                                    <span class="">  Procedure </span>
                                 </span>
                             </div>
                             <div class="bg7-body-sentance-2">
                                 <span style="font-family:  Arial; font-size: 12px;color: #FFF;">
                                     <span style="font-size: 18px;color: #FFF;">
-                                        <span class="color-black-xs"> 1. Localisation of the zone to treat </span><br> 
+                                        <span class=""> 1. Localisation of the zone to treat </span><br> 
                                     </span>  
-                                    <span class="color-black-xs"><span class="hidden-lg hidden-md">&nbsp;&nbsp;&nbsp;&nbsp;</span>Use Cryolift on skin filled with Filorga Fluids so as to <br class="hidden-sm hidden-xs"> 
+                                    <span class=""><span class="hidden-lg hidden-md">&nbsp;&nbsp;&nbsp;&nbsp;</span>Use Cryolift on skin filled with Filorga Fluids so as to <br class="hidden-sm hidden-xs"> 
                                         create dermocyophoresis of active ingredients and <br class="hidden-sm hidden-xs"> 
                                         the stimulation of micro circulation by vasomotricity.<br class="hidden-sm hidden-xs"> 
-                                        <span style="font-size: 18px;" class="color-black-xs">  <br>
+                                        <span style="font-size: 18px;" class="">  <br>
                                             2. Horizontal application of the cryoprobe <br >
                                         </span>
                                         <span class="hidden-lg hidden-md">&nbsp;&nbsp;&nbsp;&nbsp;</span>Start with the top of the face and exert brushing <br class="hidden-sm hidden-xs"> 
                                         movements from the median line towards the sides. <br class="hidden-sm hidden-xs"> 
                                         Continue at the level of middle tier, lower tier,neck <br class="hidden-sm hidden-xs"> 
                                         and neckline.<br class="hidden-sm hidden-xs">  <br>
-                                        <span style="font-size: 18px;" class="color-black-xs">
+                                        <span style="font-size: 18px;" class="">
                                             3. Sweeping cryoplasty On the maxillary, <br>
                                         </span>
                                         <br class="hidden-sm hidden-xs"> 
@@ -317,12 +334,14 @@ and open the template in the editor.
                                     </span>
                                 </span>
                             </div>
+                        </div>
                             <p class="hidden-lg hidden-md">&nbsp;</p>
+                             <div class="col-xs-12">
                             <div class="bg7-body-sentance-3">
                                 <span style="font-family:  Century Gothic; font-size: 24px;color: #000;">
                                     Specifications <br>
                                 </span>
-
+                                  <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
                                 <span style="font-family:  Arial; font-size: 12px;color: #000;">
                                     <span class="hidden-lg hidden-md">- </span>APPARATUS PART <br>
                                     <span class="hidden-lg hidden-md">- </span>AC Input: 120 - 230 Volts / 50 - 60 Hz <br>
@@ -343,6 +362,7 @@ and open the template in the editor.
                                 <span style="font-family:  Century Gothic; font-size: 24px;color: #000;">
                                     Handheld Part <br>
                                 </span>
+                                <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
                                 <span style="font-family:  Arial; font-size: 12px;color: #000;">
 
                                     <span class="hidden-lg hidden-md">- </span>AC Input: 12 Volts<br>
@@ -359,7 +379,8 @@ and open the template in the editor.
                                 </span>
 
                             </div>
-
+                            <p class="hidden-lg hidden-md"><img src="images/Filorga_Cryolift/img2.jpg" class="img-responsive margin-auto"></p>
+                             <p class="hidden-lg hidden-md">&nbsp;</p>
 
 
                         </div>
@@ -368,6 +389,60 @@ and open the template in the editor.
             </div>
 
             <style>
+
+
+                .bg1-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_Cryolift/bg1-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 0% 100%;
+                    height: 350px;
+                }
+                .bg2-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_Cryolift/bg2-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 50% 100%;
+                }
+                .bg3-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_Cryolift/bg3-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 64% 100%;
+                }
+                .bg4-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_Cryolift/bg4-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 64% 100%;
+                }
+                .bg6-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_Cryolift/bg6-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 64% 100%;
+                }
+                  .bg7-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_Cryolift/bg7-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 64% 100%;
+                }
+                   .bg8-xs{
+                    width: 100%;
+                    background: #FFF url(images/Filorga_Cryolift/bg8-xs.jpg) center top no-repeat ;
+                    -moz-background-size: cover;
+                    background-size: cover;
+                    background-position: 64% 100%;
+                }
+
+
                 .uppercase{
                     text-transform: uppercase;
                 }
@@ -582,6 +657,26 @@ and open the template in the editor.
                 }
                 /*            md size*/
                 @media(min-width:992px){
+
+                    .bg1-xs,
+                    .bg2-xs,
+                    .bg3-xs,
+                    .bg4-xs,
+                    .bg5-xs,
+                    .bg6-xs,
+                    .bg6-1-xs,.bg6-2-xs,.bg6-3-xs,
+                    .bg7-xs,
+                    .bg7-1-xs,
+                    .bg8-xs,
+                    .bg9-xs,
+                    .bg10-xs
+                    {
+
+                        background: inherit;
+                        -moz-background-size: inherit;
+                        background-size: inherit;
+                        background-position:inherit;
+                    }
 
                     .color-black-xs{
                         color: inherit;;
