@@ -20,9 +20,9 @@ and open the template in the editor.
 
                 <div class="bg1">
                     <div class="row">
-                        <div class="col-xs-12 padding-bottom-2em-xs padding-top-2em-xs">
+                        <div class="col-xs-12 padding-bottom-3em-xs padding-top-2em-xs">
                             <p class="hidden-lg hidden-md">
-                                <img src="images/sensitive/pd1.jpg" class="img-responsive margin-auto">
+                                <img src="images/combination/pd1.jpg" class="img-responsive margin-auto">
                             </p>
                             <div class="bg1-head-sentance-1 text-center-xs" style="">
                                 <div style="font-family: Century Schoolbook;font-size: 34px;color: #000;text-transform: uppercase;"> 
@@ -59,8 +59,7 @@ and open the template in the editor.
                                 </div>
                             </div>
                         </div>
-                        <div class="bg2-xs col-xs-12 padding-top-2em-xs padding-bottom-2em-xs">
-
+                        <div class="bg2-xs col-xs-12 padding-bottom-3em-xs padding-top-2em-xs">
                             <div class="bg1-head-sentance-5">
                                 <div style="font-family: Century Gothic;font-size: 15px;color: #000;letter-spacing: -0.4px;">
                                     <b>   
@@ -104,15 +103,19 @@ and open the template in the editor.
                                     to your treatment
                                 </div>
                             </div>
+
                         </div>
+
                     </div>
-                </div> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/sensitive/line-xs.jpg" class="img-responsive margin-auto hidden-lg hidden-md">  
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
+                </div>
+                <p class="hidden-lg hidden-md">&nbsp;</p>
+                <p class="hidden-lg hidden-md">
+                    <img src="images/combination/line-xs.jpg" class="img-responsive margin-auto">
+                </p>
                 <div class="bg2">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="col-xs-12 padding-bottom-3em-xs padding-top-2em-xs">
                             <div class="">
                                 <div class="bg2-head-sentance-1 head-title-xs">
                                     <div style="font-family: Century Gothic; font-size: 13px;color: #FFF; " >
@@ -121,33 +124,34 @@ and open the template in the editor.
                                         </div>
                                     </div>
                                 </div>
-                                <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
-                                <div class="bg2-head-sentance-1_1 head-title-active-xs">
-                                    <div style="font-family: Century Gothic; font-size: 13px;color: #000; " >
-                                        <div  class="font-xs-24 text-center-xs uppercase padding-all-10-xs"> 
+                                <div class="margin-bottom-5-xs hidden-lg hidden-md"></div>
+                                <div class="bg2-head-sentance-1_1 head-title-xs">
+                                    <div style="font-family: Century Gothic; font-size: 13px;color: #FFF; " >
+                                        <div  class="text-center-xs uppercase padding-all-10-xs"> 
                                             <strong>Sensitive Skin Care Sets </strong>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="margin-bottom-10-xs hidden-lg hidden-md"></div>
-                                <div class="bg2-head-sentance-1_2 head-title-xs">
-                                    <div style="font-family: Century Gothic; font-size: 13px;color: #FFF; " >
-                                        <div  class="text-center-xs uppercase padding-all-10-xs"> 
+                                <div class="bg2-head-sentance-1_2 head-title-active-xs">
+                                    <div style="font-family: Century Gothic; font-size: 13px;color: #000; " >
+                                        <div  class="color-black-xs text-center-xs font-xs-20 uppercase padding-all-10-xs"> 
                                             <strong>Combination <br class="hidden-lg hidden-md">Skin Care Sets</strong>
+
                                         </div>
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
-                                <p class="hidden-lg hidden-md">&nbsp;</p>
+                                <p>&nbsp;</p>
                                 <p class="hidden-lg hidden-md">
-                                    <img src="images/sensitive/pd2.jpg" class="img-responsive margin-auto">
+                                    <img src="images/combination/pd2.jpg" class="img-responsive margin-auto">
                                 </p>
                                 <div class="bg2-body-sentance-1">
                                     <div class="uppercase" style="font-family: Century Gothic;font-size: 15px;color: #000;text-align: right; " >
                                         <div class="text-center-xs">
                                             <strong> 
                                                 SOIN ANTI-AGE GLOBAL <br>
-                                                SENSITIVE SKIN
+                                                combination SKIN
                                             </strong>
                                         </div>
                                     </div>
@@ -157,13 +161,10 @@ and open the template in the editor.
                                 <div class="bg2-body-sentance-1_1">
                                     <div class="" style="font-family:Arial;font-size: 13px;color: #000;text-align: right; " >
                                         <div class="text-center-xs line-height-xs-24" >
-
-
-
-                                            A fresh texture, with a soothing effect, that reduces <br class="hidden-sm hidden-xs">
-                                            wrinkles, tightens the skin, attenuates redness and <br class="hidden-sm hidden-xs">
-                                            desensitises in the long term, for skin with <br class="hidden-sm hidden-xs">
-                                            renewed serenity
+                                            A sorbet texture that slips into the skin smoothing <br class="hidden-sm hidden-xs">
+                                            the skin's surface, tightening, and reducing the size <br class="hidden-sm hidden-xs">
+                                            of the pores, achieving a matte finishon all<br class="hidden-sm hidden-xs">
+                                            areas, even the zones that easily become shiny.
                                         </div>
                                     </div>
                                 </div>
@@ -171,7 +172,7 @@ and open the template in the editor.
 
                                 <p class="hidden-lg hidden-md">&nbsp;</p>
                                 <p class="hidden-lg hidden-md">
-                                    <img src="images/sensitive/pd3.jpg" class="img-responsive margin-auto">
+                                    <img src="images/combination/pd3.jpg" class="img-responsive margin-auto">
                                 </p>
                                 <div class="bg2-body-sentance-2">
                                     <div class="uppercase" style="font-family: Century Gothic;font-size: 15px;color: #000;text-align: left; " >
@@ -183,7 +184,12 @@ and open the template in the editor.
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
-                                <div class="hidden-lg hidden-md margin-bottom-10-xs"></div>
+                                <p class="hidden-lg hidden-md">&nbsp;</p>
+                                <p class="hidden-lg hidden-md">
+                                    <img src="images/combination/line-xs.jpg" class="img-responsive margin-auto">
+                                </p>
+
+                                <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
                                 <div class="bg2-body-sentance-2_1">
                                     <div class="" style="font-family:Arial;font-size: 13px;color: #000;text-align: left; " >
                                         <div class="text-center-xs line-height-xs-24">
@@ -192,8 +198,6 @@ and open the template in the editor.
                                             all the signs of aging (wrinkles, firmness)<br class="hidden-sm hidden-xs">
                                             and of fatigue (dark circles, bags) in this particularly <br class="hidden-sm hidden-xs">
                                             fragile area
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -207,9 +211,7 @@ and open the template in the editor.
                     </div>
 
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/sensitive/line-xs.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+
                 <div class="bg3">
                     <div class="row ">
                         <div class="col-xs-12 padding-bottom-3em-xs">
@@ -221,7 +223,7 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <p class="hidden-lg hidden-md">
-                                <img src="images/sensitive/pd4.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                                <img src="images/combination/pd4.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
                             </p>
                             <div class="clearfix"></div>
                             <div class="bg3-body-sentance-1_1">
@@ -243,7 +245,7 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <p class="hidden-lg hidden-md">
-                                <img src="images/sensitive/pd4.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                                <img src="images/combination/pd4.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
                             </p>
                             <div class="clearfix"></div>
                             <div class="bg3-body-sentance-2_1">
@@ -265,7 +267,7 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <p class="hidden-lg hidden-md">
-                                <img src="images/sensitive/pd4.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                                <img src="images/combination/pd4.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
                             </p>
                             <div class="clearfix"></div>
                             <div class="bg3-body-sentance-3_1">
@@ -286,7 +288,7 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <p class="hidden-lg hidden-md">
-                                <img src="images/sensitive/pd4.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                                <img src="images/combination/pd4.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
                             </p>
                             <div class="clearfix"></div>
                             <div class="bg3-body-sentance-4_1">
@@ -308,7 +310,7 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <p class="hidden-lg hidden-md">
-                                <img src="images/sensitive/pd4.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                                <img src="images/combination/pd4.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
                             </p>
                             <div class="clearfix"></div>
                             <div class="bg3-body-sentance-5_1">
@@ -323,12 +325,13 @@ and open the template in the editor.
 
                                 </div>
                             </div>
-                            <p class="hidden-md hidden-lg">&nbsp;</p>
-                            <img src="images/sensitive/line-xs.jpg" class="img-responsive margin-auto hidden-lg hidden-md">  
-                            <p class="hidden-md hidden-lg">&nbsp;</p>
-                            <div class="bg3-body-sentance-6">
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <p class="hidden-lg hidden-md">
+                                <img src="images/combination/line-xs.jpg" class="img-responsive margin-auto">
+                            </p>
+                            <div class="bg3-body-sentance-6 padding-top-1em-xs">
                                 <div style="font-family:Century Schoolbook;font-size: 19px;color: #000;">
-                                    <div class="uppercase font-xs-24 text-center-xs"> 
+                                    <div class="uppercase text-center-xs font-xs-24"> 
                                         <strong> Promotion set</strong>
                                     </div>
                                 </div>
@@ -336,12 +339,12 @@ and open the template in the editor.
 
 
                             <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <img src="images/sensitive/pd5.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                            <img src="images/combination/pd5.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
 
                             <div class="bg3-body-sentance-7">
                                 <div style="font-family: Century Gothic;font-size: 13px;color: #000;text-align: center;letter-spacing: 0.8px;">
                                     <div class=""> 
-                                        Skin Perfustion Sensitive skin <br>
+                                        Skin Perfustion Combination skin <br>
                                         <span class="uppercase" style="letter-spacing: 1.9px;"> 
                                             <b>  Dark spot set </b>
                                         </span>
@@ -354,7 +357,7 @@ and open the template in the editor.
                             <div class="bg3-body-sentance-7_1">
                                 <div style="font-family: Arial;font-size: 12px;color: #000;">
                                     <div class="text-center-xs"> 
-                                        <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Soin anti - age global sensitive skin <br>
+                                        <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Soin anti - age global combination skin <br>
                                         <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Eyes contour action<br>
                                         <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Dark Spot Serum
                                     </div>
@@ -363,12 +366,12 @@ and open the template in the editor.
 
 
                             <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <img src="images/sensitive/pd5.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                            <img src="images/combination/pd5.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
 
                             <div class="bg3-body-sentance-8">
                                 <div style="font-family: Century Gothic;font-size: 13px;color: #000;text-align: center;letter-spacing: 0.8px;">
                                     <div class="text-center-xs"> 
-                                        Skin Perfustion Sensitive skin <br>
+                                        Skin Perfustion Combination skin <br>
                                         <span class="uppercase" style="letter-spacing: 1.9px;"> 
                                             <b>  FIRMING SET </b>
                                         </span>
@@ -381,7 +384,7 @@ and open the template in the editor.
                             <div class="bg3-body-sentance-8_1">
                                 <div style="font-family: Arial;font-size: 12px;color: #000;">
                                     <div class="text-center-xs"> 
-                                        <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Soin anti - age global sensitive skin <br>
+                                        <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Soin anti - age global combination skin <br>
                                         <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Eyes contour action<br>
                                         <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Firming Serum
 
@@ -389,12 +392,12 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <img src="images/sensitive/pd5.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                            <img src="images/combination/pd5.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
 
                             <div class="bg3-body-sentance-9">
                                 <div style="font-family: Century Gothic;font-size: 13px;color: #000;text-align: center;letter-spacing: 0.8px;">
                                     <div class="text-center-xs"> 
-                                        Skin Perfustion Sensitive skin <br>
+                                        Skin Perfustion Combination skin <br>
                                         <span class="uppercase" style="letter-spacing: 1.9px;"> 
                                             <b>  REDIANCE SET </b>
                                         </span>
@@ -407,22 +410,20 @@ and open the template in the editor.
                             <div class="bg3-body-sentance-9_1">
                                 <div style="font-family: Arial;font-size: 12px;color: #000;">
                                     <div class="text-center-xs"> 
-                                        <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Soin anti - age global sensitive skin <br>
+                                        <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Soin anti - age global combination skin <br>
                                         <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Eyes contour action<br>
                                         <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Rediance Serum
-
-
 
                                     </div>
                                 </div>
                             </div>
 
                             <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <img src="images/sensitive/pd5.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                            <img src="images/combination/pd5.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
                             <div class="bg3-body-sentance-10">
                                 <div style="font-family: Century Gothic;font-size: 13px;color: #000;text-align: center;letter-spacing: 0.8px;">
                                     <div class="text-center-xs"> 
-                                        Skin Perfustion Sensitive skin <br>
+                                        Skin Perfustion Combination skin <br>
                                         <span class="uppercase" style="letter-spacing: 1.9px;"> 
                                             <b>  KRINKLE SET </b>
                                         </span>
@@ -435,7 +436,7 @@ and open the template in the editor.
                             <div class="bg3-body-sentance-10_1">
                                 <div style="font-family: Arial;font-size: 12px;color: #000;">
                                     <div class="text-center-xs"> 
-                                        <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Soin anti - age global sensitive skin <br>
+                                        <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Soin anti - age global combination skin <br>
                                         <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Eyes contour action<br>
                                         <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Wrinkle Serum
 
@@ -443,11 +444,11 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <img src="images/sensitive/pd5.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
+                            <img src="images/combination/pd5.jpg" class="img-responsive margin-auto hidden-lg hidden-md"> 
                             <div class="bg3-body-sentance-11">
                                 <div style="font-family: Century Gothic;font-size: 13px;color: #000;text-align: center;letter-spacing: 0.8px;">
                                     <div class=""> 
-                                        Skin Perfustion Sensitive skin <br>
+                                        Skin Perfustion Combination skin <br>
                                         <span class="uppercase" style="letter-spacing: 1.9px;"> 
                                             <b>  PUMPLING SET </b>
                                         </span>
@@ -460,22 +461,15 @@ and open the template in the editor.
                             <div class="bg3-body-sentance-11_1">
                                 <div style="font-family: Arial;font-size: 12px;color: #000;">
                                     <div class="text-center-xs"> 
-                                        <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Soin anti - age global sensitive skin <br>
+                                        <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Soin anti - age global combination skin <br>
                                         <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Eyes contour action<br>
                                         <b style="font-size: 18px;">•</b>&nbsp;&nbsp;Pumpling Serum
-
-
 
                                     </div>
                                 </div>
                             </div>
-
-
                         </div>
-
-
                     </div>
-
                 </div>
             </div>
         </div>
@@ -503,49 +497,49 @@ and open the template in the editor.
             }
             .bg1-xs{
                 width: 100%;
-                background: #FFF url(images/sensitive/bg1-xs.jpg) center top no-repeat ;
+                background: #FFF url(images/combination/bg1-xs.jpg) center top no-repeat ;
                 -moz-background-size: cover;
                 background-size: cover;
                 background-position: 0% 100%;
             }
             .bg2-xs{
                 width: 100%;
-                background: #FFF url(images/sensitive/bg2-xs.jpg) center top no-repeat ;
+                background: #FFF url(images/combination/bg2-xs.jpg) center top no-repeat ;
                 -moz-background-size: cover;
                 background-size: cover;
                 background-position: 100% 100%;
             }
             .bg3-xs{
                 width: 100%;
-                background: #FFF url(images/sensitive/bg3-xs.jpg) center top no-repeat ;
+                background: #FFF url(images/combination/bg3-xs.jpg) center top no-repeat ;
                 -moz-background-size: cover;
                 background-size: cover;
                 background-position: 50% 100%;
             }
             .bg4-xs{
                 width: 100%;
-                background: #FFF url(images/sensitive/bg4-xs.jpg) center top no-repeat ;
+                background: #FFF url(images/combination/bg4-xs.jpg) center top no-repeat ;
                 -moz-background-size: cover;
                 background-size: cover;
                 background-position: 0% 100%;
             }
             .bg5-xs{
                 width: 100%;
-                background: #FFF url(images/sensitive/bg5-xs.jpg) center top no-repeat ;
+                background: #FFF url(images/combination/bg5-xs.jpg) center top no-repeat ;
                 -moz-background-size: cover;
                 background-size: cover;
                 background-position: 10% 100%;
             }
             .bg5-xs{
                 width: 100%;
-                background: #FFF url(images/sensitive/bg5-xs.jpg) center top no-repeat ;
+                background: #FFF url(images/combination/bg5-xs.jpg) center top no-repeat ;
                 -moz-background-size: cover;
                 background-size: cover;
                 background-position: 10% 100%;
             }
             .bg6-xs{
                 width: 100%;
-                background: #FFF url(images/sensitive/bg6-xs.jpg) center top no-repeat ;
+                background: #FFF url(images/combination/bg6-xs.jpg) center top no-repeat ;
                 -moz-background-size: cover;
                 background-size: cover;
                 background-position: 50% 100%;
@@ -909,7 +903,7 @@ and open the template in the editor.
 
 
                 .bg1{
-                    background-image: url(images/sensitive/bg1.jpg);
+                    background-image: url(images/combination/bg1.jpg);
                     width: 740px;
                     height: 858px;
                 }
@@ -935,6 +929,7 @@ and open the template in the editor.
                     line-height: 17px;
 
                 }
+
                 .bg1-head-sentance-7{
 
                     margin: 75px 0 0 429px;
@@ -944,7 +939,9 @@ and open the template in the editor.
                     line-height: 17px;
                     /* letter-spacing: -0.1px; */
                     word-spacing: -1px;
+
                 }
+
 
 
 
@@ -976,7 +973,7 @@ and open the template in the editor.
 
 
                 .bg2{
-                    background-image: url(images/sensitive/bg2.jpg);
+                    background-image: url(images/combination/bg2.jpg);
                     width: 740px;
                     height: 555px;
                 }
@@ -998,7 +995,7 @@ and open the template in the editor.
 
 
                 .bg2-body-sentance-1{
-                    margin: 89px 0 0px 177px;
+                    margin: 50px 0 0px 177px;
                     float: left;
 
                 }
@@ -1042,7 +1039,7 @@ and open the template in the editor.
 
 
                 .bg3{
-                    background-image: url(images/sensitive/bg3.jpg);
+                    background-image: url(images/combination/bg3.jpg);
                     background-repeat: no-repeat;
                     width: 740px;
                     height: 1674px;
@@ -1191,7 +1188,7 @@ and open the template in the editor.
 
 
                 .bg4{
-                    background-image: url(images/sensitive/bg4.jpg);
+                    background-image: url(images/Filorga_NCTF135HA/bg4.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 1063px;
@@ -1264,7 +1261,7 @@ and open the template in the editor.
 
 
                 .bg5{
-                    background-image: url(images/sensitive/bg5.jpg);
+                    background-image: url(images/Filorga_NCTF135HA/bg5.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 665px;
@@ -1298,7 +1295,7 @@ and open the template in the editor.
 
 
                 .bg6{
-                    background-image: url(images/sensitive/bg6.jpg);
+                    background-image: url(images/Filorga_NCTF135HA/bg6.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 504px;
@@ -1311,7 +1308,7 @@ and open the template in the editor.
                 }
 
                 .bg7{
-                    background-image: url(images/sensitive/bg7.jpg);
+                    background-image: url(images/Filorga_NCTF135HA/bg7.jpg);
                     background-repeat: no-repeat;
                     width: 799px;
                     height: 751px;

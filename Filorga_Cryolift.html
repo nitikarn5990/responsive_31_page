@@ -17,11 +17,11 @@ and open the template in the editor.
     <body>
         <div class="container">
             <div style="max-width: 800px !important;">
-                <div class="">
+               
                     <div class="bg1">
                         <div class="row">
                             <div class="col-xs-12 padding-top-1em-xs padding-bottom-1em-xs">
-                                <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
+                                <div class="bg1-head-sentance-1 text-center-xs" style="">
                                     <div style="font-family: Century Gothic;font-size: 70px;color: #000;text-transform: uppercase;"> 
                                         <div class="font-xs-36">Cryolift </div>
                                     </div>
@@ -35,13 +35,13 @@ and open the template in the editor.
 
                         </div>
                     </div>
-                </div>
+            
                 <p class="hidden-md hidden-lg hidden-sm hidden-xs">&nbsp;</p>
                 <div class="bg2">
                     <div class="row">
                         <div class="bg1-xs padding-top-2em-xs col-xs-12 padding-left-0-xs-important padding-right-0-xs-important">
                             <div class="bg2-head-sentance-1">
-                                <div  class="bg_color-white-low_light padding-top-10-xs padding-bottom-10-xs hidden-lg hidden-md text-center-xs">
+                                <div  class="bg_color-white-low_light box-shadow-xs padding-top-10-xs padding-bottom-10-xs hidden-lg hidden-md text-center-xs">
                                     <p> 
                                         <img src="images/Filorga_Cryolift/logo.png" >
                                     </p>
@@ -51,7 +51,7 @@ and open the template in the editor.
                                 <br class="hidden-lg hidden-md">
                                 <br class="hidden-lg hidden-md">
                                 <br class="hidden-lg hidden-md">
-                                <div style="font-family: Century Gothic; font-size: 18px;color: #000; line-height: 25px;" class="bg_color-white-low_light padding-top-10-xs padding-bottom-10-xs bg2-head-sentance-2 text-center-xs text-center">
+                                <div style="font-family: Century Gothic; font-size: 18px;color: #000; line-height: 25px;" class="padding-top-10-xs padding-bottom-10-xs bg2-head-sentance-2 text-center-xs text-center">
                                     Beauty is an art, <br>
                                     We made it a Science.
                                 </div>
@@ -232,7 +232,7 @@ and open the template in the editor.
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg6">
                     <div class="row">
-                        <div class="bg6-xs col-xs-12  padding-bottom-4em-xs padding-top-4em-xs">
+                        <div class="bg6-xs col-xs-12 padding-bottom-4em-xs padding-top-4em-xs">
                              <p class="hidden-lg hidden-md">&nbsp;</p>
                             <div class="bg6-body-sentance-1 text-center-xs ">
                                 <span style="font-family:  Century Gothic; font-size: 48px;color: #000;">
@@ -327,8 +327,7 @@ and open the template in the editor.
                                         <span style="font-size: 18px;" class="">
                                             3. Sweeping cryoplasty On the maxillary, <br>
                                         </span>
-                                        <br class="hidden-sm hidden-xs"> 
-                                        <span class="hidden-lg hidden-md">&nbsp;&nbsp;&nbsp;&nbsp;</span>exert upward circular movements in order 
+                                        <span class="hidden-lg hidden-md">&nbsp;&nbsp;&nbsp;&nbsp;</span>exert upward circular movements in order<br class="hidden-sm hidden-xs"> 
                                         to remoel the oval of the face, by <br class="hidden-sm hidden-xs"> 
                                         activating dermo cryostimulation.
                                     </span>

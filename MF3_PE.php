@@ -11,117 +11,110 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
-
+        <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
 
     </head>
     <body>
         <div class="container">
             <div style="max-width: 800px !important;">
-                <div class="">
-                    <div class="bg1 ">
-                        <div class="row">
-                            <div class="bg1-xs col-xs-12">
 
-                                <div class="bg1-head-sentance-1 text-center-xs" style="">
-                                    <p class="hidden-lg hidden-md">
-                                        <img src="images/MF3_PE/pd1-xs.png" class="margin-auto img-responsive">
-                                    </p>
-                                    <div class="" style="font-family: Century Schoolbook;font-size: 48px;color: #FFF;"> 
-                                        <div class="font-xs-30 text-center-xs">
-                                            MFIII PE Softgels <br>
-                                            <span style="letter-spacing: -2px;"> Advanced Formula</span>
-                                        </div>
+                <div class="bg1 ">
+                    <div class="row">
+                        <div class="bg1-xs col-xs-12 padding-bottom-2em-xs">
+                            <div class="bg1-head-sentance-1 text-center-xs" >
+                                <p class="hidden-lg hidden-md">
+                                    <img src="images/MF3_PE/pd1-xs.png" class="margin-auto img-responsive">
+                                </p>
+                                <div  style="font-family: Century Schoolbook;font-size: 48px;color: #FFF;"> 
+                                    <div class="font-xs-34 text-center-xs">
+                                        MFIII PE Softgels <br>
+                                        <span style="letter-spacing: -2px;"> Advanced Formula</span>
                                     </div>
-
                                 </div>
-                                <div class="margin-bottom-20-xs hidden-lg hidden-md"></div>
-
-                                <div class="bg1-head-sentance-2"> 
-                                    <div style="font-family: Century Gothic;font-size: 25px;color: #FFF;">
-                                        <div class="font-xs-18 font-italic-xs">
-                                            <span class="hidden-lg hidden-md"> <img src="images/MF3_PE/icon-check_box.png" class="">&nbsp;</span>Detox and strengthen <br class="hidden-sm hidden-xs">
-                                            your liver <br><br>
-
-                                            <span class="hidden-lg hidden-md"> <img src="images/MF3_PE/icon-check_box.png" class="">&nbsp;</span>Rejuvenate your Skin & Firm<br class="hidden-sm hidden-xs">
-                                            & Tone your body<br><br>
-
-                                            <span class="hidden-lg hidden-md"> <img src="images/MF3_PE/icon-check_box.png" class="">&nbsp;</span>Restore organ function <br class="hidden-sm hidden-xs">
-                                            for quick recovery<br>
-                                        </div>
-
-
-                                    </div>
-                                </div> 
-                                <p class="hidden-md hidden-lg">&nbsp;</p>
 
                             </div>
+                            <div class="margin-bottom-20-xs hidden-lg hidden-md"></div>
+
+                            <div class="bg1-head-sentance-2"> 
+                                <div style="font-family: Century Gothic;font-size: 25px;color: #FFF;">
+                                    <div class="font-xs-18 font-italic-xs">
+                                        <span class="hidden-lg hidden-md"> <img src="images/MF3_PE/icon-check_box.png" >&nbsp;</span>Detox and strengthen <br class="hidden-sm hidden-xs">
+                                        your liver <br><br>
+
+                                        <span class="hidden-lg hidden-md"> <img src="images/MF3_PE/icon-check_box.png" >&nbsp;</span>Rejuvenate your Skin & Firm<br class="hidden-sm hidden-xs">
+                                        & Tone your body<br><br>
+
+                                        <span class="hidden-lg hidden-md"> <img src="images/MF3_PE/icon-check_box.png" >&nbsp;</span>Restore organ function <br class="hidden-sm hidden-xs">
+                                        for quick recovery<br>
+                                    </div>
+
+
+                                </div>
+                            </div> 
+                            <p class="hidden-md hidden-lg">&nbsp;</p>
 
                         </div>
+
                     </div>
                 </div>
 
-                <div class="margin-bottom-20-xs hidden-lg hidden-md"></div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-
                 <div class="bg2">
                     <div class="row">
-                        <div class="bg2-xs col-xs-12">
-                            <div class="">
-                                <div class="bg2-head-sentance-1">
-                                    <div style="font-family: Arial; font-size: 14px;color: #000;" >
-                                        <div  class="color-black-xs text-center-xs line-height-xs-24"> 
-                                            The latest all-natural creation from MFIII of Switzerland is a fresh, exciting and <br class="hidden-sm hidden-xs">
-                                            advanced take on the original, very popular, and highly effective <br class="hidden-sm hidden-xs">
-                                            MFIII Sheep Placenta Capsules. MFIII PE Softgels Advanced Formula is similar <br class="hidden-sm hidden-xs">
-                                            in that it is fully researched and developed in Switzerland by world-famous MFIII.   <br class="hidden-sm hidden-xs">
-                                            MFIII of Switzerland has touted this PE Advanced Formula as the most-perfected <br class="hidden-sm hidden-xs">
-                                            anti-aging and cell-activating oral supplement produced during their 20 years <br class="hidden-sm hidden-xs">
-                                            of research and development.<br><br>
+                        <div class="bg2-xs padding-top-2em-xs padding-bottom-2em-xs col-xs-12">
 
-                                            Are you ready for unrivaled rejuvenation and revitalization <br class="hidden-sm hidden-xs">
-                                            from the inside-out and for better health and longevity?<br><br><br>
+                            <div class="bg2-head-sentance-1">
+                                <div style="font-family: Arial; font-size: 14px;color: #000;" >
+                                    <div  class="color-black-xs text-center-xs line-height-xs-24"> 
+                                        The latest all-natural creation from MFIII of Switzerland is a fresh, exciting and <br class="hidden-sm hidden-xs">
+                                        advanced take on the original, very popular, and highly effective <br class="hidden-sm hidden-xs">
+                                        MFIII Sheep Placenta Capsules. MFIII PE Softgels Advanced Formula is similar <br class="hidden-sm hidden-xs">
+                                        in that it is fully researched and developed in Switzerland by world-famous MFIII.   <br class="hidden-sm hidden-xs">
+                                        MFIII of Switzerland has touted this PE Advanced Formula as the most-perfected <br class="hidden-sm hidden-xs">
+                                        anti-aging and cell-activating oral supplement produced during their 20 years <br class="hidden-sm hidden-xs">
+                                        of research and development.<br><br>
 
-
-                                            Anti-aging is a general term used for many different types of products and services. <br class="hidden-sm hidden-xs">
-                                            For MFIII of Switzerland, however, anti-aging represents an extensive, holistic, <br class="hidden-sm hidden-xs">
-                                            and complete process - beginning with the rejuvenation of the millions of cells <br class="hidden-sm hidden-xs">
-                                            that make up our body. With age advancement, not only do we look older, <br class="hidden-sm hidden-xs">
-                                            but the functions of our organs deteriorate and chronic diseases can develop. <br class="hidden-sm hidden-xs">
-                                            When the body is stressed, symptoms (such as fatigue, insomnia, poor concentration, <br class="hidden-sm hidden-xs">
-                                            weak memory, depression, irritability, nervousness, dizziness, and repeating <br class="hidden-sm hidden-xs">
-                                            headaches) lead to rapid-aging and diminished overall health. These symptoms <br class="hidden-sm hidden-xs">
-                                            and environmental conditions contribute to rapidly appearing older. These problems <br class="hidden-sm hidden-xs">
-                                            can be greatly reduced through advanced Cell Therapy from MFIII of Switzerland <br class="hidden-sm hidden-xs">
-                                            and the new MFIII PE Softgels Advanced Formula.
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <p class="hidden-lg hidden-md">&nbsp;</p>
-                                <div class="bg2-head-sentance-1_1 text-center-xs">
-
-                                    <div style="font-family: Century Gothic; font-size: 14px;color: #FFF;" >
-                                        <div  class="color-black-xs font-bold-xs font-xs-16 bg_color_4-xs "> 
-                                            <span class="hidden-lg hidden-md"> <img src="images/MF3_PE/icon-arrow-right_2.png" class="">&nbsp;</span>MFIII PE Brochure (PDF) <br>
+                                        Are you ready for unrivaled rejuvenation and revitalization <br class="hidden-sm hidden-xs">
+                                        from the inside-out and for better health and longevity?<br><br><br>
 
 
-                                        </div>
+                                        Anti-aging is a general term used for many different types of products and services. <br class="hidden-sm hidden-xs">
+                                        For MFIII of Switzerland, however, anti-aging represents an extensive, holistic, <br class="hidden-sm hidden-xs">
+                                        and complete process - beginning with the rejuvenation of the millions of cells <br class="hidden-sm hidden-xs">
+                                        that make up our body. With age advancement, not only do we look older, <br class="hidden-sm hidden-xs">
+                                        but the functions of our organs deteriorate and chronic diseases can develop. <br class="hidden-sm hidden-xs">
+                                        When the body is stressed, symptoms (such as fatigue, insomnia, poor concentration, <br class="hidden-sm hidden-xs">
+                                        weak memory, depression, irritability, nervousness, dizziness, and repeating <br class="hidden-sm hidden-xs">
+                                        headaches) lead to rapid-aging and diminished overall health. These symptoms <br class="hidden-sm hidden-xs">
+                                        and environmental conditions contribute to rapidly appearing older. These problems <br class="hidden-sm hidden-xs">
+                                        can be greatly reduced through advanced Cell Therapy from MFIII of Switzerland <br class="hidden-sm hidden-xs">
+                                        and the new MFIII PE Softgels Advanced Formula.
                                     </div>
                                 </div>
 
-                                <p class="hidden-lg hidden-md">&nbsp;</p>
-                                <div class="bg2-head-sentance-1_2 text-center-xs">
-
-                                    <div style="font-family: Century Gothic; font-size: 14px;color: #FFF;" >
-                                        <div  class="color-black-xs font-bold-xs font-xs-16 bg_color_4-xs "> 
-                                            <span class="hidden-lg hidden-md"> <img src="images/MF3_PE/icon-arrow-right_2.png" class="">&nbsp;</span>MFIII PE Advanced FAQ <br>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="clearfix"></div>
                             </div>
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <div class="bg2-head-sentance-1_1 text-center-xs">
+
+                                <div style="font-family: Century Gothic; font-size: 14px;color: #FFF;" >
+                                    <div  class="color-black-xs font-bold-xs font-xs-16 bg_color_4-xs "> 
+                                        <span class="hidden-lg hidden-md"> <img src="images/MF3_PE/icon-arrow-right_2.png" >&nbsp;</span>MFIII PE Brochure (PDF) <br>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <div class="bg2-head-sentance-1_2 text-center-xs">
+
+                                <div style="font-family: Century Gothic; font-size: 14px;color: #FFF;" >
+                                    <div  class="color-black-xs font-bold-xs font-xs-16 bg_color_4-xs "> 
+                                        <span class="hidden-lg hidden-md"> <img src="images/MF3_PE/icon-arrow-right_2.png" >&nbsp;</span>MFIII PE Advanced FAQ <br>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+
                             <p class="hidden-lg hidden-md">&nbsp;</p>
                         </div>
                     </div>
@@ -146,7 +139,7 @@ and open the template in the editor.
                             <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
 
                             <div class="bg3-body-sentance-2">
-                                <div style="font-family: Century Gothic;font-size: 18px;color: #000;" class="">
+                                <div style="font-family: Century Gothic;font-size: 18px;color: #000;" >
                                     <div class="text-center-xs">
                                         <strong><img src="images/MF3_PE/dash.png" class="hidden-lg hidden-md"> Advanced Absorption Efficacy </strong>
                                     </div>
@@ -155,7 +148,7 @@ and open the template in the editor.
                             <div class="clearfix"></div>
                             <div class="hidden-lg hidden-md margin-bottom-10-xs"></div>
                             <div class="bg3-body-sentance-3">
-                                <div style="font-family: Arial;font-size: 14px;color: #000;" class="">
+                                <div style="font-family: Arial;font-size: 14px;color: #000;" >
                                     <div class="text-center-xs">
                                         The highly-developed MFIII PE Softgels Advanced Formula has an enteric coating, <br class="hidden-xs hidden-sm">
                                         causing it to by-pass the stomach undigested and, instead, be dissolved in the <br class="hidden-xs hidden-sm">
@@ -181,12 +174,10 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-                <p class="hidden-md hidden-lg">&nbsp;</p>
-                <img src="images/MF3_PE/shadow-divider_1.png" class="img-responsive margin-auto hidden-lg hidden-md"> 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
+          
                 <div class="bg4">
                     <div class="row ">
-                        <div class="bg4-xs col-xs-12 line-height-xs-24">
+                        <div class="bg4-xs col-xs-12 padding-top-2em-xs line-height-xs-24">
                             <div class="bg4-body-sentance-1">
                                 <div style="font-family:Century Gothic;font-size: 18px;color: #000;" class="text-center-xs">
                                     <strong><img src="images/MF3_PE/dash.png" class="hidden-lg hidden-md">  Advanced Ingredients </strong>
@@ -366,8 +357,6 @@ and open the template in the editor.
                             </div>
                             <div class="clearfix"></div>
                             <p class="hidden-lg hidden-md">&nbsp;</p>
-
-
                         </div>
                     </div>
                 </div>
@@ -381,20 +370,26 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <div class="clearfix"></div>
-                            <div class="hidden-lg hidden-md margin-bottom-15-xs"></div>
-                            <div class="bg5-body-sentance-2">
+                    
+                            <div class="bg5-body-sentance-2 padding-top-2em-xs">
                                 <div style="font-family:Arial;font-size: 14px;color: #000;">
                                     Each MFIII of Switzerland PE Advanced Formula Softgel (1740mg) is comprised of the following active ingredients: Ovine (Sheep) <br class="hidden-sm hidden-xs">
                                     Extract Concentrate 30:1 (Equivalent to 9,000 mg fresh) 300mg, Polimerized DNA Extract Plus Concentrate, Protein M (Source: Fish), <br class="hidden-sm hidden-xs">
                                     Pom-Gluta-N, Gape Seed, Lycopene, CoQ10, and Resveratol.
                                 </div>
                             </div>
-                            <p class="hidden-md hidden-lg">&nbsp;</p>
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <p class="hidden-lg hidden-md">&nbsp;</p>
+                                    <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
+                          
                         </div>
 
                         <div class="bg5-2-xs col-xs-12">
                             <p class="hidden-md hidden-lg">&nbsp;</p>
-                            <div class="bg5-body-sentance-3" style="">
+                            <div class="bg5-body-sentance-3" >
                                 <div class=" line-height-xs-24 text-center-xs" style="font-family:Century Gothic;font-size: 18px;color: #000;">
                                     <strong class="font-xs-22">  
                                         No Side Effects
@@ -402,7 +397,7 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <div class="hidden-lg hidden-md margin-bottom-10-xs"></div>
-                            <div class="bg5-body-sentance-3_1" style="">
+                            <div class="bg5-body-sentance-3_1" >
                                 <div class=" line-height-xs-24 text-center-xs" style="font-family:Arial;font-size: 14px;color: #000;">
 
                                     No side effects will occur from use of the MFIII PE Softgels Advanced Formula. <br class="hidden-sm hidden-xs">
@@ -428,14 +423,14 @@ and open the template in the editor.
                         </div>
                         <div class="bg5-3-xs col-xs-12">
                             <p class="hidden-md hidden-lg">&nbsp;</p>
-                            <div class="bg5-body-sentance-4" style="">
+                            <div class="bg5-body-sentance-4" >
                                 <div class=" line-height-xs-24 text-center-xs" style="font-family:Century Gothic;font-size: 18px;color: #000;">
                                     <strong class="font-xs-22">  
                                         Recommended Dosage
                                     </strong>
                                 </div>
                             </div>
-                            <div class="bg5-body-sentance-4_1" style="">
+                            <div class="bg5-body-sentance-4_1" >
                                 <div class=" line-height-xs-24 text-center-xs" style="font-family:Century Gothic;font-size: 14px;color: #000;">
 
                                     We recommend taking 1 capsule per day, 30 minutes before breakfast (for better absorption).<br class="hidden-sm hidden-xs">
@@ -1746,9 +1741,9 @@ and open the template in the editor.
                 .bg2-xs,
                 .bg3-head-title-xs,
                 .bg4-xs,
-                 .bg5-1-xs,
-                 .bg5-2-xs,
-                 .bg5-3-xs
+                .bg5-1-xs,
+                .bg5-2-xs,
+                .bg5-3-xs
                 {
 
                     background: inherit;

@@ -21,27 +21,23 @@ and open the template in the editor.
                 <div class="bg1">
                     <div class="row">
                         <div class="bg1-xs padding-bottom-3em-xs padding-top-2em-xs col-xs-12">
-
-                            <div class="bg1-head-sentance-1 text-center-xs" style="">
-                                <div class="bg_color-white-low_light padding-all-10-xs">
+                            <div class="bg1-head-sentance-1 text-center-xs">
+                                <div class="bg_color-white-low_light padding-all-10-xs box-shadow-xs">
                                     <div style="font-family: Century Schoolbook;font-size: 72px;color: #0e0e0e;text-transform: uppercase;"> 
                                         <div class="font-xs-34">Filorga  </div>
                                     </div>
                                     <br class="hidden-sm hidden-xs">
-
                                     <p class="bg1-head-sentance-2"> 
                                         <span style="font-family: Century Gothic;font-size: 48px;color: #0e0e0e;">
                                             <span class="font-xs-26">  NCTF 135 </span>
                                         </span> 
                                     </p>
-
                                     <div class="bg1-head-sentance-3">
                                         <span style="font-family: Century Gothic;font-size: 24px;color: #0e0e0e;">
                                             <span class="font-xs-26"> MESOTHERAPY</span>
                                         </span>
                                     </div>
                                 </div>
-
                                 <p class="hidden-lg hidden-md">&nbsp;</p>
                                 <div  class="bg1-head-sentance-4">
                                     <span style="font-family: Century Gothic;font-size: 57px;color: #990619;">
@@ -355,7 +351,7 @@ and open the template in the editor.
 
                 <div class="bg5">
                     <div class="row">
-                        <div class="bg4-xs padding-bottom-4em-xs padding-top-1em-xs col-xs-12">
+                        <div class="bg4-xs box-shadow-xs padding-bottom-4em-xs padding-top-1em-xs col-xs-12">
                             <div class="bg5-body-sentance-1 text-center-xs margin-bottom-20-xs">
                                 <div style="font-family:  Century Schoolbook; font-size:36px;color: #000;">
                                     Protocol

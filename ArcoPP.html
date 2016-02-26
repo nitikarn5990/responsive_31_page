@@ -854,7 +854,7 @@ and open the template in the editor.
                         height: 952px;
                     }
                     .bg5-body-sentance-1{
-                        padding: 20px 0 0 35px;
+                        padding: 19px 0 0 35px;
                         line-height: 26px;
                     }
 

@@ -141,7 +141,7 @@ and open the template in the editor.
                             </div>
                             <p class="hidden-lg hidden-md">&nbsp;</p>
                             <div class="bg_color-white-low_light padding-all-10-xs padding-bottom-2em-xs padding-top-2em-xs box-shadow-xs col-xs-12">
-                                <div class="bg1-body-sentance-8 font-bold-xs">
+                                <div class="bg1-body-sentance-8 line-height-xs-24">
 
                                     • Slow down the aging process <br>
                                     • Revitalize your body and your mind <br>
@@ -162,7 +162,7 @@ and open the template in the editor.
                                 <img src="images/Swissoat/benefit.jpg" class="img-responsive margin-auto hidden-md hidden-lg img-thumbnail">
                             </div>
                             <div class="bg_color-white-low_light box-shadow-xs padding-all-10-xs padding-bottom-2em-xs col-xs-12">
-                                <div class="bg1-body-sentance-9">
+                                <div class="bg1-body-sentance-9 line-height-xs-24">
                                     <br class="hidden-lg hidden-md">
                                     <span style="font-size: 18px;" class="font-bold-xs">
                                         <img src="images/Swissoat/men.png" class="hidden-md hidden-lg ">  Benefits For Men
@@ -182,7 +182,7 @@ and open the template in the editor.
                             </div>
                             <p class="hidden-lg hidden-md">&nbsp;</p>
                             <div class="bg_color-white-low_light box-shadow-xs padding-all-10-xs padding-bottom-2em-xs col-xs-12">
-                                <div class="bg1-body-sentance-10">
+                                <div class="bg1-body-sentance-10 line-height-xs-24">
                                     <br class="hidden-lg hidden-md">
                                     <span style="font-size: 18px;" class="font-bold-xs">
                                         <img src="images/Swissoat/women.png" class="hidden-lg hidden-md"> Benefits For Women
@@ -404,7 +404,7 @@ and open the template in the editor.
                         </div>
                         <p class="hidden-lg hidden-md">&nbsp;</p>
                         <div class="bg7-xs padding-bottom-3em-xs box-shadow-reverse-xs padding-top-3em-xs col-xs-12">
-                            <div class="bg1-body-sentance-21 bg_color-white-low_light padding-all-10-xs box-shadow-xs">
+                            <div class="bg1-body-sentance-21 bg_color-white-low_light padding-all-10-xs box-shadow-xs line-height-xs-28">
                                 <p style="text-align: center;font-family: Century Gothic;font-size: 18px;color: #000;">SwissOats A3 is a completely natural botanical <br class="hidden-sm hidden-xs">
                                     extract that has the following unique features :
                                 </p>

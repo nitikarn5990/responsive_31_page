@@ -11,7 +11,7 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
-
+          <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
     </head>
     <body>
@@ -20,7 +20,7 @@ and open the template in the editor.
                 <div class="">
                     <div class="bg1">
                         <div class="row">
-                            <div class="bg1-xs col-xs-12 padding-top-2em-xs padding-bottom-2em-xs">
+                            <div class="bg1-xs col-xs-12 padding-top-3em-xs padding-bottom-3em-xs">
 
                                 <div class="bg1-head-sentance-1 text-center-xs" style="">
                                     <p class="hidden-lg hidden-md"><img src="images/MF_HP/bg1-logo-band.jpg" class=""></p>
@@ -103,7 +103,7 @@ and open the template in the editor.
 
                 <div class="bg3">
                     <div class="row ">
-                        <div class="bg3-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12 line-height-xs-24">
+                        <div class="bg3-xs padding-bottom-3em-xs padding-top-2em-xs col-xs-12 line-height-xs-24">
                             <div class="bg3-body-sentance-1">
                                 <div style="font-family:Century Gothic;font-size: 30px;color: #000;">
                                     <div class="text-center-xs line-height-xs-36"> 
@@ -168,7 +168,7 @@ and open the template in the editor.
 
                 <div class="bg4">
                     <div class="row ">
-                        <div class="bg4-xs padding-top-2em-xs padding-bottom-2em-xs col-xs-12 line-height-xs-24">
+                        <div class="bg4-xs padding-top-2em-xs padding-bottom-3em-xs col-xs-12 line-height-xs-24">
                             <div class="bg4-body-sentance-1">
                                 <div style="font-family:Century Gothic;font-size: 30px;color: #000;" class="bg_color_blue2 padding-all-10-xs text-center-xs line-height-xs-36">
                                     Composition and Safety 
@@ -232,7 +232,7 @@ and open the template in the editor.
                 </div>
                 <div class="bg5">
                     <div class="row ">
-                        <div class="bg5-xs padding-top-1em-xs padding-bottom-2em-xs col-xs-12">
+                        <div class="bg5-xs padding-top-1em-xs padding-bottom-3em-xs col-xs-12">
                             <div class="bg5-body-sentance-1">
                                 <div style="font-family:Century Gothic;font-size: 30px;color: #000;" class="text-center-xs line-height-xs-36">
                                     Benefits of MF+ HP 230mg
@@ -273,7 +273,7 @@ and open the template in the editor.
 
                 <div class="bg6">
                     <div class="row ">
-                        <div class="bg6-xs padding-top-2em-xs padding-bottom-2em-xs col-xs-12 line-height-xs-24">
+                        <div class="bg6-xs padding-top-2em-xs padding-bottom-3em-xs col-xs-12 line-height-xs-24">
                             <div class="bg6-body-sentance-1">
                                 <div style="font-family:Century Gothic;font-size: 30px;color: #000;" class="text-center-xs">
                                     Dosage & Usage
@@ -315,7 +315,7 @@ and open the template in the editor.
 
                 <div class="bg7">
                     <div class="row ">
-                        <div class="padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
+                        <div class="padding-bottom-3em-xs padding-top-2em-xs col-xs-12">
                             <div class="bg7-body-sentance-1">
                                 <div style="font-family:Century Gothic;font-size: 30px;color: #000;" class="text-center-xs">
                                     Swiss Certifications
@@ -593,7 +593,7 @@ and open the template in the editor.
 
                                                     </div>
                                                 </td>
-                                                <td class="text-center color-green">
+                                                <td class="text-center color-red">
                                                     <div>
                                                         Absolutely No
                                                     </div>
@@ -786,7 +786,7 @@ and open the template in the editor.
                 <div class="bg9">
                     <div class="row ">
                         <div class="bg9-xs padding-bottom-2em-xs padding-top-1em-xs col-xs-12 line-height-xs-24">
-                            <div class="bg9-body-sentance-1">
+                            <div class="bg9-body-sentance-1 text-center-xs">
                                 <div style="font-family:Century Gothic;font-size: 30px;color: #000;" class="line-height-xs-36">
                                     Storage & Transportation
                                 </div>

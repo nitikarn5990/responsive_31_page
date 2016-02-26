@@ -61,7 +61,7 @@ and open the template in the editor.
                         <div class="bg3-xs padding-bottom-2em-xs padding-top-2em-xs box-shadow-reverse-xs z-index-2-xs col-xs-12">
                             <div class="bg2-head-sentance-1">
                                 <div style="font-family: Century Gothic; font-size: 24px;color: #FFF; " >
-                                    <div  class=" text-center-xs uppercase font-xs-18"> 
+                                    <div  class=" text-center-xs uppercase"> 
                                         Type 1 Diabetes<br>
                                         (3 Boxes)
 
@@ -71,7 +71,7 @@ and open the template in the editor.
                             <div class="margin-bottom-20-xs hidden-lg hidden-md"></div>
                             <div class="bg2-body-sentance-1">
                                 <div style="font-family:  Century Gothic; font-size: 12px;color: #000; " >
-                                    <div  class=" text-center-xs line-height-xs-24"> 
+                                    <div  class="text-center-xs line-height-xs-24"> 
                                         Liver  x 1 box<br>
                                         Placenta x 1 box<br> 
                                         Suprarenal-Adrenal x 1 box
@@ -281,7 +281,7 @@ and open the template in the editor.
                 background: #FFF url(images/Filorga_Organ_Body_disease_treatment/bg1-xs.jpg) center top no-repeat ;
                 -moz-background-size: cover;
                 background-size: cover;
-                background-position: 100% 100%;
+                background-position: 20% 100%;
             }
             .bg2-xs{
                 width: 100%;

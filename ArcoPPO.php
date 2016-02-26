@@ -458,7 +458,7 @@ and open the template in the editor.
                         <div class="" style="margin-bottom: 21px;"></div>
                         <div class="bg7-xs col-xs-12 padding-top-5em-xs padding-bottom-3em-xs">
                             <div class="bg1-body-sentance-10 text-center-xs">
-                                <span style="color: #23663d; text-shadow: 2px 1px 2px #23663d;" class="font-xs-26">Arco PPO : Ingredients</span>
+                                <span style="color: #23663d; text-shadow: 2px 1px 2px #23663d;" class="font-xs-34">Arco PPO : Ingredients</span>
                             </div>
                             <p class="hidden-lg hidden-md">&nbsp;</p>
                             <p class="hidden-lg hidden-md">

@@ -11,7 +11,7 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
-
+        <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     </head>
@@ -92,21 +92,20 @@ and open the template in the editor.
                                 <div style="font-family: Arial; font-size: 13px;color: #000;text-align: center;" >
                                     <div  class="color-black-xs text-center-xs line-height-xs-19 line-height-xs-16"> 
 
-
-                                        MFIII Bluecell Extracts Advanced Formula 2 <br>
-                                        (or MFIII Bluecell Extracts AF2) is a fast-absorbing, <br>
-                                        moisturizing formula that combines the rich cellular nutrients <br>
-                                        of blue plants and several other bioactive botanical extracts <br>
+                                        MFIII Bluecell Extracts Advanced Formula 2 <br class="hidden-sm hidden-xs">
+                                        (or MFIII Bluecell Extracts AF2) is a fast-absorbing, <br class="hidden-sm hidden-xs">
+                                        moisturizing formula that combines the rich cellular nutrients <br class="hidden-sm hidden-xs">
+                                        of blue plants and several other bioactive botanical extracts <br class="hidden-sm hidden-xs">
                                         and essential lipids for rejuvenation of the face, eye and neck.<br><br>
 
-                                        If you have experienced thickness and oily residue/eects from <br>
-                                        cream-based cosmetic products, MFIII Bluecell Extracts AF2 <br>
-                                        Serum Gel instead gives you clean and cooling eect upon <br>
+                                        If you have experienced thickness and oily residue/eects from <br class="hidden-sm hidden-xs">
+                                        cream-based cosmetic products, MFIII Bluecell Extracts AF2<br class="hidden-sm hidden-xs">
+                                        Serum Gel instead gives you clean and cooling eect upon<br class="hidden-sm hidden-xs">
                                         application, and does not clog pores.<br><br>
 
-                                        With MFIII Bluecell Extracts AF2 combined function as  <br>
-                                        a face moisturizer, eye gel and neck gel, you will <br>
-                                        no longer need to carry around multiple <br>
+                                        With MFIII Bluecell Extracts AF2 combined function as  <br class="hidden-sm hidden-xs">
+                                        a face moisturizer, eye gel and neck gel, you will <br class="hidden-sm hidden-xs">
+                                        no longer need to carry around multiple<br class="hidden-sm hidden-xs">
                                         products for your skin.
 
                                     </div>

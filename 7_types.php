@@ -21,10 +21,10 @@ and open the template in the editor.
                 <div class="">
                     <div class="bg1">
                         <div class="row">
-                            <div class="bg1-xs col-xs-12 padding-bottom-2em-xs">
+                            <div class="bg1-xs col-xs-12 box-shadow-xs padding-bottom-2em-xs">
                                 <p class="hidden-lg hidden-md">&nbsp;</p>
-                                <div class="bg_color-blue col-xs-12">
-                                    <div class="bg1-head-sentance-1 font-bold-xs text-center-xs padding-all-10-xs line-height-xs-40" style="">
+                                <div class="bg_color-blue col-xs-12 box-shadow-2-xs">
+                                    <div class="bg1-head-sentance-1 text-center-xs padding-all-10-xs line-height-xs-40" style="">
                                         <div style="font-family: Century Schoolbook;font-size: 62px;color: #FFF;text-transform: uppercase;"> 
                                             <div class="font-xs-34 color-white-xs">Filorga </div>
                                         </div><br class="hidden-sm hidden-xs">
@@ -78,8 +78,8 @@ and open the template in the editor.
                 </div>
                 <div class="bg2">
                     <div class="row">
-                        <div class="bg2-xs col-xs-12 padding-bottom-2em-xs">
-                            <div class="bg2-head-sentance-1">
+                        <div class="bg2-xs col-xs-12 padding-bottom-3em-xs padding-top-10-xs">
+                            <div class="bg2-head-sentance-1 text-center-xs">
                                 <span class="text-shadow-white-blur" style="font-family: Century Schoolbook; font-size: 48px;color: #000;">
                                     <span class="font-xs-28 font-bold-xs">  Filorga A-Series </span>
                                 </span>
@@ -107,7 +107,6 @@ and open the template in the editor.
 
                 <div class="bg3">
                     <div class="row">
-
                         <div class="padding-top-2em-xs padding-bottom-3em-xs col-xs-12">
                             <div class="bg3-head-sentance-1 line-height-xs-28">
                                 <span style="font-family: times new roman;font-size: 34px;color: #000;font-style: italic;">
@@ -373,8 +372,8 @@ and open the template in the editor.
                 <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg6">
                     <div class="row">
-                        <div class="col-xs-12">
-                            <div class="bg6-body-sentance-1">
+                        <div class="col-xs-12 box-shadow-xs padding-bottom-2em-xs">
+                            <div class="bg6-body-sentance-1 padding-bottom-15-xs">
                                 <span style="font-family: Century Schoolbook; font-size: 36px;"> Dosage & Usage</span>
                             </div>
                             <div class="bg6-body-sentance-2">
@@ -386,8 +385,8 @@ and open the template in the editor.
                             </div>
                         </div>
                         <p class="">&nbsp;</p>
-                        <div class="bg6-1-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
-                            <div class="bg6-body-sentance-3">
+                        <div class="bg6-1-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12 box-shadow-xs">
+                            <div class="bg6-body-sentance-3 padding-bottom-15-xs">
                                 <span style="font-family: Times new roman; font-size: 30px;font-style: italic;">
                                     By Injection:
                                 </span>
@@ -408,7 +407,7 @@ and open the template in the editor.
                         </div>
                         <p class="hidden-sm hidden-xs">&nbsp;</p>
                         <div class="bg6-2-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
-                            <div class="bg6-body-sentance-5">
+                            <div class="bg6-body-sentance-5 padding-bottom-15-xs">
                                 <span style="font-family: Times new roman; font-size: 30px;font-style: italic;">
                                     Orally:
                                 </span>
@@ -429,15 +428,13 @@ and open the template in the editor.
                                 </p>
                             </div>
                         </div>
-                        <div class="bg6-3-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
+                        <div class="bg6-3-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12 box-shadow-reverse-xs">
                             <div class="bg6-body-sentance-8">
-                                <span style="font-family:  Century Schoolbook; font-size: 36px;color: #000;">
+                                <div style="font-family: Century Schoolbook; font-size: 36px;color: #000;" class="margin-bottom-10-xs">
                                     Storage
-
-                                </span>
-
+                                </div>
+                                <div style="margin-bottom: 20px;" class="hidden-sm hidden-xs"></div>
                                 <p>
-                                    <br>
                                     <span style="font-family:Arial; font-size: 12px;color: #000;"> 
                                         FILORGA BRM have a shelf-life of 4 years, if kept in a refrigerator at optimum <br class="hidden-xs hidden-sm">
                                         temperature from +2°C to +10°C (not frozen) and fully protected from direct sunlight.
@@ -447,7 +444,7 @@ and open the template in the editor.
                         </div>
                         <div class="col-xs-12 padding-bottom-1em-xs padding-top-1em-xs">
                             <div class="bg6-body-sentance-9">
-                                <div style="font-family:  Century Schoolbook; font-size: 36px;color: #000;text-align: center;">
+                                <div style="font-family:  Century Schoolbook; font-size: 36px;color: #000;text-align: center;" class="margin-bottom-10-xs">
                                     Production
                                 </div>
                                 <p class="bg6-body-sentance-10 text-indent-xs">
@@ -491,7 +488,7 @@ and open the template in the editor.
                 <div class="bg8">
                     <div class="row">
                         <div class="bg8-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
-                            <div class="bg8-body-sentance-1">
+                            <div class="bg8-body-sentance-1 margin-bottom-15-xs text-center-xs">
                                 <span style="font-family:  Century Schoolbook; font-size: 36px;color: #000;">
                                     Range Of Application
                                 </span>
@@ -2777,7 +2774,7 @@ and open the template in the editor.
                 }
 
                 .bg2-head-sentance-2{
-                    margin: 33px 0 0 0;
+                    margin: 25px 0 0 0;
 
                 }
                 .bg2-head-sentance-3{
@@ -2794,7 +2791,7 @@ and open the template in the editor.
 
                 .bg3-head-sentance-1{
 
-                    margin: 76px 0 0 0;
+                    margin: 70px 0 0 0;
                     text-align: center;
                     line-height: 34px;
 
@@ -2807,7 +2804,7 @@ and open the template in the editor.
 
                 .bg3-body-sentance-2{
 
-                    margin: 110px 0px 0 0;
+                    margin: 116px 0px 0 0;
                 }
                 .bg3-body-sentance-3{
 
@@ -3060,7 +3057,7 @@ and open the template in the editor.
 
                 .bg6-body-sentance-9{
 
-                    margin: 64px 0 0 0;
+                    margin: 67px 0 0 0;
                     line-height: 15px;
                 }
                 .bg6-body-sentance-10{

@@ -20,14 +20,14 @@ and open the template in the editor.
 
                 <div class="bg1">
                     <div class="row">
-                        <div class="bg1-xs col-xs-12 padding-bottom-4em-xs padding-top-2em-xs">
+                        <div class="bg1-xs col-xs-12 padding-bottom-1em-xs padding-top-2em-xs">
                             <div class="bg1-head-sentance-1 text-center-xs" style="">
-                                <div style="font-family: Century Schoolbook;font-size: 72px;color: #000;text-transform: uppercase;"> 
+                                <div class="bg_color-pink-low_light padding-top-15-xs" style="font-family: Century Schoolbook;font-size: 72px;color: #000;text-transform: uppercase;"> 
                                     <div class="font-xs-36">Filorga  </div>
                                 </div>
-                                 <div class="margin-bottom-15-xs"> </div>
+                                <div class="margin-bottom-15-xs hidden-sm hidden-xs"> </div>
                                 <br class="hidden-sm hidden-xs">
-                                <div class="bg_color-pink-low_light padding-bottom-10-xs padding-top-10-xs">
+                                <div class="bg_color-pink-low_light padding-bottom-10-xs padding-top-10-xs box-shadow-2-xs">
                                     <p class="bg1-head-sentance-2"> 
                                         <span style="font-family: Century Gothic;font-size: 48px;color: #000;">
                                             <span class="font-xs-26 uppercase letter-spacing-1px">  
@@ -82,7 +82,7 @@ and open the template in the editor.
                                         </i>
                                     </span>    
                                 </div>
-                                <div class="hidden-lg hidden-md">
+                                <div class="hidden-lg hidden-md padding-top-2em-xs">
                                     <span style="font-family: Arial; font-size: 12px;color: #0e0e0e; ">
                                         Disclaimer: Results may vary between individuals.
                                     </span>
@@ -97,102 +97,98 @@ and open the template in the editor.
                 <div class="bg2">
                     <div class="row">
                         <div class="bg2-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
-                            <div class="">
-                                <div class="bg2-head-sentance-1 hidden-sm hidden-xs">
-
-                                    <span style="font-family: Arial; font-size: 12px;color: #0e0e0e; ">
-                                        Disclaimer: Results may vary between individuals.
-                                    </span>
-                                </div>
-                                <div class="bg2-body-sentance-1">
-                                    <span style="font-family: Century Gothic;font-size: 24px;color: #0e0e0e; line-height: 25px;" >
-                                        <span class="color-white-xs">  Filorga X-HA Volume is a new, highly effective <br class="hidden-sm hidden-xs">
-                                            dermal filler for treating fine lines and wrinkles. 
-                                        </span>
-
-                                    </span>
-                                </div>
-                                <br class="hidden-lg hidden-md">
-                                <div class="bg2-body-sentance-2 text-center-xs">
-                                    <span style="font-family: Arial;font-size: 12px;color: #0e0e0e; " class="" >
-                                        <span class="color-white-xs"> X-HA Volume contains hyaluronic acid which is a natural part of tissue repair in the body, <br class="hidden-sm hidden-xs">
-                                            making it ideal for providing a natural approach to anti-aging with long lasting results. <br class="hidden-sm hidden-xs">
-                                            This product provides an effective alternative to surgical procedures that often leave the patient bruised and swollen. 
-                                        </span>
-                                    </span>
-                                </div>
-
-
-
+                            <div class="bg2-head-sentance-1 hidden-sm hidden-xs">
+                                <span style="font-family: Arial; font-size: 12px;color: #0e0e0e; ">
+                                    Disclaimer: Results may vary between individuals.
+                                </span>
                             </div>
+                            <div class="bg2-body-sentance-1">
+                                <span style="font-family: Century Gothic;font-size: 24px;color: #0e0e0e; line-height: 25px;" >
+                                    <span class="color-white-xs">  Filorga X-HA Volume is a new, highly effective <br class="hidden-sm hidden-xs">
+                                        dermal filler for treating fine lines and wrinkles. 
+                                    </span>
+
+                                </span>
+                            </div>
+                            <br class="hidden-lg hidden-md">
+                            <div class="bg2-body-sentance-2 text-center-xs">
+                                <span style="font-family: Arial;font-size: 12px;color: #0e0e0e; " class="" >
+                                    <span class="color-white-xs"> X-HA Volume contains hyaluronic acid which is a natural part of tissue repair in the body, <br class="hidden-sm hidden-xs">
+                                        making it ideal for providing a natural approach to anti-aging with long lasting results. <br class="hidden-sm hidden-xs">
+                                        This product provides an effective alternative to surgical procedures that often leave the patient bruised and swollen. 
+                                    </span>
+                                </span>
+                            </div>
+
                         </div>
                     </div>
 
                 </div>
-               
+
                 <div class="bg3">
                     <div class="row ">
-                        <div class="bg3-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
+                        <div class="bg4-xs padding-bottom-3em-xs padding-top-2em-xs col-xs-12">
+                            <div class="bg_color-white-low_light padding-all-10-xs padding-top-2em-xs box-shadow-2-xs padding-bottom-2em-xs">
                             <div class="bg3-head-sentance-1 text-center-xs">
                                 <span style="font-family:Century Gothic;font-size: 26px;color: #000;">
-                                    <span class="color-black-xs font-xs-28 "> 
-
-                                        Through a minimally  <br>
-                                        invasive application of <br>
-                                        X-HA Volume, you can <br>
+                                    <span class="color-black-xs font-xs-24"> 
+                                        Through a minimally  <br class="hidden-sm hidden-xs">
+                                        invasive application of <br class="hidden-sm hidden-xs">
+                                        X-HA Volume, you can <br class="hidden-sm hidden-xs">
                                         restore volume to:
                                     </span>
                                 </span>
                             </div>
                             <br class="hidden-lg hidden-md">
 
-                            <div class="bg3-body-sentance-1 text-center-xs">
+                            <div class="bg3-body-sentance-1">
                                 <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
                                     <span class="color-black-xs">
-                                        <i>       <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span>  Face ovale</i>
+                                        <i><span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span>  Face ovale</i>
                                     </span>
                                 </span>
                             </div>
-                            <div class="bg3-body-sentance-2 text-center-xs">
+                            <div class="bg3-body-sentance-2">
                                 <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
                                     <span class="color-black-xs">
-                                        <i>      <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span> Cheekbones</i>
+                                        <i><span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span> Cheekbones</i>
                                     </span>
                                 </span>
                             </div>
-                            <div class="bg3-body-sentance-3 text-center-xs">
+                            <div class="bg3-body-sentance-3">
                                 <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
                                     <span class="color-black-xs">
                                         <i>      <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span> Cheeks</i>
                                     </span>
                                 </span>
                             </div>
-                            <div class="bg3-body-sentance-4 text-center-xs">
+                            <div class="bg3-body-sentance-4">
                                 <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
                                     <span class="color-black-xs">
                                         <i>      <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span> Chin</i>
                                     </span>
                                 </span>
                             </div>
-                            <div class="bg3-body-sentance-5 text-center-xs">
+                            <div class="bg3-body-sentance-5">
                                 <span style="font-family: times new roman;font-size: 24px;color: #FFF;">
                                     <span class="color-black-xs">
                                         <i>       <span style="font-family: Century Gothic;font-size: 24px;color: #000;" class="hidden-lg hidden-md"> • </span> Temporal areas</i>
                                     </span>
                                 </span>
                             </div>
+                            </div>
                         </div>
+
                     </div>
 
                 </div>
                 <p class="hidden-lg hidden-md">&nbsp;</p>
-            
                 <div class="bg4">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="bg3-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
                             <div class="bg4-head-sentance-1 line-height-xs-28 text-center-xs">
                                 <span style="font-family:Century Schoolbook;font-size: 36px;color: #000;">
-                                    <span class="color-black-xs font-xs-28 "> 
+                                    <span class="color-black-xs font-xs-34"> 
 
                                         Indications
                                     </span>
@@ -239,7 +235,7 @@ and open the template in the editor.
                     </p>
                 </div>
                 <p class="hidden-md hidden-lg">&nbsp;</p>
-                    <p class="hidden-lg hidden-md">&nbsp;</p>
+                <p class="hidden-lg hidden-md">&nbsp;</p>
                 <div class="bg5">
                     <div class="row">
                         <div class="col-xs-12">
@@ -247,8 +243,8 @@ and open the template in the editor.
                                 <div class="bg5-body-sentance-1 text-center-xs">
 
                                     <span style="font-family:  Century Gothic; font-size: 24px;color: #000;">
-                                        X-HA Volume is formulated with  <br>
-                                        23mg/ml of highly cross-linked <br>
+                                        X-HA Volume is formulated with  <br class="hidden-sm hidden-xs">
+                                        23mg/ml of highly cross-linked <br class="hidden-sm hidden-xs">
                                         hyaluronic acid.
 
                                     </span>
@@ -272,8 +268,10 @@ and open the template in the editor.
                                     biocompatibility.
                                 </span>
                             </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <div class="bg6-xs padding-top-1em-xs padding-bottom-2em-xs padding-left-15-xs padding-right-15-xs bg5-body-sentance-3">
+                        </div>
+
+                        <p class="hidden-lg hidden-md">&nbsp;</p>
+                            <div class="col-xs-12 bg6-xs padding-top-1em-xs padding-bottom-2em-xs padding-left-15-xs padding-right-15-xs bg5-body-sentance-3">
                                 <p>
                                     <span style="font-family:  Century schoolbook; font-size: 36px;color: #000;">
                                         Usage: <br>
@@ -286,12 +284,7 @@ and open the template in the editor.
 
                                 </span>
                                 <p class="hidden-lg hidden-md">&nbsp;</p>
-                            
-
                             </div>
-
-
-                        </div>
                     </div>
                 </div>
 
@@ -866,19 +859,19 @@ and open the template in the editor.
 
                 }
                 .bg4-body-sentance-1{
-                    margin: 51px 0 0 461px;
+                    margin: 47px 0 0 444px;
                     line-height: 29px;
 
 
                 }
                 .bg4-body-sentance-2{
 
-                    margin: 42px 0 0 461px;
+                    margin: 42px 0 0 444px;
                     line-height: 29px;
                 }
                 .bg4-body-sentance-3{
 
-                    margin: 36px 0 0 461px;
+                    margin: 38px 0 0 444px;
                     line-height: 29px;
                 } 
 

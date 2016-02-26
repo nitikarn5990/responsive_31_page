@@ -65,7 +65,7 @@ and open the template in the editor.
                             <div class="bg2-head-sentance-1">
                                 <div style="font-family: Century Gothic; font-size: 24px;color: #71b0f0; " >
                                     <div  class=" text-center-xs uppercase font-xs-18"> 
-                                        Endocrine System (5 Boxes)
+                                        Endocrine System<br class="hidden-lg hidden-md"> (5 Boxes)
 
                                     </div>
                                 </div>
@@ -125,7 +125,7 @@ and open the template in the editor.
                                     <div style="font-family: Century Gothic; font-size: 24px;color: #666666; " >
                                         <div  class=" text-center-xs uppercase"> 
 
-                                            Digestive System (6 Boxes)
+                                            Digestive System<br class="hidden-lg hidden-md"> (6 Boxes)
 
                                         </div>
                                     </div>
@@ -178,7 +178,7 @@ and open the template in the editor.
                                     <div style="font-family: Century Gothic; font-size: 24px;color: #71b0f0; " >
                                         <div  class=" text-center-xs uppercase"> 
 
-                                            Circulatory System (4 Boxes)
+                                            Circulatory System<br class="hidden-lg hidden-md"> (4 Boxes)
 
                                         </div>
                                     </div>
@@ -234,7 +234,7 @@ and open the template in the editor.
                                     <div style="font-family: Century Gothic; font-size: 24px;color: #666666; " >
                                         <div  class=" text-center-xs uppercase"> 
 
-                                            Nervous System (5 Boxes)
+                                            Nervous System<br class="hidden-lg hidden-md"> (5 Boxes)
 
                                         </div>
                                     </div>
@@ -289,7 +289,7 @@ and open the template in the editor.
                                     <div style="font-family: Century Gothic; font-size: 24px;color: #71b0f0; " >
                                         <div  class=" text-center-xs uppercase"> 
 
-                                            Respiratory System (3 Boxes)
+                                            Respiratory System<br class="hidden-lg hidden-md"> (3 Boxes)
 
                                         </div>
                                     </div>
@@ -336,7 +336,7 @@ and open the template in the editor.
                                     <div style="font-family: Century Gothic; font-size: 24px;color: #666666; " >
                                         <div  class=" text-center-xs uppercase"> 
 
-                                            Urinary System (3 Boxes)
+                                            Urinary System<br class="hidden-lg hidden-md"> (3 Boxes)
 
                                         </div>
                                     </div>
@@ -384,7 +384,7 @@ and open the template in the editor.
                                     <div style="font-family: Century Gothic; font-size: 24px;color: #71b0f0; " >
                                         <div  class=" text-center-xs uppercase"> 
 
-                                            Muscular System (5 Boxes)
+                                            Muscular System<br class="hidden-lg hidden-md"> (5 Boxes)
 
                                         </div>
                                     </div>
@@ -435,7 +435,7 @@ and open the template in the editor.
                                     <div style="font-family: Century Gothic; font-size: 24px;color: #666666; " >
                                         <div  class=" text-center-xs uppercase"> 
 
-                                            Reproductive System (2 Boxes)
+                                            Reproductive System<br class="hidden-lg hidden-md"> (2 Boxes)
 
                                         </div>
                                     </div>
@@ -1247,10 +1247,9 @@ and open the template in the editor.
                 .bg8-body-sentance-3{
 
                     float: right;
-                    margin: -71px 10px 0 0;
+                    margin: -71px 18px 0 0;
                     line-height: 20px;
                     width: 527px;
-
 
                 }
 
@@ -1284,7 +1283,7 @@ and open the template in the editor.
                 .bg9-body-sentance-3{
 
                     float: right;
-                    margin: 53px 0px 0 0;
+                    margin: 53px 17px 0 0;
                     line-height: 20px;
 
 

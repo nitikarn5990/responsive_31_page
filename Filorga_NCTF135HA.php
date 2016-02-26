@@ -22,8 +22,8 @@ and open the template in the editor.
                     <div class="row">
                         <div class="bg1-xs padding-bottom-3em-xs padding-top-2em-xs col-xs-12">
 
-                            <div class="bg1-head-sentance-1 text-center-xs" style="">
-                                <div class="bg_color-white-low_light padding-all-10-xs">
+                            <div class="bg1-head-sentance-1 text-center-xs">
+                                <div class="bg_color-white-low_light box-shadow-xs padding-all-10-xs">
                                     <div style="font-family: Century Schoolbook;font-size: 72px;color: #0e0e0e;text-transform: uppercase;"> 
                                         <div class="font-xs-34">Filorga  </div>
                                     </div>
@@ -105,7 +105,7 @@ and open the template in the editor.
                                         </div>
                                     </div>
                                     <div class="" style="margin-bottom: 15px;"></div>
-                                    <div style="font-family: Arial; font-size: 12px;color: #FFF;line-height: 19px;" >
+                                    <div style="font-family: Arial; font-size: 12px;color: #FFF;line-height: 21px;" >
                                         <div  class="color-white-xs text-center-xs"> 
 
 
@@ -115,16 +115,18 @@ and open the template in the editor.
                                             There has been 10 years of success in treating over one million <br class="hidden-sm hidden-xs">
                                             patients with this highly effective anti-aging therapy. <br><br>
 
-                                            NCTF 135HA is a concentrated formula, with <br class="hidden-sm hidden-xs">
-                                            200x more active ingredient than NCTF 135. <br class="hidden-sm hidden-xs">
-                                            Treatment areas include:
+                                            <span style="font-family: Century Gothic;font-size: 15px;">
+                                                <strong>NCTF 135HA is a concentrated formula, with <br class="hidden-sm hidden-xs">
+                                                    200x more active ingredient than NCTF 135.
+                                                </strong> 
+                                                <br class="hidden-sm hidden-xs">
+                                                Treatment areas include:
+                                            </span>
                                         </div>
                                     </div>
                                     <div style="font-family: Century Gothic; font-size: 18px;color: #FFF; " >
                                         <div  class="color-white-xs text-center-xs"> 
-
-                                            Treatment areas include:
-
+                                          
                                         </div>
                                     </div>
 
@@ -957,7 +959,7 @@ and open the template in the editor.
                     height: 628px;
                 }
                 .bg2-head-sentance-1{
-                    margin: 41px 0 0px 28px;
+                    margin: 48px 0 0px 28px;
                     /* text-align: center; */
                     line-height: 25px;
 
@@ -970,7 +972,7 @@ and open the template in the editor.
                 }
                 .bg2-body-sentance-2{
 
-                    margin: 34px 0 0 100px;
+                    margin: 27px 0 0 100px;
                     letter-spacing: 1px;
                     line-height: 35px;
                 }

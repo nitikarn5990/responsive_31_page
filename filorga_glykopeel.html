@@ -56,7 +56,7 @@ and open the template in the editor.
                                 </div>
                             </div>
 
-                            <div  class="bg1-head-sentance-4 bg_color-white-low_light">
+                            <div  class="bg1-head-sentance-4 bg_color-white-low_light padding-top-10-xs">
                                 <div class="uppercase" style="font-family: Century Schoolbook;font-size: 82px;color: #0e0e0e;">
                                     <div class="font-xs-36 text-center-xs"> Filorga</div>
                                 </div>
@@ -73,14 +73,13 @@ and open the template in the editor.
 
                                 </span>
                             </div>
-
-                            <div class="bg1-head-sentance-7 bg_color-white-low_light">
+                            <div class="bg1-head-sentance-7 bg_color-white-low_light padding-bottom-15-xs box-shadow-xs">
                                 <div style="font-family:Myriad Pro;font-size: 27px;color: #0e0e0e;">
                                     <div class="font-xs-22 text-center-xs"> EXPERIENCE IT YOURSELF</div>
                                 </div>    
                             </div>
                             <br>
-                            <div class="hidden-md hidden-lg col-xs-11 col-xs-offset-1 col-md-12 col-md-offset-0 line-height-xs-30">
+                            <div class="hidden-md hidden-lg col-xs-11 col-xs-offset-1 col-md-12 col-md-offset-0 line-height-xs-32">
                                 <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
                                     <div style="font-family: Myriad Pro;font-size: 19px;color: #990033;    text-shadow: 1px -1px 8px rgb(255, 255, 255);letter-spacing: 1.4px;" class="uppercase"> 
                                         <div class="text-left-xs font-xs-18">
@@ -128,7 +127,7 @@ and open the template in the editor.
                         <div class="row ">
 
                             <div class="bg2-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
-                                <div class="bg_color-pink-low_light padding-all-10-xs bg3-head-sentance-1 text-center-xs">
+                                <div class="bg_color-pink-low_light padding-all-10-xs bg3-head-sentance-1 box-shadow-xs text-center-xs">
                                     <span style="font-family: Century Schoolbook; font-size: 36px;color: #000;">
                                         <span class="color-white-xs font-xs-26 font-italic-xs"> Filorga Glykopeel </span><br>
 
@@ -292,7 +291,7 @@ and open the template in the editor.
                                 </div>
                                 <div class="bg4-body-sentance-4 text-indent-xs text-center-xs">
                                     <span style="font-family: Arial;font-size: 12px;color: #000;" class="text-indent-xs">
-                                        Glykopeel is recommended to treat wrinkles, loss of suppleness, dull complexion, <br>
+                                        Glykopeel is recommended to treat wrinkles, loss of suppleness, dull complexion, <br class="hidden-sm hidden-xs">
                                         hyperpigmentation, microcystic acne and skin imperfections.<br><br>
 
                                         It visibly improves cutaneous state with no side effects.
@@ -342,8 +341,8 @@ and open the template in the editor.
                 <div class="bg7">
                     <div class="row">
                         <div class="bg4-xs padding-bottom-2em-xs padding-top-3em-xs col-xs-12">
-                            <div class="bg_color-white-low_light padding-all-10-xs bg7-body-sentance-1 text-center-xs">
-                                <span style="font-family: Century Schoolbook;font-size: 36px;">
+                            <div class="bg_color-white-low_light box-shadow-xs padding-bottom-20-xs padding-all-10-xs bg7-body-sentance-1 text-center-xs">
+                                <span style="font-family: Century Schoolbook;font-size: 36px;" class="line-height-xs-24">
                                     <span class="font-xs-28"> Glykopeel Treatments </span><br>
                                 </span>
                                 <span style="font-family: Century Gothic;font-size: 18px;">

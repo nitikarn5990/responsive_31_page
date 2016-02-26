@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
+   To change this license header, choose License Headers in Project Properties.
+   To change this template file, choose Tools | Templates
+   and open the template in the editor.
 -->
 <html>
     <head>
@@ -10,7 +10,6 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
-
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
     </head>
@@ -20,9 +19,9 @@ and open the template in the editor.
                 <div class="bg1">
                     <div class="row">
                         <div class="bg1-xs col-xs-12 padding-bottom-3em-xs padding-top-2em-xs">
-                            <div class="bg1-head-sentance-1  padding-all-10-xs bg_color-white-low_light" style="font-family: Century Schoolbook;color: #000;">
-                                <p class="text-center">ARCO Nano</p>
-                                <p class="text-center">Cell Filtrates</p>
+                            <div class="bg1-head-sentance-1 font-xs-34 box-shadow-xs padding-all-10-xs bg_color-white-low_light" style="font-family: Century Schoolbook;color: #000;text-align: center;">
+                                <p>ARCO Nano</p>
+                                <p>Cell Filtrates</p>
                             </div>
                             <div style="font-family: Times New Roman; line-height: 32px; color: #000;" class="padding-top-1em-xs font-xs-20 bg1-body-sentance-1 "> 
                                 <span class="letter-spacing-normal-xs font-italic-xs">
@@ -40,42 +39,37 @@ and open the template in the editor.
                                     &nbsp;&nbsp;&nbsp; Eczema – Psoriasis – Skin Lesions<br>
                                 </span>
                             </div>
-
                         </div>
                     </div>
-                </div> 
-
-                <div class="bg2 ">
-                    <p class="hidden-xs hidden-sm">&nbsp;</p>
+                </div>
+                <div class="bg2">
                     <div class="row box-shadow-xs padding-bottom-3em-xs">
-                        <div class="col-xs-12 padding-top-2em-xs">
-                            <div style="" class="">
-                                <p class="text-center">
-                                    <span  style="font-family: Century Schoolbook; font-size: 36px;">ARCO Nano Cell Filtrates</span><br>
-                                    <span  style="font-family: Century Gothic; font-size: 20px;">BCRO Closed Colony Rabbits</span><br>
-                                </p>
+                        <div class="bg2-body-sentance-1">
+                            <div class="col-xs-12 padding-top-2em-xs">
+                                <div style="" class="">
+                                    <p class="text-center">
+                                        <span  style="font-family: Century Schoolbook; font-size: 36px;">ARCO Nano Cell Filtrates</span><br>
+                                        <span  style="font-family: Century Gothic; font-size: 20px;">BCRO Closed Colony Rabbits</span><br>
+                                    </p>
+                                </div>
                             </div>
-                        </div>
-                        <p class="hidden-xs hidden-sm">&nbsp;</p>
-                        <div class="col-xs-12">
-
-                            <div style="font-family: Arial; font-size: 12px; line-height: 24px;" class="text-left-xs"> 
-                                ARCO Nano Cell Filtrates are homologous molecules that trigger repair and regeneration of various cells, tissues or organs. <br class="hidden-xs">
-                                The decisive factor is the organ-specificity of molecular structures provided by the nano filtrates. <br class="hidden-xs">
-                                In addition to the material, the intrinsic electromagnetic component contained in the fetal organs <br class="hidden-xs">
-                                and tissues plays an important role in the effectiveness of the nano filtrates.<br class="hidden-xs">
-                                <p>&nbsp; </p>
-                                For therapeutic usage, the nano cell filtrates are nutritional supplement to be taken orally hence all cosmeceutical types <br class="hidden-xs">
-                                are also therapeutic.The body response to the application of Arco Nano Filtrates generally takes 3 to 4 weeks <br class="hidden-xs">
-                                from beginning use to the observable response. The reaction chain ‘absorption – transport – incorporation’ <br class="hidden-xs">
-                                has to take its course, before the efficacy can be observed by functional / structural improvement.<br class="hidden-xs">
-                                <br>
-
+                            <p class="hidden-xs hidden-sm">&nbsp;</p>
+                            <div class="col-xs-12">
+                                <div style="font-family: Arial; font-size: 12px; line-height: 24px;" class="text-left-xs">
+                                    ARCO Nano Cell Filtrates are homologous molecules that trigger repair and regeneration of various cells, tissues or organs. <br class="hidden-xs">
+                                    The decisive factor is the organ-specificity of molecular structures provided by the nano filtrates. <br class="hidden-xs">
+                                    In addition to the material, the intrinsic electromagnetic component contained in the fetal organs <br class="hidden-xs">
+                                    and tissues plays an important role in the effectiveness of the nano filtrates.<br class="hidden-xs">
+                                    <p>&nbsp; </p>
+                                    For therapeutic usage, the nano cell filtrates are nutritional supplement to be taken orally hence all cosmeceutical types <br class="hidden-xs">
+                                    are also therapeutic.The body response to the application of Arco Nano Filtrates generally takes 3 to 4 weeks <br class="hidden-xs">
+                                    from beginning use to the observable response. The reaction chain ‘absorption – transport – incorporation’ <br class="hidden-xs">
+                                    has to take its course, before the efficacy can be observed by functional / structural improvement.<br class="hidden-xs">
+                                    <br>
+                                </div>
                             </div>
                         </div>
                     </div>
-                 
-
                 </div>
                 <div class="bg3">
                     <div class="row padding-bottom-3em-xs">
@@ -94,7 +88,6 @@ and open the template in the editor.
                                 <span class="font-18">
                                     <span class="font-xs-24">
                                         <span class="hidden-lg hidden-md" style="font-family: new times roman;font-size: 60px;"><i>1</i></span> Nano Cell Filtrates 
-
                                     </span>
                                 </span>
                                 <br class="hidden-sm hidden-xs">
@@ -103,18 +96,14 @@ and open the template in the editor.
                                         Cosmeceutical Range 
                                     </span>
                                 </span>
-
                             </div>
-
                         </div>
-
-                        <div class="bg3-body-sentance-2  text-center-xs" style="font-size: 12px; font-family: Arial;line-height: 24px;"> 
+                        <div class="bg3-body-sentance-2 text-center-xs" style="font-size: 12px; font-family: Arial;line-height: 24px;"> 
                             Having Youth Restoration features provides <br>
                             Excellent Skin revitalization and rejuvenation functions. <br>
                             The cell ultrafiltrates consists of 3 types as follows <br>
                             Skin ,Placenta ,Mesenchyme<br>
                         </div>
-
                         <p class="hidden-lg hidden-md">&nbsp;</p>
                         <p class="hidden-lg hidden-md">&nbsp;</p>
                         <div class="hidden-lg hidden-md col-xs-12">
@@ -126,7 +115,6 @@ and open the template in the editor.
                                 <span class="font-18">
                                     <span class="font-xs-24">
                                         <span class="hidden-lg hidden-md" style="font-family: new times roman;font-size: 60px;"><i>2</i></span> Nano Cell Filtrates 
-
                                     </span>
                                 </span>
                                 <br>
@@ -135,19 +123,15 @@ and open the template in the editor.
                                         Therapeutic Range
                                     </span>
                                 </span>
-
                                 <br class="hidden-lg hidden-md">
                             </div>
                         </div>
-
                         <div class="col-xs-12">
-
                             <div class="bg3-body-sentance-4" style="font-size: 12px; font-family: Arial;line-height: 24px;"> 
                                 Revitalize, Regenerate and Anti Age your body. It worked <br class="hidden-xs">
                                 on the principle of ‘homing’, these cell ultrafiltrates. <br class="hidden-xs">
                                 Once absorbed orally, they will find their way, to the<br class="hidden-xs">
                                 damaged organs (liver cells into liver). <br class="hidden-xs"><br class="hidden-xs">
-
                                 Note that all types of Cosmeceutical range are also Therapeutic.<br class="hidden-xs">
                                 All biological systems in nature are composed of almost <br class="hidden-xs">
                                 identical types of bio-molecules. The amino-acid sequence <br class="hidden-xs">
@@ -158,28 +142,22 @@ and open the template in the editor.
                                 mechanisms in individual cells and control the relations <br class="hidden-xs">
                                 between various tissue and organ cells.<br class="hidden-xs">
                             </div>
-
                         </div>
                     </div>
                 </div>
-
-
                 <div class="bg4_1">
                     <div class="row">
                         <div class="bg2-xs col-xs-12 padding-top-2em-xs padding-bottom-2em-xs">
-                            <div class="bg4_1-head-sentance-1 margin-bottom-10-xs" style=" font-family: Century Schoolbook;font-size: 40px;"> Cosmeceutical </div>
-
-                            <div class="bg4_1-body-sentance-1" style="font-size: 12px; font-family: Arial;line-height: 24px;">
+                            <div class="bg4_1-head-sentance-1 margin-bottom-10-xs text-center-xs" style=" font-family: Century Schoolbook;font-size: 40px;"> Cosmeceutical </div>
+                            <div class="bg4_1-body-sentance-1" style="font-size: 12px; font-family: Arial;line-height: 21px;">
                                 <strong>  ARCO Nano Cells of Skin, Placenta and Mesenchyme have youth</strong> <br class="hidden-xs">
                                 restoring features that regenerate and anti age your skin & body.  <br class="hidden-xs">
                                 They are highly advanced blends utilizing stem cell ultrafiltration  <br class="hidden-xs">
                                 technology , making it available for both male and female. It could <br class="hidden-xs">
                                 either be used as a topical cosmetic or be taken orally as a nutrition <br class="hidden-xs">
                                 supplement. <br><br>
-
                                 It can provide the exact components necessary for injured or diseased <br class="hidden-xs">
                                 tissue to heal and regenerate. <br><br>
-
                                 For cosmeceutical usage, the nano cells filtrates with a diametric size <br class="hidden-xs">
                                 of 3 nanometers and a molecular weight of less than 10 kDa could <br class="hidden-xs">
                                 easily penetrate human skin pore size of average between 50 <br class="hidden-xs">
@@ -188,21 +166,18 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-
                 <div class="bg4_2">
                     <div class="row">
                         <div class="bg3-xs col-xs-12 padding-top-2em-xs padding-bottom-3em-xs">
-                            <div class="bg4_2-head-sentance-1">
+                            <div class="bg4_2-head-sentance-1 padding-bottom-2em-xs">
                                 <span style="font-size: 30px; font-family: Century Schoolbook;color: #000;">Skin Cell Filtrates </span><br>
                                 <span  style="font-size: 18px; font-family: Century Gothic;color: #000;">Moisturizer and Pigmentation Balance</span>
                             </div>
-
-                            <div class="bg4_2-body-sentance-1" style="font-size: 12px; font-family: Arial;line-height: 24px;">
+                            <div class="bg4_2-body-sentance-1 text-indent-xs" style="font-size: 12px; font-family: Arial;line-height: 24px;">
                                 Collagen and elastin are essential aesthetic components naturally found in the dermis where they improve  <br class="hidden-xs">
                                 basic skin structure, suppleness and texture as well as the skin’s natural ability to retain moisture. <br class="hidden-xs">
                                 Nano Cell Filtrates of Skin can be absorbed effectively into the dermis to enforce the renewal of collagen <br class="hidden-xs">
                                 and elastin for moisture retention. <br class="hidden-xs"><br class="hidden-xs">
-
                                 Skin pigmentation disorders affect the color of your skin. Your skin gets its color from a pigment called melanin. <br class="hidden-xs">
                                 Special cells in the skin make melanin. When these cells become damaged or unhealthy, it affects melanin <br class="hidden-xs">
                                 production. When applied topically on pigmentation disorder areas, the Nano cell Filtrates of skin can <br class="hidden-xs">
@@ -211,21 +186,17 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-
                 <div class="bg4_3">
                     <div class="row">
-                        <div class="bg4-xs padding-bottom-3em-xs padding-top-2em-xs col-xs-12">
+                        <div class="bg4-xs padding-bottom-3em-xs padding-top-3em-xs col-xs-12">
                             <div class="bg4_2-img-1">
                                 <img src="images/ArcoNano/Keloid(3).png" class="img-responsive">
                             </div>
-
-
                             <div class="bg4_2-head-sentance-1 padding-bottom-2em-xs">
                                 <span style="font-size: 30px; font-family: Century Schoolbook;color: #000;">Placenta Cell Filtrates</span><br>
                                 <span  style="font-size: 18px; font-family: Century Gothic;color: #000;">Regeneration and Revitalization</span>
                             </div>
-
-                            <div class="bg4_2-body-sentance-1" style="font-size: 12px; font-family: Arial;line-height: 25px;">
+                            <div class="bg4_2-body-sentance-1 text-indent-xs" style="font-size: 12px; font-family: Arial;line-height: 25px;">
                                 Nano Cell Filtrates of Placenta has an outstanding regenerative capacity to provide the exact components necessary  <br class="hidden-xs">
                                 for injured or diseased tissue to heal and regenerate. The nano cell filtrates will infuse into the deep layer of dermis and  <br class="hidden-xs">
                                 hypodermis to generate effective epithelisation and self-renewal of the cells, hence enhancing the healing of wounds.  <br class="hidden-xs">
@@ -236,15 +207,13 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-
                 <div class="bg4_4">
                     <div class="row">
                         <div class="bg5-xs padding-top-2em-xs padding-bottom-3em-xs col-xs-12">
-                            <div class="bg4_4-head-sentance-1 padding-bottom-2em-xs">
+                            <div class="bg4_4-head-sentance-1 padding-bottom-1em-xs">
                                 <span style="font-size: 30px; font-family: Century Schoolbook;color: #000;">Mesenchyme Cell Filtrates </span><br>
                                 <span  style="font-size: 18px; font-family: Century Gothic;color: #000;">Lifting and Firming</span>
                             </div>
-
                             <div class="bg4_2-body-sentance-1" style="font-size: 12px; font-family: Arial;line-height: 25px;">
                                 Mesenchyme has potent abilities to regenerate connective tissues by functioning as local dermal <br class="hidden-xs">
                                 bio-activators, thereby inducing skin firming effects, correcting loose skin and reducing stretch marks. <br class="hidden-xs">
@@ -256,13 +225,10 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-
-
                 <div class="bg5">
                     <div class="row">
                         <div class="bg6-xs padding-bottom-3em-xs padding-top-2em-xs col-xs-12">
-                            <div class="bg5-head-sentance-1" style=" font-family: Century Schoolbook;font-size: 40px;"> Therapeutic </div>
-
+                            <div class="bg5-head-sentance-1 text-center-xs padding-bottom-10-xs" style=" font-family: Century Schoolbook;font-size: 40px;"> Therapeutic </div>
                             <div class="bg5-body-sentance-1" style="font-size: 12px; font-family: Arial;line-height: 27px;">
                                 The low molecular weight of organic ingredients Nano cell filtrates are <br class="hidden-xs">
                                 the precondition for the absorption through intact mucosa or skin. <br class="hidden-xs">
@@ -276,7 +242,6 @@ and open the template in the editor.
                         </div>
                     </div>
                 </div>
-
                 <div class="bg6">
                     <div class="row">
                         <div class="col-md-6">
@@ -294,7 +259,6 @@ and open the template in the editor.
                                                 </div>
                                             </div>
                                             <div class="col-xs-9 col-md-12">
-
                                                 <p class="hidden-xs hidden-sm">&nbsp;</p>
                                                 <div class="bg6-body-sentance-1" style="font-size: 12px; font-family: Arial;color: #000;">
                                                     Renewal of Collagen & Elastin, reduce pigmentation, <br class="hidden-xs">
@@ -349,15 +313,11 @@ and open the template in the editor.
                                 </div>
                             </div>
                         </div>
-
-
                         <div class="col-md-6 ">
                             <div class="">
                                 <div  class="row">
                                     <div class="bg8-xs padding-bottom-3em-xs padding-top-2em-xs col-xs-12">
-
-                                        <div class="col-xs-12" >
-
+                                        <div class="col-xs-12 padding-bottom-10-xs" >
                                             <p class="bg6-head-sentance-2"><span class="text-shadow" style="font-family: Century Gothic;font-size: 22px;">How to Store</span></p>
                                         </div>
                                         <div class="col-xs-11 col-xs-offset-1 col-md-12 col-md-offset-0">
@@ -377,7 +337,6 @@ and open the template in the editor.
                                                         <strong> Keep Refrigerated -  <br class="hidden-xs">
                                                             Optimum temperature  <br class="hidden-xs">
                                                             from +2°C to - 10°C (not frozen)  <br class="hidden-xs">
-
                                                         </strong>
                                                     </span>
                                                 </p>
@@ -402,33 +361,26 @@ and open the template in the editor.
                                             </div>
                                         </div>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
-
                     </div>
-
                 </div>
-
                 <div class="bg7">
                     <div class="">
                         <div class="row ">
                             <div class="bg9-xs box-shadow-reverse-xs z-index-2-xs padding-top-2em-xs padding-bottom-3em-xs col-xs-12">
                                 <div class="row ">
                                     <div class="col-xs-12 margin-bottom-10-xs">
-                                        <div class="bg7-head-sentance-1">
+                                        <div class="bg7-head-sentance-1 text-center-xs">
                                             <span style="font-size: 36px; font-family: Century Schoolbook;color: #000;">Application </span><br>
                                         </div>
-
                                     </div>
                                     <div class="col-xs-12 col-md-12 col-md-offset-0">
                                         <div class="bg7-body-sentance-1" style="font-size: 12px; font-family: Arial;line-height: 24px;">
                                             ARCO NANO Cell Filtrates are nutritional supplements taken orally. One Therapeutic cycle consists of specific <br class="hidden-xs">
                                             nano filtrates- 30, 60 or 90 vial treatment plans.<br class="hidden-xs"><br class="hidden-xs">
-
                                             To be taken undiluted between meals - swirl solution around oral cavity for 10 sec before swallowing.<br class="hidden-xs"><br class="hidden-xs">
-
                                             ARCO NANO Cell Filtrates are to be applied to the intact skin with help of guaze. When applied to skin lesions, <br class="hidden-xs">
                                             the Nano Cell Filtrates suspension is to be diluted with saline solution in the ratio of 1:5. Gauze soaked in such <br class="hidden-xs">
                                             solution is to be placed on the skin lesions and kept moist for 30 minutes. Alternatively the user can just tap lightly <br class="hidden-xs">
@@ -447,11 +399,9 @@ and open the template in the editor.
                         <div class="bg10-xs box-shadow-reverse-xs z-index-2-xs padding-top-2em-xs padding-bottom-3em-xs col-xs-12">
                             <div class="row">
                                 <div class="col-xs-12 margin-bottom-10-xs">
-                                    <div class="bg8-head-sentance-1">
+                                    <div class="bg8-head-sentance-1 text-center-xs">
                                         <span style="font-size: 36px; font-family: Century Schoolbook;color: #000;">Production </span><br>
-
                                     </div>
-
                                 </div>
                                 <div class="col-xs-12  col-md-12 col-md-offset-0">
                                     <div class="bg8-body-sentance-1" style="font-size: 12px; font-family: Arial;line-height: 24px;">
@@ -460,21 +410,17 @@ and open the template in the editor.
                                         filtration and the final ultrafiltration. ARCO NANO Cell Filtrates produced by the production <br class="hidden-xs">
                                         process described above contain components up to the nominal molecular weight <br class="hidden-xs">
                                         of 10 kDa. No chemical substances are used in the separation process.<br class="hidden-xs"><br class="hidden-xs">
-
                                         The productions of the NANO Cell Filtrates are subjected to constant quality control, <br class="hidden-xs">
                                         which is the ultimate priority of the manufacturer. The final products are cell ultrafiltrates <br class="hidden-xs">
                                         that contain peptides and is a nutritional supplement except for ultrafiltrates of Skin, <br class="hidden-xs">
                                         Placenta and Mesenchyme which can also be applied as topical cosmetic.<br class="hidden-xs"><br class="hidden-xs">
-
                                         The ultra-filtrates are suspended in a PBS solution (phosphate-buffered saline), which <br class="hidden-xs">
                                         protects low-molecular-weight peptides. Our NANO Cell Filtrates contain no preservatives, <br class="hidden-xs">
                                         no sugar and no gluten, suitable for people suffering from diabetes and celiac diseases.<br class="hidden-xs"><br class="hidden-xs">
-
                                         The production operation is approved by the Regional Public Health Authority in <br class="hidden-xs">
                                         the E.U., Ref. No. HV/A/2012/02294. The production is fully GMP compliance and <br class="hidden-xs">
                                         also HACCP system certified. 
                                         <p class="">&nbsp;</p>
-
                                     </div>
                                 </div>
                                 <p class="hidden-lg hidden-md"><img src="images/ArcoNano/bg10-1-xs.jpg" class="img-responsive" style="margin: auto;"></p>
@@ -485,7 +431,6 @@ and open the template in the editor.
                 </div>
                 <div class="bg9">
                     <div class="row">
-
                         <p class="hidden-sm hidden-xs">&nbsp;</p>
                         <p class="hidden-sm hidden-xs">&nbsp;</p>
                         <div class="box-shadow-reverse-xs z-index-3-xs padding-top-2em-xs padding-top-3em-xs col-xs-12">
@@ -516,20 +461,12 @@ and open the template in the editor.
                             </div>
                         </div>
                         <p class="">&nbsp;</p>
-
-
                         <div class="col-xs-12">
                             <img src="images/ArcoNano/bg-9_bottom.jpg" class="img-responsive">
                         </div>
                     </div>
                 </div>
-
-
-
-
             </div>
-
-
         </div>
         <style>
             .color-white-xs{
@@ -548,7 +485,6 @@ and open the template in the editor.
                 text-align: center;
                 vertical-align: middle;
                 padding-top: 12px;
-
             }
             .circle2 {
                 border-radius: 50%;
@@ -560,7 +496,6 @@ and open the template in the editor.
                 text-align: center;
                 vertical-align: middle;
                 padding-top: 12px;
-
             }
             .circle3 {
                 border-radius: 50%;
@@ -572,10 +507,7 @@ and open the template in the editor.
                 text-align: center;
                 vertical-align: middle;
                 padding-top: 5px;
-
             }
-
-
             .font-italic-xs{
                 font-style: italic;
             }
@@ -659,6 +591,14 @@ and open the template in the editor.
                 background-size: cover;
                 background-position:10% 100%;
             }
+            
+              .bg3-1-xs{
+                width: 100%;
+                background: #FFF url(images/ArcoNano/img1.png) center top no-repeat ;
+                -moz-background-size: cover;
+                background-size: cover;
+                background-position: 10% 100%;
+            }
             .bg1-body-sentance-1{ 
                 font-size: 16px;
                 letter-spacing: -1px;
@@ -672,7 +612,6 @@ and open the template in the editor.
             .font-body-16{
                 font-size: 16px;
             }
-
             .font-xs-36{
                 font-size: 36px;
             }
@@ -715,7 +654,6 @@ and open the template in the editor.
             .font-xs-8{
                 font-size: 8px;
             }
-
             .bg3{
                 color: #000;
             }
@@ -735,7 +673,6 @@ and open the template in the editor.
                 text-align: left;
             }
             .bg_color_1-xs{
-
                 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fefcea+0,ebf7ae+100 */
                 background: #def5d0; /* Old browsers */
                 background: -moz-radial-gradient(center, ellipse cover,  #def5d0 0%, #bbe3be 100%); /* FF3.6-15 */
@@ -745,8 +682,6 @@ and open the template in the editor.
                 border-radius: 5px;
                 padding: 10px 10px 20px 10px;
                 box-shadow: 5px 5px 8px 0px rgba(167, 167, 167, 0.37);
-
-
             }
             .bg_color_2-xs{
                 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fefcea+0,ebf7ae+100 */
@@ -758,10 +693,8 @@ and open the template in the editor.
                 padding: 10px 10px 20px 10px;
                 border-radius: 5px;
                 box-shadow: 5px 5px 8px 0px rgba(167, 167, 167, 0.37);
-
             }
             .bg_color_3-xs{
-
                 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e5e5e5+100;White+3D */
                 background: #ffffff; /* Old browsers */
                 background: -moz-radial-gradient(center, ellipse cover,  #ffffff 0%, #e5e5e5 100%); /* FF3.6-15 */
@@ -772,11 +705,8 @@ and open the template in the editor.
                 border-radius: 5px;
                 box-shadow: 5px 5px 8px 0px rgba(167, 167, 167, 0.37);
             }
-
-
             /*            sm size*/
             @media(min-width:768px){
-
             }
             /*            md size*/
             @media(min-width:992px){
@@ -808,13 +738,11 @@ and open the template in the editor.
                 .bg9-xs,
                 .bg10-xs
                 {
-
                     background: inherit;
                     -moz-background-size: inherit;
                     background-size: inherit;
                     background-position:inherit;
                 }
-
                 .font-xs-36{
                     font-size: inherit;
                 }
@@ -858,14 +786,12 @@ and open the template in the editor.
                     height: 570px;
                 }
                 .bg1-head-sentance-1{
-
                     font-size: 56px;
                     margin-left: 418px;
-                    margin-top: 42px;
+                    margin-top: 49px;
                     line-height: 47px;
                 }
                 .bg1-body-sentance-1{
-
                     font-size: 22px;
                     font-style: italic;
                     color: #000;
@@ -873,7 +799,16 @@ and open the template in the editor.
                     margin-top: 67px;
                     letter-spacing: 0.3px;
                 }
+                .bg2{
+                    background-image:  url(images/ArcoNano/bg-2.jpg);
+                    width: 800px;
+                    height: 488px;
 
+                }
+                .bg2-body-sentance-1{
+                    margin-top: 52px;
+
+                }
                 .bg3{
                     background-image: url(images/ArcoNano/bg-3.jpg);
                     width: 800px;
@@ -902,7 +837,6 @@ and open the template in the editor.
                     text-align: left;
                     margin-top: 75px;
                 }
-
                 .bg3-body-sentance-2{
                     font-family: Arial;
                     font-size: 12px;
@@ -933,33 +867,27 @@ and open the template in the editor.
                     margin: 15px 0 0 50px;
                     width: 377px;
                 }
-
                 .bg4_1{
                     background-image: url(images/ArcoNano/bg-4_1.jpg);
                     width: 800px;
                     height: 546px;
-
                 }
                 .bg4_2{
                     background-image: url(images/ArcoNano/bg-4_2.jpg);
                     width: 800px;
                     height: 422px;
-
                 }
                 .bg4_3{
                     background-image: url(images/ArcoNano/bg-4_3.jpg);
                     width: 800px;
                     height: 550px;
-
                 }
                 .bg4_4{
                     background-image: url(images/ArcoNano/bg-4_4.jpg);
                     width: 800px;
                     height: 387px;
-
                 }
                 .bg4_1-head-sentance-1{
-
                     float: right;
                     margin: 83px 144px 0 0;
                 }
@@ -974,33 +902,26 @@ and open the template in the editor.
                     /* margin-left: 16px; */
                 }
                 .bg4_2-head-sentance-1{
-
-                    margin: 30px 0 0 142px;
+                    margin: 13px 0 0 142px;
                 }
                 .bg4_2-body-sentance-1{
-
-                    margin: 30px 0 0 140px;
+                    margin: 27px 0 0 140px;
                     line-height: 25px;
                     color: #000;
+                    letter-spacing: -0.5px;
                 }
                 .bg4_2-img-1{
-
                     margin: 49px 0 0 126px;
                 }
-
                 .bg4_4-head-sentance-1{
-
-                    margin: 72px 0 0 142px;
+                    margin: 56px 0 0 142px;
                 }
-
                 .bg5{
                     background-image: url(images/ArcoNano/bg-5.jpg);
                     width: 800px;
                     height: 546px;
-
                 }
                 .bg5-head-sentance-1{
-
                     margin: 130px 368px 0 0;
                     text-align: right;
                 }
@@ -1008,24 +929,20 @@ and open the template in the editor.
                     text-align: right;
                     margin: 11px 368px 24px 10px;
                 }
-
                 .bg6{
                     background-image: url(images/ArcoNano/bg-6.jpg);
                     width: 800px;
                     height: 487px;
-
                 }
                 .bg6-head-sentance-1{
                     margin: 94px 0 0 33px;
                     text-align: center;
-
                 }
                 .bg6-body-sentance-1{
                     /*  margin: 32px 0 0px 104px;*/
                     letter-spacing: -0.8px;
                     line-height: inherit;
                     float: right;
-
                 }
                 .bg6-body-sentance-2{
                     /*  margin: 33px 0 0px 103px;*/
@@ -1039,86 +956,63 @@ and open the template in the editor.
                     line-height: inherit;
                     float: right;
                 }
-
-
                 .bg6-head-sentance-2{
                     margin: 67px 0 0 45px;
                     text-align: center;
-
                 }
                 .bg6-head-sentance-3{
                     margin: 42px 13px 0 58px;
                     text-align: center;
                     letter-spacing: -0.5px;
-
-
                 }
                 .bg6-head-sentance-4{
                     margin: 25px 0 0 67px;
                     text-align: center;
                     letter-spacing: -0.5px;
-
                 }
                 .bg6-head-sentance-5{
-
                     margin: 35px 0 0 108px;
                     letter-spacing: -0.5px;
                 }
                 .bg6-head-sentance-6{
-
                     margin: 30px 16px 0 61px;
                     letter-spacing: -0.5px;
                     text-align: center;
                 }
-
                 .bg7{
                     background-image: url(images/ArcoNano/bg-7.jpg);
                     width: 800px;
                     height: 421px;
-
                 }
                 .bg7-head-sentance-1 {
-
-                    margin: 73px 90px 0 90px;
-
+                    margin: 69px 90px 0 90px;
                 }
                 .bg7-body-sentance-1 {
-
-                    margin: 5px 0 0 90px;
+                    margin: 2px 0 0 90px;
                     line-height: 25px;
                     color: #000;
-
                 }
                 .bg8{
                     background-image: url(images/ArcoNano/bg-8.jpg);
                     width: 800px;
                     height: 706px;
-
                 }
                 .bg8-head-sentance-1 {
-
                     margin: 30px 70px 0 90px;
                     text-align: center;
-
                 }
                 .bg8-body-sentance-1 {
-
                     color: #000;
-
-                    margin: 12px 0px 0 317px;
-                    letter-spacing: -0.4px;
-
+                    margin: 12px 0px 0 327px;
+                    letter-spacing: -0.5px;
                 }
                 .bg9-body-sentance-1 {
-
                     color: #000;
                     margin: 29px 136px 0 177px;
                     letter-spacing: -0.3px;
                     line-height: 25px;
-
                 }
                 .bg_color_1-xs{
-
                     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fefcea+0,ebf7ae+100 */
                     background: inherit; /* Old browsers */
                     background: inherit; /* FF3.6-15 */
@@ -1129,7 +1023,6 @@ and open the template in the editor.
                     box-shadow: inherit;
                 }
                 .bg_color_2-xs{
-
                     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fefcea+0,ebf7ae+100 */
                     background: inherit; /* Old browsers */
                     background: inherit; /* FF3.6-15 */
@@ -1140,7 +1033,6 @@ and open the template in the editor.
                     box-shadow: inherit;
                 }
                 .bg_color_3-xs{
-
                     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fefcea+0,ebf7ae+100 */
                     background: inherit; /* Old browsers */
                     background: inherit; /* FF3.6-15 */
@@ -1151,9 +1043,6 @@ and open the template in the editor.
                     box-shadow: inherit;
                 }
             }
-
-
-
         </style>
     </body>
 </html>

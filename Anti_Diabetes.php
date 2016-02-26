@@ -22,8 +22,8 @@ and open the template in the editor.
                     <div class="row">
                         <div class="bg1-xs col-xs-12 padding-bottom-2em-xs">
                             <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <div class="bg_color-blue padding-all-10-xs col-xs-12">
-                                <div class="bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
+                            <div class="bg_color-blue padding-all-10-xs box-shadow-xs col-xs-12">
+                                <div class="bg1-head-sentance-1 text-center-xs">
                                     <div style="font-family: Century Schoolbook;font-size: 62px;color: #FFF;text-transform: uppercase;"> 
                                         <div class="font-xs-34 color-white-xs">Filorga </div>
                                     </div><br class="hidden-sm hidden-xs">
@@ -62,7 +62,7 @@ and open the template in the editor.
                                         <span style="font-family: Century Gothic;font-size: 16px;">
                                             The most popular product for those looking to <br class="hidden-sm hidden-xs">
                                             <span  style="font-family: times new roman;font-size: 24px;">
-                                                <span class="font-xs-18 font-bold-xs text-shadow-low" style=""><i>Delay</i></span>
+                                                <span class="font-xs-18 font-bold-xs text-shadow-low"><i>Delay</i></span>
                                             </span>
                                             or
                                             <span style="font-family: times new roman;font-size: 28px;">  
@@ -413,7 +413,7 @@ and open the template in the editor.
             <div class="bg8">
                 <div class="row">
                     <div class="bg8-xs padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
-                        <div class="bg8-body-sentance-1">
+                        <div class="bg8-body-sentance-1 text-center-xs">
                             <span style="font-family:  Century Schoolbook; font-size: 36px;color: #000;">
                                 Range Of Application
                             </span>
@@ -549,12 +549,12 @@ and open the template in the editor.
                                                 Artery
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Arteriosclerosis, cerebrovascular
                                             </span></td>
@@ -571,12 +571,12 @@ and open the template in the editor.
                                                 Cardiac - Heart
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Cardiac disorder, Stress, phobic embolism
                                             </span></td>
@@ -593,12 +593,12 @@ and open the template in the editor.
                                                 Cartilage
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Rheumatism, arthritis, joins functions
                                             </span></td>
@@ -615,12 +615,12 @@ and open the template in the editor.
                                                 Capillary Vessel
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Obstructive circulation, regulate artery cells
                                             </span></td>
@@ -637,12 +637,12 @@ and open the template in the editor.
                                                 Dental Arch
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Oral diseases
                                             </span></td>
@@ -659,12 +659,12 @@ and open the template in the editor.
                                                 Dermis - Skin
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Psoriasis, eczema, leucoderma
                                             </span></td>
@@ -681,12 +681,12 @@ and open the template in the editor.
                                                 Eyes
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Cataracta, eye muscle involution
                                             </span></td>
@@ -703,12 +703,12 @@ and open the template in the editor.
                                                 Hypothalamus
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Nervous system disorder, depression
                                             </span></td>
@@ -725,12 +725,12 @@ and open the template in the editor.
                                                 Kidney
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 High blood pressure, detoxifying
                                             </span></td>
@@ -747,12 +747,12 @@ and open the template in the editor.
                                                 Lung
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Lung disorder, Asthma, emphysema
                                             </span></td>
@@ -769,12 +769,12 @@ and open the template in the editor.
                                                 Liver
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Weak Metabolism, diabetes, detoxifying
                                             </span></td>
@@ -791,12 +791,12 @@ and open the template in the editor.
                                                 Ligaments
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Back pain, sprain, ligament laxity
                                             </span></td>
@@ -813,12 +813,12 @@ and open the template in the editor.
                                                 Muscle
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Muscle involution, soft tissue mutation
                                             </span></td>
@@ -835,12 +835,12 @@ and open the template in the editor.
                                                 Osseous Marrow  bone marrow
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Osteoporosis, osteoarthritis
                                             </span></td>
@@ -857,12 +857,12 @@ and open the template in the editor.
                                                 Ovary
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Osteoporosis, osteoarthritis
                                             </span></td>
@@ -880,12 +880,12 @@ and open the template in the editor.
                                                 Placenta
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Aging, fatigue, skin quality, circular function
                                             </span></td>
@@ -903,12 +903,12 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Urination difficulties, hormone secretion
                                             </span></td>
@@ -925,12 +925,12 @@ and open the template in the editor.
                                                 Pancreas
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Hyperglycemia, diabetes, high cholesterol
                                             </span></td>
@@ -948,12 +948,12 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Nervous system involution
                                             </span></td>
@@ -971,12 +971,12 @@ and open the template in the editor.
                                                 Stomach
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Gastric ulcer, gastritis
                                             </span></td>
@@ -995,12 +995,12 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Low blood pressure, enhance metabolic
                                             </span></td>
@@ -1017,12 +1017,12 @@ and open the template in the editor.
                                                 Spleen
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Allergy, detoxifying
                                             </span></td>
@@ -1041,12 +1041,12 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Mental disorder, hypertension, memories
                                             </span></td>
@@ -1063,12 +1063,12 @@ and open the template in the editor.
                                                 Thyroid
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Thyroid dysplasia, low function of thyroid
                                             </span></td>
@@ -1087,12 +1087,12 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Regeneration, Enhance Organ functions
                                             </span></td>
@@ -1109,12 +1109,12 @@ and open the template in the editor.
                                                 Thymus
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Improve immunity
                                             </span></td>
@@ -1132,12 +1132,12 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Enteritis, intestinal system disorder
                                             </span></td>
@@ -1154,12 +1154,12 @@ and open the template in the editor.
                                                 Testicle
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 10 x 3ml
                                             </span>
                                         </td>
-                                        <td  style="">
+                                        <td>
                                             <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Andropause, enhance virility
                                             </span></td>
@@ -1302,12 +1302,12 @@ and open the template in the editor.
                                                     Cardiac - Heart
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Cardiac disorder, Stress, phobic embolism
                                                 </span></td>
@@ -1346,12 +1346,12 @@ and open the template in the editor.
                                                     Capillary Vessel
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Obstructive circulation, regulate artery cells
                                                 </span></td>
@@ -1368,12 +1368,12 @@ and open the template in the editor.
                                                     Dental Arch
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Oral diseases
                                                 </span></td>
@@ -1390,12 +1390,12 @@ and open the template in the editor.
                                                     Dermis - Skin
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Psoriasis, eczema, leucoderma
                                                 </span></td>
@@ -1412,12 +1412,12 @@ and open the template in the editor.
                                                     Eyes
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Cataracta, eye muscle involution
                                                 </span></td>
@@ -1434,12 +1434,12 @@ and open the template in the editor.
                                                     Hypothalamus
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Nervous system disorder, depression
                                                 </span></td>
@@ -1456,12 +1456,12 @@ and open the template in the editor.
                                                     Kidney
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     High blood pressure, detoxifying
                                                 </span></td>
@@ -1478,12 +1478,12 @@ and open the template in the editor.
                                                     Lung
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Lung disorder, Asthma, emphysema
                                                 </span></td>
@@ -1500,12 +1500,12 @@ and open the template in the editor.
                                                     Liver
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Weak Metabolism, diabetes, detoxifying
                                                 </span></td>
@@ -1522,12 +1522,12 @@ and open the template in the editor.
                                                     Ligaments
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Back pain, sprain, ligament laxity
                                                 </span></td>
@@ -1544,12 +1544,12 @@ and open the template in the editor.
                                                     Muscle
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Muscle involution, soft tissue mutation
                                                 </span></td>
@@ -1566,12 +1566,12 @@ and open the template in the editor.
                                                     Osseous Marrow  bone marrow
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Osteoporosis, osteoarthritis
                                                 </span></td>
@@ -1588,12 +1588,12 @@ and open the template in the editor.
                                                     Ovary
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Osteoporosis, osteoarthritis
                                                 </span></td>
@@ -1611,12 +1611,12 @@ and open the template in the editor.
                                                     Placenta
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Aging, fatigue, skin quality, circular function
                                                 </span></td>
@@ -1634,12 +1634,12 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Urination difficulties, hormone secretion
                                                 </span></td>
@@ -1656,12 +1656,12 @@ and open the template in the editor.
                                                     Pancreas
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Hyperglycemia, diabetes, high cholesterol
                                                 </span></td>
@@ -1679,12 +1679,12 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Nervous system involution
                                                 </span></td>
@@ -1702,12 +1702,12 @@ and open the template in the editor.
                                                     Stomach
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Gastric ulcer, gastritis
                                                 </span></td>
@@ -1726,12 +1726,12 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Low blood pressure, enhance metabolic
                                                 </span></td>
@@ -1748,12 +1748,12 @@ and open the template in the editor.
                                                     Spleen
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Allergy, detoxifying
                                                 </span></td>
@@ -1772,12 +1772,12 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Mental disorder, hypertension, memories
                                                 </span></td>
@@ -1794,12 +1794,12 @@ and open the template in the editor.
                                                     Thyroid
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Thyroid dysplasia, low function of thyroid
                                                 </span></td>
@@ -1818,12 +1818,12 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Regeneration, Enhance Organ functions
                                                 </span></td>
@@ -1840,12 +1840,12 @@ and open the template in the editor.
                                                     Thymus
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Improve immunity
                                                 </span></td>
@@ -1863,12 +1863,12 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Enteritis, intestinal system disorder
                                                 </span></td>
@@ -1885,12 +1885,12 @@ and open the template in the editor.
                                                     Testicle
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     10 x 3ml
                                                 </span>
                                             </td>
-                                            <td  style="">
+                                            <td>
                                                 <span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Andropause, enhance virility
                                                 </span></td>
@@ -1929,7 +1929,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #FFF;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                 Tissular Extract 4 in 1 M (ACT004S)
                                             </span>
                                         </td>
@@ -1944,7 +1944,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Tissular Extract 4 in 1 F (ACT004G)
                                             </span>
                                         </td>
@@ -1960,7 +1960,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #fff;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #fff;">
                                                 Liver (LR), Placenta (PA), Suprarenal (SL)
                                             </span>
                                         </td>
@@ -1975,7 +1975,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Liver (LR), Pancreas (PS), Stomach (SH)
                                             </span>
                                         </td>
@@ -1990,7 +1990,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #fff;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #fff;">
                                                 Kidney (KY), Liver (LR)
                                             </span>
                                         </td>
@@ -2005,7 +2005,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Cartilage (CE), Osseous Marrow (OM)
                                             </span>
                                         </td>
@@ -2020,7 +2020,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #fff;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #fff;">
                                                 Lung (LG), Thymus (TH), Suprarenal (SL)
                                             </span>
                                         </td>
@@ -2035,7 +2035,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Testicle (TL), Placenta (PA)
                                             </span>
                                         </td>
@@ -2050,7 +2050,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #fff;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #fff;">
                                                 Thymus (TH), Placenta (PA)
                                             </span>
                                         </td>
@@ -2066,7 +2066,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #000;">
                                                 Lung (LG), Placenta (PA)
                                             </span>
                                         </td>
@@ -2081,7 +2081,7 @@ and open the template in the editor.
 
                                             </span>
                                         </td>
-                                        <td  style=""><span style="font-family: Arial;font-size: 12px;color: #fff;">
+                                        <td><span style="font-family: Arial;font-size: 12px;color: #fff;">
                                                 Total Cerebrum (TC), Spinal Cord (SC)
                                             </span>
                                         </td>
@@ -2113,7 +2113,7 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style=""><span style="font-family: Arial;font-size: 12px;color: #FFF;">
+                                            <td><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Tissular Extract 4 in 1 M (ACT004S)
                                                 </span>
                                             </td>
@@ -2128,7 +2128,7 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                            <td><span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Tissular Extract 4 in 1 F (ACT004G)
                                                 </span>
                                             </td>
@@ -2189,7 +2189,7 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                            <td><span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Cartilage (CE), Osseous Marrow (OM)
                                                 </span>
                                             </td>
@@ -2204,7 +2204,7 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style=""><span style="font-family: Arial;font-size: 12px;color: #FFF;">
+                                            <td><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Lung (LG), Thymus (TH), Suprarenal (SL)
                                                 </span>
                                             </td>
@@ -2219,7 +2219,7 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                            <td><span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Testicle (TL), Placenta (PA)
                                                 </span>
                                             </td>
@@ -2234,7 +2234,7 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style=""><span style="font-family: Arial;font-size: 12px;color: #FFF;">
+                                            <td><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Thymus (TH), Placenta (PA)
                                                 </span>
                                             </td>
@@ -2250,7 +2250,7 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style=""><span style="font-family: Arial;font-size: 12px;color: #000;">
+                                            <td><span style="font-family: Arial;font-size: 12px;color: #000;">
                                                     Lung (LG), Placenta (PA)
                                                 </span>
                                             </td>
@@ -2265,7 +2265,7 @@ and open the template in the editor.
 
                                                 </span>
                                             </td>
-                                            <td  style=""><span style="font-family: Arial;font-size: 12px;color: #FFF;">
+                                            <td><span style="font-family: Arial;font-size: 12px;color: #FFF;">
                                                     Total Cerebrum (TC), Spinal Cord (SC)
                                                 </span>
                                             </td>
@@ -2291,7 +2291,7 @@ and open the template in the editor.
 
     <style>
 
-
+       
         .bg_color_blue{
             background: rgba(55, 144, 209, 0.74);
         }
@@ -2326,6 +2326,10 @@ and open the template in the editor.
             -moz-background-size: cover;
             background-size: cover;
             background-position: 64% 100%;
+        }
+        .bg4-xs strong{
+            font-weight: normal;
+            text-shadow: 1px 0px 0px rgba(0, 0, 0, 1);
         }
         .bg6-1-xs{
             width: 100%;
@@ -2744,7 +2748,7 @@ and open the template in the editor.
                 margin: 34px 0 0 74px;
             } 
             .bg3-body-sentance-4{
-                margin: 34px 0 0 58px;
+                margin: 37px 0 0 58px;
                 float: left;
                 line-height: 21px;
                 letter-spacing: -0.2px;
@@ -2759,7 +2763,7 @@ and open the template in the editor.
                 margin: 84px 0 0 78px;
             }
             .bg3-body-sentance-7{
-                margin: 44px 0 0 59px;
+                margin: 41px 0 0 59px;
                 line-height: 20px;
                 letter-spacing: -0.1px;
             }

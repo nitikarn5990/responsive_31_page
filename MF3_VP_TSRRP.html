@@ -11,7 +11,7 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
-
+        <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
 
     </head>
@@ -21,12 +21,11 @@ and open the template in the editor.
 
                 <div class="row ">
                     <div class="bg1 col-xs-12">
-
                         <p class="hidden-md hidden-lg">&nbsp;</p>
                         <p class="hidden-md hidden-lg"><img src="images/MF3_VP_TSRRP/pd1.png" class="img-responsive margin-auto"></p>
                         <div class="bg1-head-sentance-1 text-center-xs " style="">
 
-                            <div class="" style="font-family: Century Gothic;color: #000; text-shadow: 0px 0px 7px rgba(255, 255, 255, 1);  "> 
+                            <div  style="font-family: Century Gothic;color: #000; text-shadow: 0px 0px 7px rgba(255, 255, 255, 1);  "> 
                                 <div class="color-black-xs font-xs-30 text-center-xs">
                                     <span style="font-size: 42px;"> MFIII </span> <span style="font-size: 36px;">Total Skin Rejuvenation </span> <br>
                                     <div style="margin: 1px 7px 0 0px;letter-spacing: 0.9px;">
@@ -34,21 +33,17 @@ and open the template in the editor.
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                         <div class="clearfix"></div>
                         <div class="margin-bottom-20-xs hidden-lg hidden-md"></div>
                         <div class="bg1-head-sentance-1_1 text-center-xs" style="">
 
-                            <div class="" style="font-family: Century Schoolbook;font-size: 20px;color: #111111; text-shadow: 0px 0px 7px rgba(255, 255, 255, 1);  "> 
+                            <div  style="font-family: Century Schoolbook;font-size: 20px;color: #111111; text-shadow: 0px 0px 7px rgba(255, 255, 255, 1);  "> 
                                 <div class="color-black-xs font-xs-30 text-center-xs text-center">
-                                    Is the world’s premier skin care program <br>
-                                    <span style="letter-spacing: 0.5px;">that is suitable for all skin types, and   <br> 
+                                    Is the world’s premier skin care program <br class="hidden-sm hidden-xs">
+                                    <span style="letter-spacing: 0.5px;">that is suitable for all skin types, and<br class="hidden-sm hidden-xs">
                                         women and men of all ages.
                                     </span>
-
-
-
                                 </div>
                             </div>
 
@@ -59,60 +54,60 @@ and open the template in the editor.
                     </div>
                 </div>
                 <div class="row">
-                    <div class="bg2 col-xs-12">
-                        <div class="">
-                            <div class="margin-bottom-20-xs hidden-lg hidden-md"></div>
-                            <div class="bg2-head-sentance-1">
+                    <div class="bg2 padding-bottom-2em-xs padding-top-2em-xs col-xs-12">
 
-                                <div style="font-family: Arial; font-size: 14px;color: #000;" class="">
-                                    <div  class="color-black-xs text-center-xs line-height-xs-24"> 
-                                        In November 2007, Laboratories Dom AVMM AG (Swiss Registration <br class="hidden-sm hidden-xs">
-                                        No. CH-170.3.030.727-5; pioneers in Research & Development & specializing in <br class="hidden-sm hidden-xs">
-                                        in-depth Live Cell Therapy and Placental Therapy) went a step further by introducing <br class="hidden-sm hidden-xs">
-                                        an additional Vegetal Placenta in 'Cosmeceutical Form' to complement its existing <br class="hidden-sm hidden-xs">
-                                        'Supplement Form' <strong>(MFIII VP Advanced Formula Softgels).</strong> <br class="hidden-sm hidden-xs">
-                                        This New Cosmeceutical Range was researched, developed, manufactured and <br class="hidden-sm hidden-xs">
-                                        approved in Switzerland under stringent Swiss GMP (Good Manufacturing Practices), <br class="hidden-sm hidden-xs">
-                                        under the name of MFIII of Switzerland Total Skin Rejuvenation & Revitalisation Program. <br><br>
+                        <div class="margin-bottom-20-xs hidden-lg hidden-md"></div>
+                        <div class="bg2-head-sentance-1">
 
-                                        MFIII of Switzerland Vegetal Placenta Total Skin Rejuvenation & Revitalization Program <br class="hidden-sm hidden-xs">
-                                        (or MFIII VP TSRRP) is manufactured according to a state-of-the art, molecular fractionation <br class="hidden-sm hidden-xs">
-                                        technology process. This unique process is performed at controlled temperature with <br class="hidden-sm hidden-xs">
-                                        sophisticated ultrafiltration units, to allow for the selection of specific molecules and <br class="hidden-sm hidden-xs">
-                                        to ensure the maintenance of their potency. The manufacturing steps are performed in <br class="hidden-sm hidden-xs">
-                                        accordance with the current provisions for Swiss Good Manufacturing Practice (GMP), <br class="hidden-sm hidden-xs">
-                                        ensuring a very high quality product.
+                            <div style="font-family: Arial; font-size: 14px;color: #000;" >
+                                <div  class="color-black-xs text-center-xs line-height-xs-24"> 
+                                    In November 2007, Laboratories Dom AVMM AG (Swiss Registration <br class="hidden-sm hidden-xs">
+                                    No. CH-170.3.030.727-5; pioneers in Research & Development & specializing in <br class="hidden-sm hidden-xs">
+                                    in-depth Live Cell Therapy and Placental Therapy) went a step further by introducing <br class="hidden-sm hidden-xs">
+                                    an additional Vegetal Placenta in 'Cosmeceutical Form' to complement its existing <br class="hidden-sm hidden-xs">
+                                    'Supplement Form' <strong>(MFIII VP Advanced Formula Softgels).</strong> <br class="hidden-sm hidden-xs">
+                                    This New Cosmeceutical Range was researched, developed, manufactured and <br class="hidden-sm hidden-xs">
+                                    approved in Switzerland under stringent Swiss GMP (Good Manufacturing Practices), <br class="hidden-sm hidden-xs">
+                                    under the name of MFIII of Switzerland Total Skin Rejuvenation & Revitalisation Program. <br><br>
+
+                                    MFIII of Switzerland Vegetal Placenta Total Skin Rejuvenation & Revitalization Program <br class="hidden-sm hidden-xs">
+                                    (or MFIII VP TSRRP) is manufactured according to a state-of-the art, molecular fractionation <br class="hidden-sm hidden-xs">
+                                    technology process. This unique process is performed at controlled temperature with <br class="hidden-sm hidden-xs">
+                                    sophisticated ultrafiltration units, to allow for the selection of specific molecules and <br class="hidden-sm hidden-xs">
+                                    to ensure the maintenance of their potency. The manufacturing steps are performed in <br class="hidden-sm hidden-xs">
+                                    accordance with the current provisions for Swiss Good Manufacturing Practice (GMP), <br class="hidden-sm hidden-xs">
+                                    ensuring a very high quality product.
 
 
-                                    </div>
                                 </div>
                             </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <div class="bg2-head-sentance-1_1 text-center-xs">
-
-                                <div style="font-family: Century Gothic; font-size: 14px;color: #FFF;" >
-                                    <div  class="color-black-xs font-bold-xs font-xs-16 bg_color_5-xs"> 
-                                        <span class="hidden-lg hidden-md"> <img src="images/MF3_VP/icon-arrow-right_2.png" class="">&nbsp;</span>
-                                        MFIII VP TSRRP Brochure (PDF)  <br class="hidden-sm hidden-xs">
-
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <div class="bg2-head-sentance-1_2 text-center-xs">
-
-                                <div style="font-family: Century Gothic; font-size: 14px;color: #FFF;" >
-                                    <div  class="color-black-xs font-bold-xs font-xs-16 bg_color_5-xs"> 
-                                        <span class="hidden-lg hidden-md"> <img src="images/MF3_VP/icon-arrow-right_2.png" class="">&nbsp;</span>
-                                        MFIII VP TSRRP FAQ  <br class="hidden-sm hidden-xs">
-
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="hidden-md hidden-lg">&nbsp;</p>
-
-                            <div class="clearfix"></div>
                         </div>
+                        <p class="hidden-lg hidden-md">&nbsp;</p>
+                        <div class="bg2-head-sentance-1_1 text-center-xs">
+
+                            <div style="font-family: Century Gothic; font-size: 14px;color: #FFF;" >
+                                <div  class="color-black-xs font-bold-xs font-xs-16 bg_color_5-xs"> 
+                                    <span class="hidden-lg hidden-md"> <img src="images/MF3_VP/icon-arrow-right_2.png" >&nbsp;</span>
+                                    MFIII VP TSRRP Brochure (PDF)  <br class="hidden-sm hidden-xs">
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="hidden-lg hidden-md">&nbsp;</p>
+                        <div class="bg2-head-sentance-1_2 text-center-xs">
+
+                            <div style="font-family: Century Gothic; font-size: 14px;color: #FFF;" >
+                                <div  class="color-black-xs font-bold-xs font-xs-16 bg_color_5-xs"> 
+                                    <span class="hidden-lg hidden-md"> <img src="images/MF3_VP/icon-arrow-right_2.png" >&nbsp;</span>
+                                    MFIII VP TSRRP FAQ  <br class="hidden-sm hidden-xs">
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="hidden-md hidden-lg">&nbsp;</p>
+
+                        <div class="clearfix"></div>
+
                     </div>
                 </div>
 
@@ -134,7 +129,7 @@ and open the template in the editor.
                             <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
                             <div class="bg3-body-sentance-2">
 
-                                <div style="font-family: Arial;font-size: 14px;color: #000;" class="">
+                                <div style="font-family: Arial;font-size: 14px;color: #000;" >
                                     <div class="text-center-xs">
 
                                         The closely-guarded Swiss MFIII Vegetal Placenta extraction method  <br class="hidden-sm hidden-xs">
@@ -163,14 +158,14 @@ and open the template in the editor.
                     <div class="bg4 col-xs-12 ">
                         <div class="line-height-xs-24">
                             <div class="bg4-body-sentance-1 ">
-                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;" class="">
+                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;" >
                                     <strong><img src="images/MF3_VP/bg4_dash.png" class=" hidden-lg hidden-md"> MFIII of Switzerland Total Skin Rejuvenation & Revitalization Program</strong>
                                 </div>
 
                             </div>
                             <div class="margin-bottom-15-xs hidden-lg hidden-md"></div>
                             <div class="bg4-body-sentance-1_1">
-                                <div style="font-family:Arial;font-size: 14px;color: #000;" class="">
+                                <div style="font-family:Arial;font-size: 14px;color: #000;" >
                                     maintains the highest levels of bio-activeness and also has the following key features:
 
                                 </div>
@@ -225,9 +220,9 @@ and open the template in the editor.
                 <div class="row ">
                     <div class="bg5 col-xs-12">
 
-                        <div class="">
+                        <div >
                             <div class="bg5-body-sentance-1">
-                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;" class="">
+                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;" >
                                     <strong><img src="images/MF3_VP/bg4_dash.png" class=" hidden-lg hidden-md">  What are Matrix Metalloproteinases (MMPs)? </strong>
                                 </div>
                             </div>
@@ -268,28 +263,27 @@ and open the template in the editor.
                             </div>
                             <p class="hidden-md hidden-lg">&nbsp;</p>
                             <p class="hidden-md hidden-lg">&nbsp;</p>
-                            <div class="">
-                                <div class="bg5-body-sentance-3" style="">
-                                    <div style="font-family:Century Gothic;font-size: 18px;color: #000;">
-                                        <strong><img src="images/MF3_VP/bg4_dash.png" class=" hidden-lg hidden-md"> With aging, and in various other conditions</strong>
-                                    </div>
+
+                            <div class="bg5-body-sentance-3" style="">
+                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;">
+                                    <strong><img src="images/MF3_VP/bg4_dash.png" class=" hidden-lg hidden-md"> With aging, and in various other conditions</strong>
                                 </div>
-                                <div class="clearfix"></div>
-                                <div class="hidden-lg hidden-md margin-bottom-10-xs"></div>
-
-                                <div class="bg5-body-sentance-4" style="">
-                                    <div style="font-family:Arial;font-size: 14px;color: #000;">
-                                        the metabolic activity of cells (such as fibroblasts) may become disturbed. Such a disturbance may affect the equilibrium <br class="hidden-sm hidden-xs">
-                                        between production and breakdown of extra cellular matrice (Murphy and Reynolds, 1993). In these conditions, <br class="hidden-sm hidden-xs">
-                                        <strong>the balance between MMPs and inhibitors of MMPs is no longer respected. In most cases, the enzymatic <br class="hidden-sm hidden-xs">
-                                            activity of MMPs predominates. Aging and long-term sunlight exposures are all factors associated with <br class="hidden-sm hidden-xs">
-                                            increased enzymatic activity of MMPs</strong> (Fischer, 1997). This activity eventually leads to the degradation of the collagen <br class="hidden-sm hidden-xs">
-                                        fiber meshwork.
-
-                                    </div>
-                                </div>
-
                             </div>
+                            <div class="clearfix"></div>
+                            <div class="hidden-lg hidden-md margin-bottom-10-xs"></div>
+
+                            <div class="bg5-body-sentance-4" style="">
+                                <div style="font-family:Arial;font-size: 14px;color: #000;">
+                                    the metabolic activity of cells (such as fibroblasts) may become disturbed. Such a disturbance may affect the equilibrium <br class="hidden-sm hidden-xs">
+                                    between production and breakdown of extra cellular matrice (Murphy and Reynolds, 1993). In these conditions, <br class="hidden-sm hidden-xs">
+                                    <strong>the balance between MMPs and inhibitors of MMPs is no longer respected. In most cases, the enzymatic <br class="hidden-sm hidden-xs">
+                                        activity of MMPs predominates. Aging and long-term sunlight exposures are all factors associated with <br class="hidden-sm hidden-xs">
+                                        increased enzymatic activity of MMPs</strong> (Fischer, 1997). This activity eventually leads to the degradation of the collagen <br class="hidden-sm hidden-xs">
+                                    fiber meshwork.
+
+                                </div>
+                            </div>
+                              <p class="hidden-md hidden-lg">&nbsp;</p>
                             <p class="hidden-md hidden-lg">&nbsp;</p>
                             <div class="clearfix"></div>
                         </div>
@@ -302,7 +296,7 @@ and open the template in the editor.
                         <div class="padding-top-10-xs padding-bottom-10-xs">
 
                             <p class="hidden-md hidden-lg">&nbsp;</p>
-                            <div class="">
+                            <div >
 
                                 <div class="bg6-body-sentance-1">
                                     <p class="hidden-lg hidden-md">  <img src="images/MF3_VP_TSRRP/bg6-img1-xs.jpg" class="img-responsive margin-auto "> </p>
@@ -361,7 +355,7 @@ and open the template in the editor.
                             </div>
                             <p class="hidden-md hidden-lg">&nbsp;</p>
                             <div class="bg7-body-sentance-1">
-                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;" class="">
+                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;" >
                                     <strong><img src="images/MF3_VP/bg4_dash.png" class=" hidden-lg hidden-md"> What is GSH? </strong>
                                 </div>
                             </div>
@@ -402,7 +396,7 @@ and open the template in the editor.
                             </div>
                             <p class="hidden-md hidden-lg">&nbsp;</p>
                             <div class="bg7-body-sentance-3">
-                                <div style="font-family:Arial;font-size: 14px;color: #000;" class="">
+                                <div style="font-family:Arial;font-size: 14px;color: #000;" >
                                     <strong>MFIII VP TSRRP has the best available raw form of GSH</strong> and is specially blended with two other active <br class="hidden-sm hidden-xs">
                                     ingredients in a proprietary concoction, under specific temperatures and conditions, to attain optimum effectiveness <br class="hidden-sm hidden-xs">
                                     with minimum application of heat.
@@ -418,7 +412,7 @@ and open the template in the editor.
                     <div class="bg8 col-xs-12">
                         <div class="padding-all-10-xs">
                             <div class="margin-bottom-15-xs hidden-lg hidden-md"></div>
-                            <div class="">
+                            <div >
                                 <div class="bg8-body-sentance-1">
                                     <div style="font-family:Century Gothic;font-size: 18px;color: #000;">
                                         <strong><img src="images/MF3_VP/bg4_dash.png" class=" hidden-lg hidden-md">  Main Ingredients </strong>
@@ -430,7 +424,7 @@ and open the template in the editor.
                             <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
 
                             <div class="bg8-body-sentance-2">
-                                <div style="font-family:Century Gothic;font-size: 20px;color: #000;" class="">
+                                <div style="font-family:Century Gothic;font-size: 20px;color: #000;" >
                                     <img src="images/MF3_VP/bg4_subtitle.png" class="hidden-lg hidden-md">&nbsp;Fresh Vegetal Placenta <br>
                                     <img src="images/MF3_VP/bg4_subtitle.png" class="hidden-lg hidden-md">&nbsp;comprises L-Asparagine <br>
                                     <img src="images/MF3_VP/bg4_subtitle.png" class="hidden-lg hidden-md">&nbsp;L-Threonine<br>
@@ -444,7 +438,7 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <div class="bg8-body-sentance-3">
-                                <div style="font-family:Century Gothic;font-size: 20px;color: #000;" class="">
+                                <div style="font-family:Century Gothic;font-size: 20px;color: #000;" >
                                     <img src="images/MF3_VP/bg4_subtitle.png" class="hidden-lg hidden-md">&nbsp;L-Arginine <br>
                                     <img src="images/MF3_VP/bg4_subtitle.png" class="hidden-lg hidden-md">&nbsp;Sodium Chloride<br>
                                     <img src="images/MF3_VP/bg4_subtitle.png" class="hidden-lg hidden-md">&nbsp;Dextrose<br>
@@ -465,17 +459,17 @@ and open the template in the editor.
                     <div class="bg9 col-xs-12">
                         <div class="padding-top-15-xs">
                             <div class="margin-bottom-15-xs hidden-lg hidden-md"></div>
-                            <div class="">
+                         
                                 <div class="bg9-body-sentance-1">
-                                    <div style="font-family:Century Gothic;font-size: 18px;color: #000;" class="">
+                                    <div style="font-family:Century Gothic;font-size: 18px;color: #000;" >
                                         <strong><img src="images/MF3_VP/bg4_dash.png" class=" hidden-lg hidden-md"> Application </strong>
                                     </div>
                                 </div>
-                            </div>
+                      
                             <div class="clearfix"></div>
                             <div class="hidden-lg hidden-md margin-bottom-20-xs"></div>
                             <div class="bg9-body-sentance-2">
-                                <div class="" style="font-family:Arial;font-size: 14px;color: #000;">
+                                <div  style="font-family:Arial;font-size: 14px;color: #000;">
                                     <span style="font-family: Century Gothic;font-size: 15px;letter-spacing: -0.5px;"><strong>For Severe Skin Conditions</strong></span><br>
                                     We recommend 2 boxes of 10 ampoules (vials) each and suggest starting with 1 vial per week (or at least 4-5 day <br class="hidden-sm hidden-xs">
                                     intervals). Gradually increase this up to 2-3 vials per week, so that your body has time to absorb the product. <br class="hidden-sm hidden-xs">
@@ -496,7 +490,7 @@ and open the template in the editor.
                     <p class="hidden-md hidden-lg">&nbsp;</p>
                     <div class="col-xs-12">
                         <div class="bg9-body-sentance-3">
-                            <div class="" style="font-family:Arial;font-size: 14px;color: #000;">
+                            <div  style="font-family:Arial;font-size: 14px;color: #000;">
                                 <b>Please note:</b> Due to the potency of the <strong>MFIII VP TSRRP</strong> formula, it does have a strong smell. <br class="hidden-sm hidden-xs">
                                 Therefore, we recommend applying it before going to sleep. Unused, open ampoules should <br class="hidden-sm hidden-xs">
                                 be sealed with cling film and stored in a cool area. The MFIII VP TSRRP should be used <br class="hidden-sm hidden-xs">
@@ -516,7 +510,7 @@ and open the template in the editor.
                         <div class="padding-top-20-xs">
 
                             <div class="bg10-body-sentance-1">
-                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;" class="">
+                                <div style="font-family:Century Gothic;font-size: 18px;color: #000;" >
                                     <strong><img src="images/MF3_VP/bg4_dash.png" class=" hidden-lg hidden-md"> Certification </strong>
                                 </div>
                             </div>
@@ -528,7 +522,7 @@ and open the template in the editor.
                             <div class="col-xs-4"> <p class="hidden-lg hidden-md"><img src="images/MF3_VP_TSRRP/bg10-img3-xs.png" class="img-responsive margin-auto"></p></div>
 
                             <div class="bg10-body-sentance-2">
-                                <div class="" style="font-family:Arial;font-size: 11px;color: #000;">
+                                <div  style="font-family:Arial;font-size: 11px;color: #000;">
                                     Swiss GMP (Good Manufacturing Practice) <br>
                                     Swiss medic Certification No. 06-1258<br><br>
 
@@ -539,7 +533,7 @@ and open the template in the editor.
                             </div>
                             <p class="hidden-md hidden-lg">&nbsp;</p>
                             <div class="bg10-body-sentance-3">
-                                <div class="" style="font-family:Arial;font-size: 12px;color: #000;">
+                                <div  style="font-family:Arial;font-size: 12px;color: #000;">
                                     MFIII VP TSRRP is originally manufactured and packed in Switzerland, with full conformity to international stringent standards of GMP <br>
                                     (Good Manufacturing Practice) and was tested and approved by Swissmedic and obtained the Swiss Public Health Authorities approval.
 
@@ -1698,7 +1692,7 @@ and open the template in the editor.
 
                 }
                 .bg6-body-sentance-2{
-                       margin: -386px 0px 0 376px;
+                    margin: -386px 0px 0 376px;
                     line-height: 22px;
                     letter-spacing: -0.7px;
                     float: left;
@@ -2099,16 +2093,7 @@ and open the template in the editor.
 
                 }
 
-
-
-
-
-
-
             }
-
-
-
 
         </style>
 

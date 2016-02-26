@@ -22,24 +22,23 @@ and open the template in the editor.
                     <div class="row">
                         <div class="col-xs-12 padding-bottom-3em-xs padding-top-2em-xs bg1-xs line-height-xs-36">
 
-                            <div class="bg_color-white-low_light padding-top-10-xs bg1-head-sentance-1 font-bold-xs text-center-xs" style="">
+                            <div class="bg_color-white-low_light padding-top-10-xs bg1-head-sentance-1 text-center-xs" style="">
                                 <div style="font-family: Century Schoolbook;font-size: 72px;color: #0e0e0e; letter-spacing: 1.4px;" class="uppercase"> 
                                     <div class="font-xs-36">
                                         Filorga   
                                     </div>
-
                                 </div>
                             </div>
                             <br class="hidden-sm hidden-xs">
-                            <div class="bg1-head-sentance-2 "> 
-                                <div class="bg_color-white-low_light padding-bottom-10-xs uppercase text-center-xs" style="font-family:Century Gothic;font-size: 44px;color: #0e0e0e;letter-spacing: 1.4px;">
+                            <div class="bg1-head-sentance-2"> 
+                                <div class="bg_color-white-low_light box-shadow-xs padding-bottom-10-xs uppercase text-center-xs" style="font-family:Century Gothic;font-size: 44px;color: #0e0e0e;letter-spacing: 1.4px;">
                                     <div class="font-xs-30 font-italic-xs ">
                                         MESO-NeedLing
                                     </div>
                                 </div> 
                             </div>
                             <div class="margin-bottom-10-xs"></div>
-                            <div class="bg1-head-sentance-3">
+                            <div class="bg1-head-sentance-3 padding-top-2em-xs">
                                 <div class="text-center-xs" style="font-family: Century Gothic;font-size: 54px;color: #990619;">
                                     <div class="font-xs-26"> 
                                         Accelerates
@@ -318,10 +317,9 @@ and open the template in the editor.
 
                 </div>
 
-                <p class="hidden-md hidden-lg">&nbsp;</p>
                 <div class="bg5">
                     <div class="row">
-                        <div class="bg4-xs padding-top-2em-xs padding-bottom-3em-xs col-xs-12">
+                        <div class="bg4-xs padding-top-1em-xs padding-bottom-2em-xs col-xs-12">
                             <div class="bg5-body-sentance-1">
                                 <div style="font-family:Arial;font-size: 12px;color: #000;">
                                     <div style="font-family: Century Schoolbook;font-size: 36px;"> 
@@ -338,12 +336,12 @@ and open the template in the editor.
                                         <strong>   Recommendations and Tips for Meso-Needling </strong><br>
                                     </div>
                                     -  It is possible to carry out a peeling 1 week before the 1st  <br class="hidden-sm hidden-xs">
-                                    meso-needling session, to refine the epidermis. Do not combine <br class="hidden-sm hidden-xs">
-                                    peeling and meso-needling in a single session.<br class="">
+                                    <span class="hidden-sm hidden-xs">&nbsp;&nbsp;</span>meso-needling session, to refine the epidermis. Do not combine <br class="hidden-sm hidden-xs">
+                                    <span class="hidden-sm hidden-xs">&nbsp;&nbsp;</span>peeling and meso-needling in a single session.<br class="">
                                     -  Recommend on SPF50+ screen for the entire duration of <br class="hidden-sm hidden-xs">
-                                    the treatment.<br>
+                                    <span class="hidden-sm hidden-xs">&nbsp;&nbsp;</span>the treatment.<br>
                                     -  The inner side of the arms can also be treated. <br class="hidden-sm hidden-xs">
-                                    Do not apply on the hands.<br><br>
+                                    <span class="hidden-sm hidden-xs">&nbsp;&nbsp;</span>Do not apply on the hands.<br><br>
 
 
                                     <div style="font-family: Century Gothic;font-size: 18px;"> 

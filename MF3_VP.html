@@ -11,17 +11,15 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--  <link rel="stylesheet" href="css/bootstrap.min.css"> -->
 
-
+           <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/bootstrap-yeti.min.css">
 
     </head>
     <body>
         <div class="container">
             <div style="max-width: 800px !important;">
-
                 <div class="row ">
-                    <div class="bg1 col-xs-12">
-
+                    <div class="bg1 col-xs-12 padding-bottom-2em-xs box-shadow-xs">
                         <p class="hidden-md hidden-lg">&nbsp;</p>
                         <p class="hidden-md hidden-lg"><img src="images/MF3_VP/pd1.png" class="img-responsive margin-auto"></p>
                         <div class="bg1-head-sentance-1 text-center-xs " style="">
@@ -62,17 +60,8 @@ and open the template in the editor.
                             </div>
                         </div> 
                         <p class="hidden-md hidden-lg">&nbsp;</p>
-
-
-
                     </div>
-
                 </div>
-
-
-
-
-
                 <div class="row">
                     <div class="bg2 padding-bottom-3em-xs padding-top-2em-xs col-xs-12">
 
@@ -649,7 +638,7 @@ and open the template in the editor.
                                     We recommend a 6-12 month treatment, in order reach maximum effect. <br class="hidden-sm hidden-xs">
                                     Even after 6-12 months, this product may be taken as an effective vitamin supplement.<br><br>
 
-                                    Note: The effects of this product may be diminished with heavy smoking or drinking.  <br class="hidden-sm hidden-xs">
+                                    <b>Note:</b> The effects of this product may be diminished with heavy smoking or drinking.  <br class="hidden-sm hidden-xs">
                                 </div>
                             </div>
                             <div class="margin-bottom-15-xs hidden-lg hidden-md"></div>
@@ -673,7 +662,7 @@ and open the template in the editor.
                                     <img src="images/MF3_VP/cer1.jpg" class="img-responsive margin-auto"> 
                                 </p>
 
-                                <div class="text-center-xs" style="font-family:Century Gothic;font-size: 14px;color: #000;">
+                                <div class="text-center-xs text-shadow-low" style="font-family:Century Gothic;font-size: 14px;color: #000;">
                                     Swiss Norarisation Authentification and Legislation <br>
                                     Swiss Public Health Authorities Approval No: AN-03/20’004 <br>
                                     Swiss Certificate Of GMP Compliance<br>
@@ -681,7 +670,7 @@ and open the template in the editor.
                                 </div>
                             </div>
                             <p class="hidden-lg hidden-md">&nbsp;</p>
-                            <div class="bg9-body-sentance-5">
+                            <div class="bg9-body-sentance-5  text-shadow-low">
                                 <p class="hidden-lg hidden-md">
                                     <img src="images/MF3_VP/cer2.jpg" class="img-responsive margin-auto"> 
                                 </p>
@@ -2128,16 +2117,7 @@ and open the template in the editor.
 
                 }
 
-
-
-
-
-
-
             }
-
-
-
 
         </style>
     </body>

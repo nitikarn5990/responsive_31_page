@@ -16,7 +16,17 @@
 .text-shadow-low{
     text-shadow: 0px 0px 0px rgba(150, 150, 150, 1);
 }
+.text-shadow-black-hi{
+    text-shadow: 1px 0px 0px rgba(0, 0, 0, 1);
+}
+.border-top_bottom-xs{
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
 
+.text-shadow-white-low{
+    text-shadow: 3px 3px 17px rgba(255, 255, 255, 1);
+}
 .bg_color-blue
 {
     background-color: rgba(119, 189, 228, 0.84);
@@ -47,6 +57,13 @@
     -webkit-box-shadow:   0px 9px 17px -13px rgba(0, 0, 0, 0.37);
     -moz-box-shadow:   0px 9px 17px -13px rgba(0, 0, 0, 0.37);
     box-shadow:   0px 9px 17px -13px rgba(0, 0, 0, 0.37);
+    z-index: 1;
+}
+.box-shadow-2-xs{
+
+    -webkit-box-shadow:   0px 9px 17px -13px rgba(0, 0, 0, 0.8);
+    -moz-box-shadow:   0px 9px 17px -13px rgba(0, 0, 0, 0.8);
+    box-shadow:   0px 9px 17px -13px rgba(0, 0, 0, 0.8);
     z-index: 1;
 }
 .box-shadow-reverse-xs{
@@ -256,6 +273,11 @@
     padding: 15px;
 }
 @media(min-width:992px){
+    .border-top_bottom-xs{
+        border-bottom: inherit;
+        border-top:  inherit;
+    }
+
     .padding-all-15{
         padding: inherit;
     }
@@ -265,7 +287,7 @@
     .z-index-1-xs, .z-index-2-xs, .z-index-3-xs ,.z-index-4-xs{
         z-index: inherit;
     }
-    .box-shadow-xs, .box-shadow-reverse-xs{
+    .box-shadow-xs, .box-shadow-2-xs,.box-shadow-reverse-xs{
 
         -webkit-box-shadow:   inherit;
         -moz-box-shadow:   inherit;
